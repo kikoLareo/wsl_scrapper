@@ -81,8 +81,8 @@ class WSLSurferFocused:
     def get_surfers(self) -> List[Dict]:
         """Obtener todos los surfistas de los países configurados"""
         logger.info("Obteniendo listado de surfistas...")
-        # Los parámetros de país se envían como arrays sin índice: countryIds[]=<id>
-        query = "&".join([f"countryIds%5B%5D={cid}" for cid in self.country_ids])
+
+        query = "&".join([f"countryIds%5B{i}%5D={cid}" for i, cid in enumerate(self.country_ids)])
         url = f"{self.base_url}/athletes?{query}&rnd={int(time.time() * 1000)}"
 
         try:
