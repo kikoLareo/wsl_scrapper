@@ -31,6 +31,9 @@ El sistema está configurado para extraer datos de surfistas españoles incluyen
 pip install -r requirements.txt
 ```
 
+> **Nota:** las dependencias son de Python, por lo que debe usarse `pip`.
+> Comandos como `npm install requirements.txt` fallarán.
+
 ## ⚙️ Configuración
 
 El sistema incluye varios componentes especializados:
