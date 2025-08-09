@@ -1,0 +1,53 @@
+{
+  "surfer_id": "2034",
+  "name": "Lore Eizagirre",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "283",
+      "event_name": "Swatch Girls Pro France",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 4,
+          "total_score": 2.35,
+          "wave_scores": [
+            0.3,
+            2.05
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "288",
+      "event_name": "Estoril Surf and Music Billabong Girls 2011",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 4,
+          "total_score": 4.65,
+          "wave_scores": [
+            2.3,
+            2.35
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

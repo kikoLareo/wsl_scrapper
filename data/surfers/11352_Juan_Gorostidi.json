@@ -1,0 +1,201 @@
+{
+  "surfer_id": "11352",
+  "name": "Juan Gorostidi",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1817",
+      "event_name": "Caparica Junior Pro",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 4,
+          "total_score": 7.84,
+          "wave_scores": [
+            3.27,
+            0.5,
+            4.57,
+            2.63
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 2,
+          "total_score": 8.7,
+          "wave_scores": [
+            7.33,
+            1.37,
+            1.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1882",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 4,
+          "total_score": 5.87,
+          "wave_scores": [
+            1.9,
+            2.4,
+            3.17,
+            2.7
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 2,
+          "total_score": 8.06,
+          "wave_scores": [
+            3.33,
+            3.07,
+            1.23,
+            4.73
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 2,
+          "total_score": 10.0,
+          "wave_scores": [
+            3.5,
+            4.17,
+            3.0,
+            1.0,
+            1.2,
+            5.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 10.96,
+          "wave_scores": [
+            5.73,
+            1.0,
+            1.93,
+            2.67,
+            5.23
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 2,
+          "total_score": 12.67,
+          "wave_scores": [
+            2.33,
+            5.5,
+            4.1,
+            7.17
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1905",
+      "event_name": "Junior Pro Sopela",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 4,
+          "total_score": 9.33,
+          "wave_scores": [
+            6.0,
+            3.33,
+            2.4
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 11.9,
+          "wave_scores": [
+            5.33,
+            6.23,
+            0.5,
+            5.67
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 9.97,
+          "wave_scores": [
+            1.5,
+            2.17,
+            1.3,
+            4.23,
+            2.17,
+            1.0,
+            2.1,
+            2.47,
+            4.77,
+            5.2
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 1,
+          "total_score": 9.66,
+          "wave_scores": [
+            3.33,
+            6.33,
+            0.83,
+            3.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

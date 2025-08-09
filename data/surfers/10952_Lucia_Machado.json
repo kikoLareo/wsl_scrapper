@@ -1,0 +1,142 @@
+{
+  "surfer_id": "10952",
+  "name": "Lucia Machado",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "4812",
+      "event_name": "Pro Taghazout Bay",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_50579",
+          "round_name": "Round of 32 - Heat 8",
+          "position": 4,
+          "total_score": 9.3,
+          "wave_scores": [
+            3.67,
+            5.63,
+            0.53,
+            0.27
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4934",
+      "event_name": "Boardmasters Open 2025",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_81658",
+          "round_name": "Round of 32 - Heat 4",
+          "position": 4,
+          "total_score": 5.66,
+          "wave_scores": [
+            2.83,
+            0.77,
+            0.93,
+            2.83,
+            1.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4573",
+      "event_name": "Morocco Mall Junior Pro Casablanca",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_29385",
+          "round_name": "Semifinals - Heat 2",
+          "position": 3,
+          "total_score": 11.46,
+          "wave_scores": [
+            6.33,
+            1.7,
+            4.73,
+            4.43,
+            0.5,
+            5.13,
+            4.3
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8992",
+          "round_name": "Quarterfinals - Heat 3",
+          "position": 1,
+          "total_score": 12.74,
+          "wave_scores": [
+            6.67,
+            1.0,
+            0.5,
+            6.07,
+            0.6,
+            1.13
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_63706",
+          "round_name": "Round of 32 - Heat 7",
+          "position": 2,
+          "total_score": 13.16,
+          "wave_scores": [
+            5.83,
+            1.1,
+            7.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4656",
+      "event_name": "Cabreiroá Junior Pro Razo",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_23155",
+          "round_name": "Round of 32 - Heat 2",
+          "position": 3,
+          "total_score": 8.3,
+          "wave_scores": [
+            0.5,
+            1.1,
+            1.13,
+            3.57,
+            0.5,
+            4.73
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

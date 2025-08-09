@@ -1,0 +1,80 @@
+{
+  "surfer_id": "588",
+  "name": "Aritz Aranburu",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1920",
+      "event_name": "Billabong Pro Tahiti",
+      "location": "Unknown",
+      "tour_type": "MCT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_63383",
+          "round_name": "Round 2",
+          "position": 2,
+          "total_score": 12.1,
+          "wave_scores": [
+            3.5,
+            1.17,
+            8.6,
+            0.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_63362",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 9.37,
+          "wave_scores": [
+            4.2,
+            0.5,
+            5.17
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "3913",
+      "event_name": "EDP Vissla Pro Ericeira",
+      "location": "Unknown",
+      "tour_type": "MCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_91188",
+          "round_name": "Round of 96 - Heat 1",
+          "position": 3,
+          "total_score": 9.6,
+          "wave_scores": [
+            3.5,
+            4.43,
+            5.17,
+            4.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1059",
+      "event_name": "Punta Galea Challenge",
+      "location": "Unknown",
+      "tour_type": "MBWT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    }
+  ]
+}

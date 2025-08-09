@@ -1,0 +1,70 @@
+{
+  "surfer_id": "10991",
+  "name": "Laura De Los Reyes",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "3270",
+      "event_name": "Cabreiroá Pro Las Americas",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_89996",
+          "round_name": "Round 1 - Heat 2",
+          "position": 4,
+          "total_score": 4.16,
+          "wave_scores": [
+            0.57,
+            2.93,
+            1.03,
+            1.23
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "3695",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_23716",
+          "round_name": "Round of 32 - Heat 5",
+          "position": 3,
+          "total_score": 8.7,
+          "wave_scores": [
+            1.17,
+            2.5,
+            0.83,
+            6.2
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_60639",
+          "round_name": "Round of 40 - Heat 3",
+          "position": 1,
+          "total_score": 10.17,
+          "wave_scores": [
+            3.67,
+            4.67,
+            5.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

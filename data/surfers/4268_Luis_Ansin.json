@@ -1,0 +1,84 @@
+{
+  "surfer_id": "4268",
+  "name": "Luis Ansin",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1280",
+      "event_name": "Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 5.4,
+          "wave_scores": [
+            1.07,
+            1.2,
+            2.23,
+            0.8,
+            3.17
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1041",
+      "event_name": "Espinho Surf Destination",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 6.86,
+          "wave_scores": [
+            2.0,
+            3.13,
+            3.73,
+            1.2,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1002",
+      "event_name": "Sopela Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 8.47,
+          "wave_scores": [
+            0.77,
+            4.1,
+            4.37,
+            3.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

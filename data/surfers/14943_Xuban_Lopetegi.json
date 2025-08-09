@@ -1,0 +1,52 @@
+{
+  "surfer_id": "14943",
+  "name": "Xuban Lopetegi",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "3208",
+      "event_name": "Quiksilver Junior Pro 40",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_42960",
+          "round_name": "Round 2 - Heat 12",
+          "position": 3,
+          "total_score": 11.46,
+          "wave_scores": [
+            2.17,
+            1.0,
+            1.67,
+            1.0,
+            4.13,
+            1.07,
+            5.23,
+            6.23
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_65257",
+          "round_name": "Round 1 - Heat 12",
+          "position": 1,
+          "total_score": 8.8,
+          "wave_scores": [
+            4.07,
+            2.57,
+            1.0,
+            0.87,
+            4.73,
+            1.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

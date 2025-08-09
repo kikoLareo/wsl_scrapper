@@ -1,0 +1,238 @@
+{
+  "surfer_id": "685",
+  "name": "Loiola Canales Bilbao",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "581",
+      "event_name": "Swatch Girls Pro France",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 4,
+          "total_score": 1.0,
+          "wave_scores": [
+            0.5,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "552",
+      "event_name": "Sooruz Royan Atlantique Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 3,
+          "total_score": 5.1,
+          "wave_scores": [
+            2.67,
+            2.43
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 1,
+          "total_score": 7.0,
+          "wave_scores": [
+            2.83,
+            4.17
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "564",
+      "event_name": "Sopela O'Neill Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 3,
+          "total_score": 3.07,
+          "wave_scores": [
+            1.0,
+            2.07
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 7.2,
+          "wave_scores": [
+            4.1,
+            3.1
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "567",
+      "event_name": "Gijon Pro Junior Women",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 4,
+          "total_score": 6.43,
+          "wave_scores": [
+            3.5,
+            2.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 1,
+          "total_score": 10.07,
+          "wave_scores": [
+            6.0,
+            4.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "571",
+      "event_name": "Airwalk Lacanau Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 4.8,
+          "wave_scores": [
+            1.87,
+            2.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "580",
+      "event_name": "Swatch Girls Pro France Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 3,
+          "total_score": 7.0,
+          "wave_scores": [
+            3.75,
+            3.25
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "586",
+      "event_name": "Gran Canaria Santa Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_58739",
+          "round_name": "Semifinals",
+          "position": 4,
+          "total_score": 6.0,
+          "wave_scores": [
+            2.9,
+            3.1
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 2,
+          "total_score": 5.17,
+          "wave_scores": [
+            2.67,
+            2.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "591",
+      "event_name": "Surf Rias Baixas Pro",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 4,
+          "total_score": 0.37,
+          "wave_scores": [
+            0.37
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

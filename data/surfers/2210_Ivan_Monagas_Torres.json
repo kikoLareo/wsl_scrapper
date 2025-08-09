@@ -1,0 +1,42 @@
+{
+  "surfer_id": "2210",
+  "name": "Ivan Monagas Torres",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "341",
+      "event_name": "Islas Canarias Ocean and Earth Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_73727",
+          "round_name": "Round of 32",
+          "position": 4,
+          "total_score": 4.25,
+          "wave_scores": [
+            2.1,
+            2.15
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 2,
+          "total_score": 10.15,
+          "wave_scores": [
+            3.0,
+            7.15
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

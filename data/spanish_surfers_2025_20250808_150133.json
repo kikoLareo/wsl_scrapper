@@ -1,0 +1,582 @@
+{
+  "timestamp": "20250808_150133",
+  "total_surfers": 96,
+  "surfers": [
+    {
+      "surfer_id": "4711",
+      "name": "Adrian Lopez Pena",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "9519",
+      "name": "Airam De Juan Pérez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "756",
+      "name": "Aitor Cabandibar",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "19221",
+      "name": "Alaitz Castro Cabada",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15605",
+      "name": "Alba Mediavilla",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "4714",
+      "name": "Alba Rodriguez Lloves",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "7547",
+      "name": "Alberto Fernandez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "7525",
+      "name": "Alberto Martinez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "16092",
+      "name": "Aldo Garcia",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "13053",
+      "name": "Alejandra Balboa",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "7534",
+      "name": "Alejandro Martinez Barona Jordan",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "16123",
+      "name": "Alejandro Montañés Gallardo",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15943",
+      "name": "Alejandro Sancho",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15942",
+      "name": "Alejandro Sancho",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "20547",
+      "name": "Alejo Ferreiro",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15930",
+      "name": "Alejo Freitas",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "19212",
+      "name": "Alejo Linares",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "19124",
+      "name": "Alejo Valido",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "17963",
+      "name": "Alejo Valido Segura",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "3944",
+      "name": "Alex Bauduin",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "14876",
+      "name": "Alex Petit",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "14376",
+      "name": "Alex Vilalta",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "7116",
+      "name": "Alex Vilalta Espelt",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "2221",
+      "name": "Alexandro Diaz Luque",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15602",
+      "name": "Alfonso Suarez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "19228",
+      "name": "Alfonso Zamora",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15695",
+      "name": "Ali El Mghari",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "14576",
+      "name": "Alicia Delgado",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "13922",
+      "name": "Alida Gonzalez Garcia",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "16083",
+      "name": "Àlvar Soro Duran",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "13293",
+      "name": "Alvaro Amor",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "20000",
+      "name": "Alvaro Casanova Del Cerro",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15745",
+      "name": "Alvaro De La Fuente",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "3768",
+      "name": "Alvaro Fernandez Garcia",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "8200",
+      "name": "Alvaro Frojan Corral",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "762",
+      "name": "Alvaro Niglierina",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "4966",
+      "name": "Amaya Ruiz",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "20546",
+      "name": "Ana Piñón",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "9988",
+      "name": "Ander Idarranga",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15129",
+      "name": "Ander Ugarte Jauregui",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15526",
+      "name": "Andrea Plantada",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "2649",
+      "name": "Andy Criere",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "19128",
+      "name": "Ane Loreiro Cubero",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "11436",
+      "name": "Angela Ayesa",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "13944",
+      "name": "Anne Calderon",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "7467",
+      "name": "Antonio Fernandez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "7373",
+      "name": "Antonio Gamero",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "8216",
+      "name": "Ariano Marques",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "588",
+      "name": "Aritz Aranburu",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "9287",
+      "name": "Arnau Riera",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "7327",
+      "name": "Asier Iriondo",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "3773",
+      "name": "Asier Ruiz De Gauna",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "9295",
+      "name": "Belen Botin",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15748",
+      "name": "Berta Gáñez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "12628",
+      "name": "Bianca Tye",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "4987",
+      "name": "Bilbao Batirtze",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "4713",
+      "name": "Blanca Olivares",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "4710",
+      "name": "Borja Crespan",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "10494",
+      "name": "Borja Cueto Cuesta",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "7196",
+      "name": "Borja Malvar",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "4464",
+      "name": "Bosco Ruiz Imbert",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "19476",
+      "name": "Bruno Lucas Cocco",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "4993",
+      "name": "Candela Azurza",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "2903",
+      "name": "Carla Alvarez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "20184",
+      "name": "Carla Mendez Acebo",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "18529",
+      "name": "Carla Morera De La Vall",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "9523",
+      "name": "Carla Suárez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "7169",
+      "name": "Carlos Fernandez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "1634",
+      "name": "Carlos Marques",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15961",
+      "name": "Carlos Quintero",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "4708",
+      "name": "Carlos vazquez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "14548",
+      "name": "Carlota Barreras",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "14552",
+      "name": "Carlota Barreras",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "13945",
+      "name": "Carlota Barreras Tapias",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15092",
+      "name": "Carlota Jauregui",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15568",
+      "name": "Carmen Garay Irigoras",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "13943",
+      "name": "Carmen Mier Mallada",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "8054",
+      "name": "Casandra Castano",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "13522",
+      "name": "Casandra Castanos",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15915",
+      "name": "Catalina Diaz Gomez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "1642",
+      "name": "Chris Jimenez Garcia",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "2235",
+      "name": "Christian Jimenez",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "16067",
+      "name": "Claudia Prieto Sapena",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15947",
+      "name": "Conor Donegan Santos",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "19376",
+      "name": "Cristina Collazo Castiñeira",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "18702",
+      "name": "Cristina De Llano Ozores",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "16068",
+      "name": "Cristina Iglesias",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "4712",
+      "name": "Cristina Rey",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "16079",
+      "name": "Cristóbal Llera",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "5890",
+      "name": "Cuco Molares",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "17263",
+      "name": "Damian Moro Ceballos",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "20252",
+      "name": "Danel Irisarri",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "15449",
+      "name": "Danel Lajas",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "5899",
+      "name": "Dani Alvite",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "9351",
+      "name": "Dani Aznar",
+      "country": "Spain",
+      "events_2025": []
+    },
+    {
+      "surfer_id": "5900",
+      "name": "Dani Garcia",
+      "country": "Spain",
+      "events_2025": []
+    }
+  ]
+}

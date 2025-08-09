@@ -1,0 +1,554 @@
+{
+  "surfer_id": "2646",
+  "name": "Natxo Gonzalez",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "2679",
+      "event_name": "Pro Zarautz pres. by Oakley",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_51876",
+          "round_name": "Round 4 - Heat 7",
+          "position": 3,
+          "total_score": 10.17,
+          "wave_scores": [
+            1.07,
+            5.47,
+            4.7,
+            1.13,
+            2.7
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_49944",
+          "round_name": "Round 3 - Heat 16",
+          "position": 2,
+          "total_score": 14.16,
+          "wave_scores": [
+            7.33,
+            6.57,
+            6.83,
+            0.6
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_29063",
+          "round_name": "Round 2 - Heat 15",
+          "position": 2,
+          "total_score": 9.33,
+          "wave_scores": [
+            4.33,
+            5.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2886",
+      "event_name": "Nazare Challenge",
+      "location": "Unknown",
+      "tour_type": "MBWT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_73274",
+          "round_name": "Final",
+          "position": 3,
+          "total_score": 22.71,
+          "wave_scores": [
+            6.37,
+            4.6,
+            4.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_73273",
+          "round_name": "Semifinals - Heat 2",
+          "position": 2,
+          "total_score": 26.03,
+          "wave_scores": [
+            6.03,
+            5.03,
+            5.4
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_73270",
+          "round_name": "Round 1 - Heat 3",
+          "position": 3,
+          "total_score": 16.26,
+          "wave_scores": [
+            4.6
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2887",
+      "event_name": "Jaws Challenge",
+      "location": "Unknown",
+      "tour_type": "MBWT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_73548",
+          "round_name": "Round 1 - Heat 2",
+          "position": 4,
+          "total_score": 11.53,
+          "wave_scores": [
+            3.13,
+            0.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1211",
+      "event_name": "Pipeline Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92125",
+          "round_name": "Final",
+          "position": 3,
+          "total_score": 8.6,
+          "wave_scores": [
+            1.5,
+            1.5,
+            1.0,
+            2.65,
+            5.5,
+            3.1,
+            0.95,
+            2.75
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_58739",
+          "round_name": "Semifinals",
+          "position": 2,
+          "total_score": 7.3,
+          "wave_scores": [
+            0.5,
+            2.3,
+            5.0,
+            1.25
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 1,
+          "total_score": 11.0,
+          "wave_scores": [
+            7.0,
+            4.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 15.15,
+          "wave_scores": [
+            0.9,
+            8.0,
+            7.15
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 1,
+          "total_score": 10.25,
+          "wave_scores": [
+            4.75,
+            5.5,
+            2.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1218",
+      "event_name": "Caparica Primavera Surf Fest",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92125",
+          "round_name": "Final",
+          "position": 2,
+          "total_score": 14.47,
+          "wave_scores": [
+            6.3,
+            8.17,
+            5.9
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_58739",
+          "round_name": "Semifinals",
+          "position": 1,
+          "total_score": 16.6,
+          "wave_scores": [
+            7.0,
+            8.67,
+            4.83,
+            5.97,
+            7.93
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 1,
+          "total_score": 14.0,
+          "wave_scores": [
+            2.83,
+            5.67,
+            4.13,
+            8.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 2,
+          "total_score": 8.84,
+          "wave_scores": [
+            3.17,
+            1.1,
+            5.67,
+            0.73,
+            0.57,
+            2.57
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 17.06,
+          "wave_scores": [
+            9.33,
+            7.73,
+            0.67,
+            3.2,
+            3.5,
+            1.2
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 11.23,
+          "wave_scores": [
+            7.83,
+            1.5,
+            3.4,
+            0.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1239",
+      "event_name": "Prozis Pro Junior Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92125",
+          "round_name": "Final",
+          "position": 1,
+          "total_score": 12.9,
+          "wave_scores": [
+            4.23,
+            5.5,
+            6.17,
+            6.73,
+            3.6,
+            4.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_58739",
+          "round_name": "Semifinals",
+          "position": 1,
+          "total_score": 14.83,
+          "wave_scores": [
+            6.0,
+            8.0,
+            6.83,
+            4.23,
+            1.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 1,
+          "total_score": 14.5,
+          "wave_scores": [
+            0.5,
+            8.67,
+            1.6,
+            5.83,
+            2.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 1,
+          "total_score": 13.77,
+          "wave_scores": [
+            2.33,
+            0.5,
+            5.27,
+            6.5,
+            7.27,
+            5.53
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 13.2,
+          "wave_scores": [
+            7.5,
+            4.5,
+            4.17,
+            5.7,
+            4.73
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 16.76,
+          "wave_scores": [
+            9.33,
+            7.43,
+            4.0,
+            1.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1254",
+      "event_name": "Peña Txuri Junior Pro Sopela",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_87673",
+          "round_name": "Round 5",
+          "position": 4,
+          "total_score": 9.6,
+          "wave_scores": [
+            1.07,
+            5.6,
+            4.0,
+            2.23,
+            1.83,
+            0.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 2,
+          "total_score": 8.17,
+          "wave_scores": [
+            1.0,
+            0.33,
+            0.67,
+            7.17
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 12.0,
+          "wave_scores": [
+            1.47,
+            6.33,
+            4.5,
+            5.67,
+            0.37,
+            0.37
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1268",
+      "event_name": "Airwalk Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 3,
+          "total_score": 7.67,
+          "wave_scores": [
+            0.67,
+            6.5,
+            0.47,
+            1.17,
+            0.6
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 2,
+          "total_score": 12.87,
+          "wave_scores": [
+            0.37,
+            0.4,
+            6.17,
+            0.5,
+            2.1,
+            4.23,
+            6.7
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1288",
+      "event_name": "Lanzarote Teguise 2015 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 13.5,
+          "wave_scores": [
+            7.17,
+            2.83,
+            5.0,
+            6.33,
+            5.3
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 14.0,
+          "wave_scores": [
+            0.5,
+            6.5,
+            0.3,
+            7.5,
+            3.3,
+            3.6
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

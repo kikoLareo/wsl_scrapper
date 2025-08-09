@@ -1,0 +1,157 @@
+{
+  "surfer_id": "18636",
+  "name": "Eder Fuentes",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "4913",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8992",
+          "round_name": "Quarterfinals - Heat 3",
+          "position": 4,
+          "total_score": 9.9,
+          "wave_scores": [
+            3.33,
+            3.33,
+            5.03,
+            4.87
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_63706",
+          "round_name": "Round of 32 - Heat 7",
+          "position": 2,
+          "total_score": 7.57,
+          "wave_scores": [
+            0.33,
+            2.43,
+            3.4,
+            3.2,
+            0.93,
+            4.17
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_81191",
+          "round_name": "Round of 48 - Heat 7",
+          "position": 1,
+          "total_score": 12.83,
+          "wave_scores": [
+            4.33,
+            7.0,
+            1.0,
+            2.4,
+            5.83,
+            1.03,
+            3.67
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_7398",
+          "round_name": "Round of 64 - Heat 7",
+          "position": 1,
+          "total_score": 11.33,
+          "wave_scores": [
+            5.5,
+            1.0,
+            3.17,
+            4.73,
+            1.1,
+            4.43,
+            5.83,
+            2.53
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "5058",
+      "event_name": "Quiksilver Junior Pro Capbreton",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_54741",
+          "round_name": "Quarterfinals - Heat 4",
+          "position": 4,
+          "total_score": 8.13,
+          "wave_scores": [
+            2.33,
+            0.6,
+            4.33,
+            2.0,
+            3.8,
+            3.17,
+            2.2,
+            3.7
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_46665",
+          "round_name": "Round of 32 - Heat 6",
+          "position": 2,
+          "total_score": 9.63,
+          "wave_scores": [
+            2.5,
+            5.5,
+            2.87,
+            2.63,
+            4.13,
+            0.83,
+            2.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_36971",
+          "round_name": "Round of 48 - Heat 5",
+          "position": 2,
+          "total_score": 7.87,
+          "wave_scores": [
+            0.83,
+            3.87,
+            4.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_3158",
+          "round_name": "Round of 64 - Heat 5",
+          "position": 1,
+          "total_score": 8.84,
+          "wave_scores": [
+            5.57,
+            2.33,
+            3.27,
+            1.17,
+            0.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

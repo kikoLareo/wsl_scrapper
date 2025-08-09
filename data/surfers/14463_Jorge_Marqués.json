@@ -1,0 +1,35 @@
+{
+  "surfer_id": "14463",
+  "name": "Jorge Marqués",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "2942",
+      "event_name": "Cabreiroá Las Americas Pro Tenerife",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_40054",
+          "round_name": "Round 1 - Heat 5",
+          "position": 3,
+          "total_score": 4.4,
+          "wave_scores": [
+            0.83,
+            0.73,
+            2.4,
+            1.9,
+            0.5,
+            1.73,
+            2.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

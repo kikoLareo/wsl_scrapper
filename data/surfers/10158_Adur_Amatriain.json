@@ -1,0 +1,346 @@
+{
+  "surfer_id": "10158",
+  "name": "Adur Amatriain",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "4889",
+      "event_name": "Burton Automotive Newcastle Surfest presented by Bonsoy",
+      "location": "Unknown",
+      "tour_type": "MCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_106821",
+          "round_name": "Round of 64 - Heat 8",
+          "position": 3,
+          "total_score": 11.3,
+          "wave_scores": [
+            4.9,
+            6.4,
+            3.5,
+            0.1
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_106809",
+          "round_name": "Round of 80 - Heat 4",
+          "position": 2,
+          "total_score": 10.04,
+          "wave_scores": [
+            5.67,
+            0.67,
+            3.6,
+            4.37
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4921",
+      "event_name": "Ballito Pro presented by O'Neill",
+      "location": "Unknown",
+      "tour_type": "MCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_107527",
+          "round_name": "Round of 64 - Heat 10",
+          "position": 3,
+          "total_score": 9.27,
+          "wave_scores": [
+            3.0,
+            1.6,
+            0.8,
+            3.8,
+            2.63,
+            4.17,
+            5.1,
+            0.57,
+            1.43
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_107514",
+          "round_name": "Round of 80 - Heat 5",
+          "position": 2,
+          "total_score": 10.27,
+          "wave_scores": [
+            3.5,
+            0.93,
+            5.3,
+            3.47,
+            0.73,
+            0.8,
+            4.97,
+            4.13
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4929",
+      "event_name": "Lexus US Open of Surfing",
+      "location": "Unknown",
+      "tour_type": "MCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_108150",
+          "round_name": "Round of 32 - Heat 4",
+          "position": 3,
+          "total_score": 12.2,
+          "wave_scores": [
+            5.83,
+            3.67,
+            4.1,
+            6.37
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_108137",
+          "round_name": "Round of 64 - Heat 7",
+          "position": 1,
+          "total_score": 10.43,
+          "wave_scores": [
+            2.67,
+            4.93,
+            5.5,
+            3.73
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_108126",
+          "round_name": "Round of 80 - Heat 4",
+          "position": 1,
+          "total_score": 13.33,
+          "wave_scores": [
+            3.0,
+            4.33,
+            5.83,
+            0.63,
+            5.27,
+            5.73,
+            4.5,
+            7.5,
+            3.2
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4813",
+      "event_name": "Pro Taghazout Bay",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_93087",
+          "round_name": "Round of 64 - Heat 10",
+          "position": 3,
+          "total_score": 8.93,
+          "wave_scores": [
+            3.33,
+            4.0,
+            4.93,
+            0.33
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4872",
+      "event_name": "Caparica Surf Fest 2025",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_18973",
+          "round_name": "Round of 16 - Heat 4",
+          "position": 4,
+          "total_score": 10.47,
+          "wave_scores": [
+            2.83,
+            1.0,
+            1.07,
+            6.1,
+            3.5,
+            4.37,
+            1.57,
+            2.63
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_63706",
+          "round_name": "Round of 32 - Heat 7",
+          "position": 1,
+          "total_score": 12.77,
+          "wave_scores": [
+            3.17,
+            1.9,
+            6.5,
+            1.23,
+            2.33,
+            0.5,
+            5.93,
+            6.27,
+            1.0,
+            2.2,
+            0.5,
+            1.8
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_48680",
+          "round_name": "Round of 64 - Heat 13",
+          "position": 1,
+          "total_score": 10.23,
+          "wave_scores": [
+            4.17,
+            4.0,
+            2.0,
+            0.43,
+            2.63,
+            3.57,
+            2.8,
+            5.73,
+            4.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4937",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_21514",
+          "round_name": "Semifinals - Heat 1",
+          "position": 2,
+          "total_score": 10.1,
+          "wave_scores": [
+            1.0,
+            1.87,
+            0.5,
+            1.13,
+            3.33,
+            4.5,
+            5.6
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_14619",
+          "round_name": "Quarterfinals - Heat 2",
+          "position": 1,
+          "total_score": 12.1,
+          "wave_scores": [
+            6.23,
+            4.1,
+            1.83,
+            1.6,
+            5.87
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_9617",
+          "round_name": "Round of 16 - Heat 1",
+          "position": 2,
+          "total_score": 11.1,
+          "wave_scores": [
+            4.0,
+            1.33,
+            1.73,
+            1.0,
+            0.83,
+            0.5,
+            0.37,
+            2.23,
+            7.1
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_23155",
+          "round_name": "Round of 32 - Heat 2",
+          "position": 1,
+          "total_score": 13.9,
+          "wave_scores": [
+            1.83,
+            7.67,
+            1.83,
+            5.33,
+            1.13,
+            1.0,
+            6.23
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_55557",
+          "round_name": "Round of 64 - Heat 4",
+          "position": 1,
+          "total_score": 16.27,
+          "wave_scores": [
+            6.0,
+            1.9,
+            5.6,
+            6.57,
+            1.0,
+            8.0,
+            8.27,
+            0.4,
+            1.7,
+            3.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

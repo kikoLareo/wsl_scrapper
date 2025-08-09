@@ -1,0 +1,30 @@
+{
+  "surfer_id": "16071",
+  "name": "Lucía Martínez Bermúdez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4656",
+      "event_name": "Cabreiroá Junior Pro Razo",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 3,
+          "total_score": 3.6,
+          "wave_scores": [
+            1.97,
+            1.63
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

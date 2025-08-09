@@ -1,0 +1,49 @@
+{
+  "surfer_id": "7656",
+  "name": "Oihan Aizpuru",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "1073",
+      "event_name": "Teguise 2014 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 4,
+          "total_score": 4.32,
+          "wave_scores": [
+            3.17,
+            2.17,
+            0.57,
+            1.152,
+            1.23
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 2,
+          "total_score": 7.5,
+          "wave_scores": [
+            2.5,
+            1.67,
+            1.53,
+            1.73,
+            0.13,
+            5.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

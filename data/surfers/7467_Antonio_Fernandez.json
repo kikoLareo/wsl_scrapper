@@ -1,0 +1,17 @@
+{
+  "surfer_id": "7467",
+  "name": "Antonio Fernandez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1550",
+      "event_name": "Pro A Coruna",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    }
+  ]
+}

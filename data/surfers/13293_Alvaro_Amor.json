@@ -1,0 +1,30 @@
+{
+  "surfer_id": "13293",
+  "name": "Alvaro Amor",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "2658",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_64528",
+          "round_name": "Round 1 - Heat 7",
+          "position": 4,
+          "total_score": 1.9,
+          "wave_scores": [
+            0.3,
+            1.6
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

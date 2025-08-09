@@ -1,0 +1,30 @@
+{
+  "surfer_id": "8200",
+  "name": "Alvaro Frojan Corral",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1408",
+      "event_name": "Caparica Junior Pro",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 4,
+          "total_score": 4.07,
+          "wave_scores": [
+            3.0,
+            1.07
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

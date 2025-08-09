@@ -1,0 +1,83 @@
+{
+  "surfer_id": "15092",
+  "name": "Carlota Jauregui",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4332",
+      "event_name": "Boardmasters Longboard Pro",
+      "location": "Unknown",
+      "tour_type": "WLT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92125",
+          "round_name": "Final",
+          "position": 4,
+          "total_score": 4.74,
+          "wave_scores": [
+            1.07,
+            1.33,
+            1.2,
+            0.6,
+            1.57,
+            3.17,
+            1.1,
+            0.5,
+            1.17
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_29385",
+          "round_name": "Semifinals - Heat 2",
+          "position": 1,
+          "total_score": 7.23,
+          "wave_scores": [
+            0.67,
+            3.5,
+            3.73
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8992",
+          "round_name": "Quarterfinals - Heat 3",
+          "position": 1,
+          "total_score": 9.33,
+          "wave_scores": [
+            3.17,
+            3.5,
+            3.37,
+            2.6,
+            1.0,
+            5.1,
+            4.23
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_23716",
+          "round_name": "Round of 32 - Heat 5",
+          "position": 1,
+          "total_score": 7.0,
+          "wave_scores": [
+            1.17,
+            2.33,
+            1.67,
+            4.33,
+            2.53,
+            2.67
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

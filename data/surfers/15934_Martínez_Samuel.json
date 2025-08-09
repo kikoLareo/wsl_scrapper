@@ -1,0 +1,27 @@
+{
+  "surfer_id": "15934",
+  "name": "Martínez Samuel",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4043",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    },
+    {
+      "event_id": "4025",
+      "event_name": "Cabreiroa Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    }
+  ]
+}

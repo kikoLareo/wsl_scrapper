@@ -1,0 +1,37 @@
+{
+  "surfer_id": "7525",
+  "name": "Alberto Martinez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1013",
+      "event_name": "Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 4,
+          "total_score": 3.57,
+          "wave_scores": [
+            0.37,
+            0.53,
+            1.5,
+            0.3,
+            0.5,
+            0.77,
+            2.07,
+            0.57,
+            0.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

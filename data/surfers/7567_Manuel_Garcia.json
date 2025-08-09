@@ -1,0 +1,17 @@
+{
+  "surfer_id": "7567",
+  "name": "Manuel Garcia",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1013",
+      "event_name": "Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    }
+  ]
+}

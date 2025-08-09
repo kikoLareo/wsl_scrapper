@@ -1,0 +1,58 @@
+{
+  "surfer_id": "17313",
+  "name": "Yumey Gonzalez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4054",
+      "event_name": "BFGoodrich Longboard Pro",
+      "location": "Unknown",
+      "tour_type": "WLT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_29385",
+          "round_name": "Semifinals - Heat 2",
+          "position": 3,
+          "total_score": 5.77,
+          "wave_scores": [],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_54741",
+          "round_name": "Quarterfinals - Heat 4",
+          "position": 2,
+          "total_score": 4.9,
+          "wave_scores": [
+            3.5,
+            1.4,
+            1.07,
+            0.4,
+            0.97,
+            1.1
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_57461",
+          "round_name": "Round of 24 - Heat 3",
+          "position": 2,
+          "total_score": 4.46,
+          "wave_scores": [
+            2.33,
+            1.5,
+            2.13,
+            1.37,
+            1.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "surfer_id": "12401",
+  "name": "Nacho Sebastia",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "3271",
+      "event_name": "Cabreiroá Pro Las Americas",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_60122",
+          "round_name": "Round 3 - Heat 3",
+          "position": 3,
+          "total_score": 5.67,
+          "wave_scores": [
+            0.5,
+            2.0,
+            0.37,
+            3.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_95893",
+          "round_name": "Round 2 - Heat 3",
+          "position": 1,
+          "total_score": 11.83,
+          "wave_scores": [
+            5.5,
+            6.33,
+            5.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_89996",
+          "round_name": "Round 1 - Heat 2",
+          "position": 1,
+          "total_score": 12.57,
+          "wave_scores": [
+            4.5,
+            5.4,
+            7.17
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "surfer_id": "19376",
+  "name": "Cristina Collazo Castiñeira",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4715",
+      "event_name": "GADIS Longboard Festival Ferrol",
+      "location": "Unknown",
+      "tour_type": "WLT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_3102",
+          "round_name": "Round of 32 - Heat 3",
+          "position": 4,
+          "total_score": 2.1,
+          "wave_scores": [
+            0.2,
+            0.93,
+            1.17,
+            0.5,
+            0.73,
+            0.2,
+            0.6,
+            0.3,
+            0.6,
+            0.47,
+            0.7,
+            0.53
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

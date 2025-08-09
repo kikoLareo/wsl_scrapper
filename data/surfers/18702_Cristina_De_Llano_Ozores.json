@@ -1,0 +1,50 @@
+{
+  "surfer_id": "18702",
+  "name": "Cristina De Llano Ozores",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4915",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_50579",
+          "round_name": "Round of 32 - Heat 8",
+          "position": 4,
+          "total_score": 5.3,
+          "wave_scores": [
+            2.27,
+            1.0,
+            0.93,
+            2.77,
+            2.4,
+            2.53
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_44345",
+          "round_name": "Round of 40 - Heat 4",
+          "position": 2,
+          "total_score": 8.07,
+          "wave_scores": [
+            1.4,
+            2.43,
+            1.6,
+            2.9,
+            1.93,
+            5.17
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

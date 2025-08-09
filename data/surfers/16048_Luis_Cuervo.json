@@ -1,0 +1,81 @@
+{
+  "surfer_id": "16048",
+  "name": "Luis Cuervo",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4281",
+      "event_name": "Morocco Mall Junior Pro Casablanca",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30006",
+          "round_name": "Round of 128 - Heat 16",
+          "position": 4,
+          "total_score": 7.6,
+          "wave_scores": [
+            0.6,
+            3.1,
+            4.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4349",
+      "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30006",
+          "round_name": "Round of 128 - Heat 16",
+          "position": 3,
+          "total_score": 4.2,
+          "wave_scores": [
+            0.37,
+            2.43,
+            1.77
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4352",
+      "event_name": "Cabreiroá Junior Pro Razo-Caión",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_83680",
+          "round_name": "Round of 96 - Heat 11",
+          "position": 4,
+          "total_score": 5.5,
+          "wave_scores": [
+            0.5,
+            0.43,
+            3.33,
+            1.0,
+            2.17
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

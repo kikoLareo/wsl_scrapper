@@ -1,0 +1,99 @@
+{
+  "surfer_id": "2683",
+  "name": "Juan Diaz-Teran",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "551",
+      "event_name": "Sooruz Royan Atlantique Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 3,
+          "total_score": 5.5,
+          "wave_scores": [
+            2.83,
+            2.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "563",
+      "event_name": "Sopela O'neill Men's Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 4,
+          "total_score": 5.53,
+          "wave_scores": [
+            2.5,
+            3.03
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "566",
+      "event_name": "Gijon Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 5.9,
+          "wave_scores": [
+            3.07,
+            2.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "570",
+      "event_name": "Airwalk Lacanau Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 3,
+          "total_score": 8.94,
+          "wave_scores": [
+            5.77,
+            3.17
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

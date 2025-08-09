@@ -1,0 +1,17 @@
+{
+  "surfer_id": "7210",
+  "name": "Pablo Exposito",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "987",
+      "event_name": "Rias Baixas Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    }
+  ]
+}

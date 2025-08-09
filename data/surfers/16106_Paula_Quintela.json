@@ -1,0 +1,33 @@
+{
+  "surfer_id": "16106",
+  "name": "Paula Quintela",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "3695",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 4,
+          "total_score": 2.17,
+          "wave_scores": [
+            0.5,
+            0.57,
+            0.8,
+            1.17,
+            1.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

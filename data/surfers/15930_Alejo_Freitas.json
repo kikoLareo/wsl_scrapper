@@ -1,0 +1,116 @@
+{
+  "surfer_id": "15930",
+  "name": "Alejo Freitas",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4618",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_79093",
+          "round_name": "Round of 112 - Heat 1",
+          "position": 3,
+          "total_score": 6.46,
+          "wave_scores": [
+            2.2,
+            2.47,
+            1.83,
+            3.83,
+            2.63,
+            1.2
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4633",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_98238",
+          "round_name": "Round of 112 - Heat 6",
+          "position": 3,
+          "total_score": 6.5,
+          "wave_scores": [
+            3.5,
+            2.6,
+            0.6,
+            2.27,
+            3.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4913",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_23716",
+          "round_name": "Round of 32 - Heat 5",
+          "position": 4,
+          "total_score": 4.64,
+          "wave_scores": [
+            1.07,
+            1.83,
+            2.37,
+            0.3,
+            2.27,
+            1.97,
+            2.13
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "5058",
+      "event_name": "Quiksilver Junior Pro Capbreton",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_29185",
+          "round_name": "Round of 64 - Heat 6",
+          "position": 4,
+          "total_score": 4.16,
+          "wave_scores": [
+            0.83,
+            0.37,
+            1.83,
+            2.33,
+            1.6,
+            0.9,
+            1.27
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

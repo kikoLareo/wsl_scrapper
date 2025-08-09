@@ -1,0 +1,87 @@
+{
+  "surfer_id": "15680",
+  "name": "Marco Marin",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4633",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_32277",
+          "round_name": "Round of 120 - Heat 4",
+          "position": 3,
+          "total_score": 5.96,
+          "wave_scores": [
+            0.83,
+            2.5,
+            0.47,
+            2.13,
+            2.2,
+            3.03,
+            2.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4913",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_24951",
+          "round_name": "Round of 64 - Heat 8",
+          "position": 3,
+          "total_score": 7.77,
+          "wave_scores": [
+            2.4,
+            4.5,
+            3.27,
+            1.8,
+            3.2
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "5058",
+      "event_name": "Quiksilver Junior Pro Capbreton",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_3158",
+          "round_name": "Round of 64 - Heat 5",
+          "position": 3,
+          "total_score": 8.2,
+          "wave_scores": [
+            3.67,
+            1.93,
+            3.83,
+            2.0,
+            4.37
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

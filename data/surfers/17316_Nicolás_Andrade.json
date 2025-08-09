@@ -1,0 +1,98 @@
+{
+  "surfer_id": "17316",
+  "name": "Nicolás Andrade",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4714",
+      "event_name": "GADIS Longboard Festival Ferrol",
+      "location": "Unknown",
+      "tour_type": "MLT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_54741",
+          "round_name": "Quarterfinals - Heat 4",
+          "position": 3,
+          "total_score": 8.77,
+          "wave_scores": [
+            4.17,
+            4.0,
+            2.5,
+            4.5,
+            0.23,
+            0.43,
+            0.57,
+            4.27
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_23716",
+          "round_name": "Round of 32 - Heat 5",
+          "position": 2,
+          "total_score": 12.44,
+          "wave_scores": [
+            5.67,
+            3.17,
+            4.0,
+            3.33,
+            0.5,
+            0.6,
+            6.77,
+            4.43,
+            3.43,
+            4.17,
+            2.83,
+            1.17,
+            0.7,
+            1.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4616",
+      "event_name": "Wild West Jerky Longboard Pro",
+      "location": "Unknown",
+      "tour_type": "MLT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_14619",
+          "round_name": "Quarterfinals - Heat 2",
+          "position": 3,
+          "total_score": 8.04,
+          "wave_scores": [
+            0.33,
+            2.83,
+            4.17,
+            3.87
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_37193",
+          "round_name": "Round of 24 - Heat 1",
+          "position": 2,
+          "total_score": 13.03,
+          "wave_scores": [
+            4.83,
+            5.03,
+            8.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

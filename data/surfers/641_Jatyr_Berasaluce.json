@@ -1,0 +1,148 @@
+{
+  "surfer_id": "641",
+  "name": "Jatyr Berasaluce",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "4228",
+      "event_name": "Rip Curl Pro Search Taghazout Bay",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_87224",
+          "round_name": "Round of 128 - Heat 9",
+          "position": 3,
+          "total_score": 9.57,
+          "wave_scores": [
+            3.17,
+            4.67,
+            0.5,
+            2.63,
+            4.9
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4343",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_46665",
+          "round_name": "Round of 32 - Heat 6",
+          "position": 3,
+          "total_score": 8.3,
+          "wave_scores": [
+            3.83,
+            4.4,
+            3.9
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_72200",
+          "round_name": "Round of 64 - Heat 12",
+          "position": 1,
+          "total_score": 11.04,
+          "wave_scores": [
+            2.93,
+            0.5,
+            2.1,
+            1.0,
+            1.57,
+            2.23,
+            5.17,
+            5.87,
+            5.0,
+            1.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_83680",
+          "round_name": "Round of 96 - Heat 11",
+          "position": 2,
+          "total_score": 9.1,
+          "wave_scores": [
+            5.33,
+            1.5,
+            3.77,
+            0.4,
+            1.0,
+            3.43
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_91524",
+          "round_name": "Round of 128 - Heat 12",
+          "position": 2,
+          "total_score": 9.83,
+          "wave_scores": [
+            4.0,
+            5.0,
+            4.83,
+            2.63,
+            0.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4408",
+      "event_name": "Pro Santa Cruz presented by Noah Surf House",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_90969",
+          "round_name": "Round of 96 - Heat 14",
+          "position": 3,
+          "total_score": 7.0,
+          "wave_scores": [
+            1.67,
+            3.67,
+            3.33,
+            0.43,
+            2.6
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_50127",
+          "round_name": "Round of 112 - Heat 7",
+          "position": 2,
+          "total_score": 7.83,
+          "wave_scores": [
+            3.5,
+            2.3,
+            1.0,
+            4.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

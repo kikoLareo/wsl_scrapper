@@ -1,0 +1,36 @@
+{
+  "surfer_id": "19126",
+  "name": "Mateo Vazquez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4913",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_29185",
+          "round_name": "Round of 64 - Heat 6",
+          "position": 3,
+          "total_score": 8.0,
+          "wave_scores": [
+            0.43,
+            0.33,
+            4.33,
+            0.9,
+            3.67,
+            2.33,
+            1.67,
+            2.07
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

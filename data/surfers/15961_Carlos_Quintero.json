@@ -1,0 +1,30 @@
+{
+  "surfer_id": "15961",
+  "name": "Carlos Quintero",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "3735",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_68636",
+          "round_name": "Round of 96 - Heat 13",
+          "position": 3,
+          "total_score": 2.14,
+          "wave_scores": [
+            0.67,
+            1.47
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

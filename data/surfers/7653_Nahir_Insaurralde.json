@@ -1,0 +1,31 @@
+{
+  "surfer_id": "7653",
+  "name": "Nahir Insaurralde",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1074",
+      "event_name": "Teguise 2014 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 1.2,
+          "wave_scores": [
+            0.5,
+            0.67,
+            0.53
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

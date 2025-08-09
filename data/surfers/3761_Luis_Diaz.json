@@ -1,0 +1,150 @@
+{
+  "surfer_id": "3761",
+  "name": "Luis Diaz",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "4813",
+      "event_name": "Pro Taghazout Bay",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_16823",
+          "round_name": "Round of 64 - Heat 14",
+          "position": 4,
+          "total_score": 9.0,
+          "wave_scores": [
+            2.33,
+            3.17,
+            4.0,
+            1.93,
+            5.0,
+            3.7
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_68636",
+          "round_name": "Round of 96 - Heat 13",
+          "position": 2,
+          "total_score": 10.5,
+          "wave_scores": [
+            4.33,
+            4.67,
+            3.6,
+            0.57,
+            0.5,
+            5.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4937",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_46665",
+          "round_name": "Round of 32 - Heat 6",
+          "position": 3,
+          "total_score": 11.47,
+          "wave_scores": [
+            5.5,
+            3.67,
+            5.97
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_93087",
+          "round_name": "Round of 64 - Heat 10",
+          "position": 2,
+          "total_score": 12.73,
+          "wave_scores": [
+            4.17,
+            5.5,
+            7.23,
+            3.83,
+            3.97,
+            4.3,
+            3.1
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_99878",
+          "round_name": "Round of 96 - Heat 10",
+          "position": 1,
+          "total_score": 13.07,
+          "wave_scores": [
+            1.8,
+            7.17,
+            1.13,
+            2.67,
+            3.17,
+            5.9
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4933",
+      "event_name": "Boardmasters Open 2025",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 3,
+          "total_score": 9.67,
+          "wave_scores": [
+            4.6,
+            5.07,
+            4.03,
+            2.27
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_55557",
+          "round_name": "Round of 64 - Heat 4",
+          "position": 2,
+          "total_score": 11.33,
+          "wave_scores": [
+            5.0,
+            1.27,
+            3.9,
+            0.3,
+            2.03,
+            6.33,
+            0.97,
+            4.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

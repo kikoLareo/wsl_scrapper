@@ -1,0 +1,762 @@
+{
+  "surfer_id": "15615",
+  "name": "Annette Gonzalez Etxabarri",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "4890",
+      "event_name": "Burton Automotive Newcastle Surfest presented by Bonsoy",
+      "location": "Unknown",
+      "tour_type": "WCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_106856",
+          "round_name": "Round of 48 - Heat 4",
+          "position": 3,
+          "total_score": 8.73,
+          "wave_scores": [
+            5.4,
+            3.33,
+            1.6,
+            0.7
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4922",
+      "event_name": "Ballito Pro presented by O'Neill",
+      "location": "Unknown",
+      "tour_type": "WCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_107561",
+          "round_name": "Round of 48 - Heat 5",
+          "position": 3,
+          "total_score": 9.1,
+          "wave_scores": [
+            4.17,
+            3.77,
+            4.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4930",
+      "event_name": "Lexus US Open of Surfing",
+      "location": "Unknown",
+      "tour_type": "WCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_108199",
+          "round_name": "Semifinals - Heat 2",
+          "position": 2,
+          "total_score": 11.16,
+          "wave_scores": [
+            0.5,
+            5.33,
+            0.77,
+            1.0,
+            3.33,
+            0.8,
+            5.83,
+            2.93,
+            2.6,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_108197",
+          "round_name": "Quarterfinals - Heat 4",
+          "position": 1,
+          "total_score": 12.93,
+          "wave_scores": [
+            2.0,
+            3.5,
+            2.2,
+            3.93,
+            7.0,
+            1.0,
+            0.8,
+            5.93
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_108189",
+          "round_name": "Round of 16 - Heat 4",
+          "position": 1,
+          "total_score": 12.84,
+          "wave_scores": [
+            2.33,
+            5.17,
+            6.67,
+            6.17,
+            3.97,
+            2.27,
+            6.03
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_108185",
+          "round_name": "Round of 32 - Heat 8",
+          "position": 1,
+          "total_score": 11.63,
+          "wave_scores": [
+            0.73,
+            6.43,
+            5.2,
+            5.2,
+            4.5,
+            0.87
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_108176",
+          "round_name": "Round of 48 - Heat 7",
+          "position": 2,
+          "total_score": 8.83,
+          "wave_scores": [
+            2.77,
+            0.4,
+            2.7,
+            3.07,
+            4.9,
+            1.43,
+            1.0,
+            3.93,
+            2.43
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4812",
+      "event_name": "Pro Taghazout Bay",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_21514",
+          "round_name": "Semifinals - Heat 1",
+          "position": 2,
+          "total_score": 11.24,
+          "wave_scores": [
+            0.93,
+            0.43,
+            0.83,
+            2.9,
+            1.87,
+            5.17,
+            0.83,
+            6.07,
+            2.4
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_58232",
+          "round_name": "Quarterfinals - Heat 1",
+          "position": 1,
+          "total_score": 13.84,
+          "wave_scores": [
+            3.17,
+            2.33,
+            0.83,
+            6.17,
+            7.67,
+            0.37
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_9617",
+          "round_name": "Round of 16 - Heat 1",
+          "position": 1,
+          "total_score": 14.24,
+          "wave_scores": [
+            1.67,
+            2.17,
+            9.57,
+            4.67,
+            0.87,
+            1.27
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_23155",
+          "round_name": "Round of 32 - Heat 2",
+          "position": 1,
+          "total_score": 10.6,
+          "wave_scores": [
+            0.5,
+            5.67,
+            2.2,
+            1.0,
+            4.5,
+            4.93
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4920",
+      "event_name": "Ballito Open",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92125",
+          "round_name": "Final",
+          "position": 1,
+          "total_score": 15.0,
+          "wave_scores": [
+            8.83,
+            6.17,
+            3.5,
+            0.5,
+            0.43,
+            1.0,
+            0.93,
+            0.7
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_29385",
+          "round_name": "Semifinals - Heat 2",
+          "position": 1,
+          "total_score": 13.9,
+          "wave_scores": [
+            0.77,
+            0.2,
+            2.67,
+            8.17,
+            5.73,
+            2.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8992",
+          "round_name": "Quarterfinals - Heat 3",
+          "position": 1,
+          "total_score": 11.67,
+          "wave_scores": [
+            3.83,
+            3.83,
+            4.67,
+            0.83,
+            7.0,
+            0.27,
+            0.9
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_68007",
+          "round_name": "Round of 16 - Heat 3",
+          "position": 1,
+          "total_score": 14.53,
+          "wave_scores": [
+            2.67,
+            2.43,
+            3.2,
+            8.5,
+            6.03
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_46665",
+          "round_name": "Round of 32 - Heat 6",
+          "position": 1,
+          "total_score": 11.34,
+          "wave_scores": [
+            0.5,
+            5.17,
+            6.17,
+            2.93,
+            3.23,
+            4.5,
+            0.87,
+            4.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4938",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_21514",
+          "round_name": "Semifinals - Heat 1",
+          "position": 2,
+          "total_score": 8.23,
+          "wave_scores": [
+            1.5,
+            3.4,
+            4.83,
+            1.0,
+            3.2,
+            1.57,
+            1.13,
+            2.07,
+            1.0,
+            2.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_14619",
+          "round_name": "Quarterfinals - Heat 2",
+          "position": 1,
+          "total_score": 9.73,
+          "wave_scores": [
+            3.0,
+            4.5,
+            2.1,
+            5.23,
+            3.67
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_88058",
+          "round_name": "Round of 16 - Heat 2",
+          "position": 1,
+          "total_score": 10.67,
+          "wave_scores": [
+            1.83,
+            5.67,
+            5.0,
+            0.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_81658",
+          "round_name": "Round of 32 - Heat 4",
+          "position": 1,
+          "total_score": 16.83,
+          "wave_scores": [
+            4.5,
+            8.33,
+            8.5,
+            2.6,
+            7.0,
+            2.67,
+            2.93
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4934",
+      "event_name": "Boardmasters Open 2025",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 1,
+          "total_score": 16.5,
+          "wave_scores": [
+            7.67,
+            4.83,
+            1.0,
+            8.83,
+            0.5,
+            5.53
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4573",
+      "event_name": "Morocco Mall Junior Pro Casablanca",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92125",
+          "round_name": "Final",
+          "position": 1,
+          "total_score": 12.73,
+          "wave_scores": [
+            3.0,
+            0.5,
+            1.17,
+            1.93,
+            5.73,
+            1.0,
+            7.0,
+            4.23,
+            5.03
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_21514",
+          "round_name": "Semifinals - Heat 1",
+          "position": 1,
+          "total_score": 14.33,
+          "wave_scores": [
+            1.0,
+            5.33,
+            5.17,
+            5.83,
+            4.7,
+            8.33,
+            3.9,
+            1.07,
+            6.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_58232",
+          "round_name": "Quarterfinals - Heat 1",
+          "position": 1,
+          "total_score": 13.9,
+          "wave_scores": [
+            0.5,
+            4.33,
+            5.0,
+            8.9,
+            1.27,
+            2.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 1,
+          "total_score": 13.5,
+          "wave_scores": [
+            4.5,
+            0.43,
+            3.03,
+            3.83,
+            0.67,
+            0.87,
+            9.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4599",
+      "event_name": "O'Neill SMTH Shapes Ballito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92125",
+          "round_name": "Final",
+          "position": 2,
+          "total_score": 7.17,
+          "wave_scores": [
+            4.17,
+            3.0,
+            0.93,
+            0.77,
+            0.33,
+            2.73,
+            1.1
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_29385",
+          "round_name": "Semifinals - Heat 2",
+          "position": 1,
+          "total_score": 12.67,
+          "wave_scores": [
+            0.83,
+            0.47,
+            3.33,
+            6.67,
+            4.67,
+            6.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8992",
+          "round_name": "Quarterfinals - Heat 3",
+          "position": 1,
+          "total_score": 6.5,
+          "wave_scores": [
+            1.33,
+            5.17,
+            0.8,
+            1.13
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_68007",
+          "round_name": "Round of 16 - Heat 3",
+          "position": 1,
+          "total_score": 11.0,
+          "wave_scores": [
+            5.17,
+            2.07,
+            5.83,
+            0.8,
+            1.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_57461",
+          "round_name": "Round of 24 - Heat 3",
+          "position": 1,
+          "total_score": 9.07,
+          "wave_scores": [
+            1.0,
+            4.0,
+            3.73,
+            4.17,
+            0.17,
+            4.9
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4656",
+      "event_name": "Cabreiroá Junior Pro Razo",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92125",
+          "round_name": "Final",
+          "position": 1,
+          "total_score": 14.07,
+          "wave_scores": [
+            1.3,
+            2.5,
+            1.0,
+            0.43,
+            3.23,
+            1.37,
+            7.5,
+            3.83,
+            6.57
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_21514",
+          "round_name": "Semifinals - Heat 1",
+          "position": 2,
+          "total_score": 10.94,
+          "wave_scores": [
+            0.33,
+            6.17,
+            1.3,
+            1.8,
+            2.43,
+            4.27,
+            4.77
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_58232",
+          "round_name": "Quarterfinals - Heat 1",
+          "position": 1,
+          "total_score": 12.84,
+          "wave_scores": [
+            2.17,
+            5.67,
+            0.73,
+            7.17,
+            1.07,
+            0.77
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 1,
+          "total_score": 16.5,
+          "wave_scores": [
+            4.33,
+            7.33,
+            9.17,
+            1.1,
+            6.2
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4697",
+      "event_name": "World Junior Championships",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_104524",
+          "round_name": "Quarterfinals - Heat 1",
+          "position": 2,
+          "total_score": 9.17,
+          "wave_scores": [
+            1.77,
+            0.27,
+            2.07,
+            5.27,
+            1.83,
+            3.9,
+            1.0,
+            3.5,
+            2.8
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_104517",
+          "round_name": "Round of 16 - Heat 2",
+          "position": 1,
+          "total_score": 11.17,
+          "wave_scores": [
+            6.0,
+            5.17,
+            1.73,
+            3.1,
+            3.2,
+            0.87
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_104515",
+          "round_name": "Elimination Round - Heat 8",
+          "position": 1,
+          "total_score": 10.66,
+          "wave_scores": [
+            3.17,
+            4.83,
+            0.47,
+            5.83,
+            0.97,
+            3.13,
+            0.5,
+            3.27
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_104507",
+          "round_name": "Opening Round - Heat 8",
+          "position": 2,
+          "total_score": 10.5,
+          "wave_scores": [
+            0.93,
+            3.5,
+            2.83,
+            7.0,
+            1.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

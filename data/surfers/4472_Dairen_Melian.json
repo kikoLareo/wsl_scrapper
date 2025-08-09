@@ -1,0 +1,30 @@
+{
+  "surfer_id": "4472",
+  "name": "Dairen Melian",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "586",
+      "event_name": "Gran Canaria Santa Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 3,
+          "total_score": 3.6,
+          "wave_scores": [
+            2.0,
+            1.6
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

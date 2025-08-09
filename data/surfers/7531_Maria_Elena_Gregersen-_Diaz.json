@@ -1,0 +1,33 @@
+{
+  "surfer_id": "7531",
+  "name": "Maria Elena Gregersen- Diaz",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1074",
+      "event_name": "Teguise 2014 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 2.44,
+          "wave_scores": [
+            1.17,
+            0.57,
+            0.97,
+            0.9,
+            1.27
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

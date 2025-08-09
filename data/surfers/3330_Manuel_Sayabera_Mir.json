@@ -1,0 +1,30 @@
+{
+  "surfer_id": "3330",
+  "name": "Manuel Sayabera Mir",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "341",
+      "event_name": "Islas Canarias Ocean and Earth Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 4,
+          "total_score": 2.0,
+          "wave_scores": [
+            1.5,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

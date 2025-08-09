@@ -1,0 +1,81 @@
+{
+  "surfer_id": "20000",
+  "name": "Alvaro Casanova Del Cerro",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4913",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 3,
+          "total_score": 9.9,
+          "wave_scores": [
+            4.17,
+            1.1,
+            2.57,
+            5.73,
+            2.93,
+            2.37,
+            0.4
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_89990",
+          "round_name": "Round of 48 - Heat 2",
+          "position": 2,
+          "total_score": 8.26,
+          "wave_scores": [
+            4.33,
+            0.9,
+            3.93,
+            3.3,
+            2.43,
+            2.47
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30054",
+          "round_name": "Round of 64 - Heat 1",
+          "position": 2,
+          "total_score": 9.76,
+          "wave_scores": [
+            3.97,
+            4.83,
+            4.93
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_3400",
+          "round_name": "Round of 72 - Heat 1",
+          "position": 1,
+          "total_score": 10.93,
+          "wave_scores": [
+            4.0,
+            6.0,
+            0.5,
+            3.53,
+            1.03,
+            4.93,
+            2.2
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

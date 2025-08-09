@@ -1,0 +1,37 @@
+{
+  "surfer_id": "7626",
+  "name": "Lucas Figueroa",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1073",
+      "event_name": "Teguise 2014 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 4.03,
+          "wave_scores": [
+            1.5,
+            2.13,
+            0.47,
+            1.67,
+            0.63,
+            0.73,
+            1.47,
+            0.57,
+            1.9
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

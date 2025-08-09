@@ -1,0 +1,101 @@
+{
+  "surfer_id": "11359",
+  "name": "Julen Susperregi",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "2987",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_41353",
+          "round_name": "Round 2 - Heat 16",
+          "position": 3,
+          "total_score": 6.04,
+          "wave_scores": [
+            3.87,
+            0.9,
+            2.17,
+            0.57,
+            0.67,
+            0.63
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2991",
+      "event_name": "Caparica Surf Fest Junior Pro",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_70778",
+          "round_name": "Round 2 - Heat 13",
+          "position": 4,
+          "total_score": 6.8,
+          "wave_scores": [
+            1.77,
+            0.6,
+            2.33,
+            3.43,
+            3.37,
+            1.13
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "3208",
+      "event_name": "Quiksilver Junior Pro 40",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_49944",
+          "round_name": "Round 3 - Heat 16",
+          "position": 4,
+          "total_score": 10.67,
+          "wave_scores": [
+            1.07,
+            6.17,
+            4.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_29063",
+          "round_name": "Round 2 - Heat 15",
+          "position": 2,
+          "total_score": 10.24,
+          "wave_scores": [
+            2.77,
+            3.67,
+            5.07,
+            5.17,
+            1.0,
+            2.43
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

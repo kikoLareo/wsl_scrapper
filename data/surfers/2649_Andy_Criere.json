@@ -1,0 +1,614 @@
+{
+  "surfer_id": "2649",
+  "name": "Andy Criere",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "3913",
+      "event_name": "EDP Vissla Pro Ericeira",
+      "location": "Unknown",
+      "tour_type": "MCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_91214",
+          "round_name": "Round of 48 - Heat 3",
+          "position": 3,
+          "total_score": 10.6,
+          "wave_scores": [
+            5.5,
+            3.5,
+            5.1
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_91195",
+          "round_name": "Round of 96 - Heat 8",
+          "position": 2,
+          "total_score": 12.53,
+          "wave_scores": [
+            5.83,
+            3.23,
+            6.7,
+            3.93,
+            0.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "3916",
+      "event_name": "Haleiwa Challenger, at Home in the Hawaiian Islands",
+      "location": "Unknown",
+      "tour_type": "MCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92233",
+          "round_name": "Round of 80 - Heat 8",
+          "position": 4,
+          "total_score": 8.77,
+          "wave_scores": [
+            3.1,
+            2.17,
+            3.1,
+            4.57,
+            1.03,
+            4.2
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4813",
+      "event_name": "Pro Taghazout Bay",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_54741",
+          "round_name": "Quarterfinals - Heat 4",
+          "position": 2,
+          "total_score": 13.0,
+          "wave_scores": [
+            6.5,
+            0.5,
+            6.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_68007",
+          "round_name": "Round of 16 - Heat 3",
+          "position": 2,
+          "total_score": 13.16,
+          "wave_scores": [
+            4.67,
+            6.33,
+            6.83,
+            5.6,
+            4.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_50579",
+          "round_name": "Round of 32 - Heat 8",
+          "position": 2,
+          "total_score": 10.83,
+          "wave_scores": [
+            3.5,
+            4.83,
+            1.07,
+            6.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_48680",
+          "round_name": "Round of 64 - Heat 13",
+          "position": 2,
+          "total_score": 9.1,
+          "wave_scores": [
+            5.7,
+            2.13,
+            3.4
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_68636",
+          "round_name": "Round of 96 - Heat 13",
+          "position": 1,
+          "total_score": 14.0,
+          "wave_scores": [
+            3.0,
+            6.5,
+            4.6,
+            3.8,
+            7.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4872",
+      "event_name": "Caparica Surf Fest 2025",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_12632",
+          "round_name": "Round of 64 - Heat 15",
+          "position": 4,
+          "total_score": 7.96,
+          "wave_scores": [
+            1.47,
+            2.93,
+            2.7,
+            3.53,
+            2.1,
+            4.23,
+            3.73,
+            0.5,
+            1.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4937",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_16823",
+          "round_name": "Round of 64 - Heat 14",
+          "position": 3,
+          "total_score": 11.87,
+          "wave_scores": [
+            4.1,
+            6.5,
+            5.37,
+            4.17,
+            2.63,
+            2.8,
+            0.83,
+            0.5,
+            1.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4933",
+      "event_name": "Boardmasters Open 2025",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_58232",
+          "round_name": "Quarterfinals - Heat 1",
+          "position": 1,
+          "total_score": 14.8,
+          "wave_scores": [
+            4.0,
+            7.0,
+            6.23,
+            0.5,
+            2.4,
+            1.77,
+            5.83,
+            7.8
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_3102",
+          "round_name": "Round of 32 - Heat 3",
+          "position": 2,
+          "total_score": 13.1,
+          "wave_scores": [
+            5.83,
+            4.63,
+            7.27
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_7398",
+          "round_name": "Round of 64 - Heat 7",
+          "position": 2,
+          "total_score": 11.57,
+          "wave_scores": [
+            5.0,
+            4.7,
+            6.27,
+            2.7,
+            5.3
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1322",
+      "event_name": "Hurley Australian Open",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 8.6,
+          "wave_scores": [
+            0.5,
+            3.6,
+            5.0,
+            3.3
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1202",
+      "event_name": "Hunter Business Boardriders Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    },
+    {
+      "event_id": "1218",
+      "event_name": "Caparica Primavera Surf Fest",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 3,
+          "total_score": 13.7,
+          "wave_scores": [
+            4.83,
+            7.0,
+            6.7,
+            2.57,
+            1.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 17.87,
+          "wave_scores": [
+            2.73,
+            7.33,
+            2.6,
+            9.7,
+            8.17,
+            2.67,
+            2.0,
+            0.57,
+            2.63
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 15.0,
+          "wave_scores": [
+            5.33,
+            6.5,
+            5.1,
+            5.9,
+            5.67,
+            0.43,
+            8.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1239",
+      "event_name": "Prozis Pro Junior Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 2,
+          "total_score": 11.83,
+          "wave_scores": [
+            4.0,
+            2.33,
+            4.33,
+            7.0,
+            3.6,
+            4.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 2,
+          "total_score": 12.94,
+          "wave_scores": [
+            5.5,
+            4.5,
+            6.17,
+            2.83,
+            6.77
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 12.64,
+          "wave_scores": [
+            4.67,
+            1.07,
+            7.17,
+            4.83,
+            4.43,
+            2.4,
+            5.47,
+            3.7,
+            5.27
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 13.73,
+          "wave_scores": [
+            2.5,
+            4.5,
+            6.17,
+            7.33,
+            6.4,
+            3.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1254",
+      "event_name": "Peña Txuri Junior Pro Sopela",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 3,
+          "total_score": 9.3,
+          "wave_scores": [
+            2.67,
+            3.23,
+            3.5,
+            4.43,
+            0.67,
+            4.87
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 16.27,
+          "wave_scores": [
+            9.1,
+            2.43,
+            7.17,
+            0.57,
+            3.73,
+            0.37,
+            0.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1268",
+      "event_name": "Airwalk Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_87673",
+          "round_name": "Round 5",
+          "position": 4,
+          "total_score": 6.67,
+          "wave_scores": [
+            1.4,
+            3.67,
+            1.43,
+            2.17,
+            3.0,
+            1.6,
+            0.67,
+            2.17
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 2,
+          "total_score": 13.07,
+          "wave_scores": [
+            4.97,
+            8.1,
+            0.37,
+            2.13
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 17.04,
+          "wave_scores": [
+            7.0,
+            6.33,
+            8.87,
+            8.17,
+            4.7,
+            2.6
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1288",
+      "event_name": "Lanzarote Teguise 2015 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 2,
+          "total_score": 14.37,
+          "wave_scores": [
+            7.0,
+            6.87,
+            1.0,
+            3.17,
+            6.0,
+            4.47,
+            7.37,
+            3.7
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 1,
+          "total_score": 16.1,
+          "wave_scores": [
+            8.17,
+            6.07,
+            6.27,
+            1.0,
+            1.33,
+            0.23,
+            3.0,
+            7.93,
+            4.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 13.5,
+          "wave_scores": [
+            6.0,
+            3.43,
+            5.67,
+            7.5,
+            5.4,
+            5.47,
+            4.4,
+            3.3
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

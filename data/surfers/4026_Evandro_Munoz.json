@@ -1,0 +1,30 @@
+{
+  "surfer_id": "4026",
+  "name": "Evandro Munoz",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "494",
+      "event_name": "Islas Canarias Santa Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_31041",
+          "round_name": "Round of 144",
+          "position": 4,
+          "total_score": 8.7,
+          "wave_scores": [
+            3.33,
+            5.37
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "surfer_id": "2724",
+  "name": "Ariane Ochoa",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "4571",
+      "event_name": "Bonsoy Gold Coast Pro presented by GWM",
+      "location": "Unknown",
+      "tour_type": "WCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_100715",
+          "round_name": "Round of 48 - Heat 4",
+          "position": 4,
+          "total_score": 8.67,
+          "wave_scores": [
+            5.47,
+            3.2
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4577",
+      "event_name": "GWM Sydney Surf Pro presented by Bonsoy",
+      "location": "Unknown",
+      "tour_type": "WCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_100846",
+          "round_name": "Round of 32 - Heat 3",
+          "position": 3,
+          "total_score": 5.76,
+          "wave_scores": [
+            2.83,
+            2.93,
+            0.5,
+            1.0,
+            0.4
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_100838",
+          "round_name": "Round of 48 - Heat 3",
+          "position": 1,
+          "total_score": 10.5,
+          "wave_scores": [
+            2.17,
+            3.1,
+            5.83,
+            2.23,
+            1.0,
+            4.67
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4601",
+      "event_name": "Ballito Pro",
+      "location": "Unknown",
+      "tour_type": "WCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_101982",
+          "round_name": "Round of 32 - Heat 7",
+          "position": 3,
+          "total_score": 9.57,
+          "wave_scores": [
+            3.33,
+            2.17,
+            5.17,
+            2.43,
+            4.4,
+            3.93,
+            1.8,
+            4.3,
+            0.3
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_101974",
+          "round_name": "Round of 48 - Heat 7",
+          "position": 1,
+          "total_score": 9.9,
+          "wave_scores": [
+            0.5,
+            0.9,
+            0.5,
+            0.9,
+            4.07,
+            3.5,
+            0.67,
+            5.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4611",
+      "event_name": "Lexus US Open of Surfing presented by Pacifico",
+      "location": "Unknown",
+      "tour_type": "WCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_102322",
+          "round_name": "Round of 48 - Heat 3",
+          "position": 3,
+          "total_score": 9.74,
+          "wave_scores": [
+            3.77,
+            0.5,
+            5.87,
+            3.87,
+            1.87
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4658",
+      "event_name": "EDP Ericeira Pro",
+      "location": "Unknown",
+      "tour_type": "WCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_103462",
+          "round_name": "Round of 48 - Heat 4",
+          "position": 4,
+          "total_score": 5.2,
+          "wave_scores": [
+            2.17,
+            3.0,
+            2.2
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4666",
+      "event_name": "Corona Saquarema Pro presented by Banco do Brasil",
+      "location": "Unknown",
+      "tour_type": "WCS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_103578",
+          "round_name": "Round of 48 - Heat 8",
+          "position": 3,
+          "total_score": 8.26,
+          "wave_scores": [
+            1.57,
+            4.33,
+            3.93,
+            1.73,
+            3.43,
+            0.7,
+            2.07
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "987",
+      "event_name": "Rias Baixas Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    },
+    {
+      "event_id": "4812",
+      "event_name": "Pro Taghazout Bay",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 4,
+          "total_score": 5.93,
+          "wave_scores": [
+            5.43,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4938",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_68007",
+          "round_name": "Round of 16 - Heat 3",
+          "position": 3,
+          "total_score": 7.4,
+          "wave_scores": [
+            2.83,
+            3.57,
+            3.43,
+            3.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_23716",
+          "round_name": "Round of 32 - Heat 5",
+          "position": 1,
+          "total_score": 11.4,
+          "wave_scores": [
+            5.33,
+            6.07,
+            4.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4934",
+      "event_name": "Boardmasters Open 2025",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_63706",
+          "round_name": "Round of 32 - Heat 7",
+          "position": 1,
+          "total_score": 9.9,
+          "wave_scores": [
+            5.17,
+            4.73,
+            2.17,
+            1.13
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

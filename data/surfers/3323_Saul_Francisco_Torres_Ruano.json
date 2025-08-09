@@ -1,0 +1,87 @@
+{
+  "surfer_id": "3323",
+  "name": "Saul Francisco Torres Ruano",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "341",
+      "event_name": "Islas Canarias Ocean and Earth Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_73727",
+          "round_name": "Round of 32",
+          "position": 4,
+          "total_score": 4.95,
+          "wave_scores": [
+            2.15,
+            2.8
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 2,
+          "total_score": 5.65,
+          "wave_scores": [
+            2.4,
+            3.25
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "563",
+      "event_name": "Sopela O'neill Men's Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 4,
+          "total_score": 8.3,
+          "wave_scores": [
+            3.67,
+            4.63
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 2,
+          "total_score": 8.16,
+          "wave_scores": [
+            3.33,
+            4.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "585",
+      "event_name": "Gran Canaria Santa Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    }
+  ]
+}

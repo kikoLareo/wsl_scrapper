@@ -1,0 +1,51 @@
+{
+  "surfer_id": "20542",
+  "name": "Diego Allegue",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4913",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_72116",
+          "round_name": "Round of 64 - Heat 3",
+          "position": 3,
+          "total_score": 6.93,
+          "wave_scores": [
+            0.5,
+            2.0,
+            0.63,
+            3.43,
+            2.17,
+            3.5,
+            1.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_71971",
+          "round_name": "Round of 72 - Heat 2",
+          "position": 1,
+          "total_score": 9.93,
+          "wave_scores": [
+            1.43,
+            4.43,
+            5.5,
+            2.5,
+            2.53,
+            0.27
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

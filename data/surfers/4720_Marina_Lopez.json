@@ -1,0 +1,17 @@
+{
+  "surfer_id": "4720",
+  "name": "Marina Lopez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "580",
+      "event_name": "Swatch Girls Pro France Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "surfer_id": "9321",
+  "name": "Marcela Machado",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "3270",
+      "event_name": "Cabreiroá Pro Las Americas",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_32020",
+          "round_name": "Round 2 - Heat 4",
+          "position": 3,
+          "total_score": 6.73,
+          "wave_scores": [
+            2.5,
+            1.6,
+            0.73,
+            4.23
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_99874",
+          "round_name": "Round 1 - Heat 6",
+          "position": 2,
+          "total_score": 9.43,
+          "wave_scores": [
+            4.83,
+            4.6
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1252",
+      "event_name": "Peña Txuri Junior Pro Sopela",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8373",
+          "round_name": "Quarterfinals",
+          "position": 2,
+          "total_score": 9.17,
+          "wave_scores": [
+            1.07,
+            4.0,
+            2.67,
+            5.17,
+            3.77,
+            1.3
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 2,
+          "total_score": 11.43,
+          "wave_scores": [
+            4.33,
+            2.33,
+            0.93,
+            2.77,
+            7.1,
+            1.0,
+            1.3
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 2,
+          "total_score": 8.07,
+          "wave_scores": [
+            0.9,
+            1.0,
+            3.67,
+            1.63,
+            1.07,
+            1.2,
+            4.4,
+            0.3
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 2,
+          "total_score": 7.6,
+          "wave_scores": [
+            3.67,
+            3.93,
+            2.17,
+            0.9
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1289",
+      "event_name": "Lanzarote Teguise 2015 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 13.47,
+          "wave_scores": [
+            1.83,
+            4.73,
+            6.0,
+            7.47,
+            4.37
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

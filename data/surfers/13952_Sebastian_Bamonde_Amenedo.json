@@ -1,0 +1,110 @@
+{
+  "surfer_id": "13952",
+  "name": "Sebastian Bamonde Amenedo",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4633",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_79093",
+          "round_name": "Round of 112 - Heat 1",
+          "position": 4,
+          "total_score": 7.3,
+          "wave_scores": [
+            4.57,
+            0.37,
+            2.73,
+            1.6,
+            0.93,
+            0.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4913",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_55557",
+          "round_name": "Round of 64 - Heat 4",
+          "position": 4,
+          "total_score": 5.13,
+          "wave_scores": [
+            2.5,
+            1.0,
+            2.63,
+            0.5,
+            2.07,
+            0.37,
+            0.37,
+            1.9,
+            1.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "5058",
+      "event_name": "Quiksilver Junior Pro Capbreton",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_57124",
+          "round_name": "Round of 48 - Heat 3",
+          "position": 4,
+          "total_score": 4.93,
+          "wave_scores": [
+            3.0,
+            0.37,
+            0.9,
+            0.93,
+            1.0,
+            0.3,
+            1.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_72116",
+          "round_name": "Round of 64 - Heat 3",
+          "position": 1,
+          "total_score": 12.5,
+          "wave_scores": [
+            5.67,
+            0.9,
+            6.83,
+            4.97,
+            3.0,
+            0.93,
+            3.13,
+            1.67
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

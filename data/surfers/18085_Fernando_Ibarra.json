@@ -1,0 +1,70 @@
+{
+  "surfer_id": "18085",
+  "name": "Fernando Ibarra",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4913",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_29385",
+          "round_name": "Semifinals - Heat 2",
+          "position": 3,
+          "total_score": 8.23,
+          "wave_scores": [
+            2.6,
+            5.63,
+            2.47
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8992",
+          "round_name": "Quarterfinals - Heat 3",
+          "position": 2,
+          "total_score": 11.4,
+          "wave_scores": [
+            1.73,
+            4.07,
+            7.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_50579",
+          "round_name": "Round of 32 - Heat 8",
+          "position": 2,
+          "total_score": 10.06,
+          "wave_scores": [
+            2.17,
+            4.93,
+            1.33,
+            0.33,
+            5.13,
+            1.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "5058",
+      "event_name": "Quiksilver Junior Pro Capbreton",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": null
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "surfer_id": "10125",
+  "name": "Aitor Fuentes Pavón",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "1408",
+      "event_name": "Caparica Junior Pro",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 3,
+          "total_score": 4.13,
+          "wave_scores": [
+            2.0,
+            1.63,
+            0.5,
+            2.13
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1453",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 3,
+          "total_score": 8.86,
+          "wave_scores": [
+            2.83,
+            4.43,
+            3.63,
+            4.43,
+            1.17
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 1,
+          "total_score": 8.1,
+          "wave_scores": [
+            1.0,
+            3.67,
+            2.5,
+            4.07,
+            1.13,
+            4.03
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1466",
+      "event_name": "Junior Pro Sopela",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 5.23,
+          "wave_scores": [
+            2.83,
+            1.83,
+            0.67,
+            0.73,
+            1.23,
+            2.4,
+            2.03
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

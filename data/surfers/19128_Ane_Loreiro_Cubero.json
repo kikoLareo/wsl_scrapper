@@ -1,0 +1,62 @@
+{
+  "surfer_id": "19128",
+  "name": "Ane Loreiro Cubero",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4915",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_86369",
+          "round_name": "Round of 40 - Heat 1",
+          "position": 3,
+          "total_score": 6.33,
+          "wave_scores": [
+            0.67,
+            3.0,
+            2.97,
+            1.13,
+            0.63,
+            0.77,
+            3.33,
+            1.9
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "5059",
+      "event_name": "ROXY Junior Pro Capbreton",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_46665",
+          "round_name": "Round of 32 - Heat 6",
+          "position": 3,
+          "total_score": 6.44,
+          "wave_scores": [
+            2.23,
+            1.0,
+            3.17,
+            0.93,
+            3.27
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

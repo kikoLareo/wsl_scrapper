@@ -1,0 +1,105 @@
+{
+  "surfer_id": "12556",
+  "name": "Bitor Garitaonandia",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "4872",
+      "event_name": "Caparica Surf Fest 2025",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_23716",
+          "round_name": "Round of 32 - Heat 5",
+          "position": 3,
+          "total_score": 10.84,
+          "wave_scores": [
+            6.17,
+            2.57,
+            0.5,
+            3.23,
+            1.4,
+            4.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_9027",
+          "round_name": "Round of 64 - Heat 11",
+          "position": 2,
+          "total_score": 9.6,
+          "wave_scores": [
+            4.33,
+            0.43,
+            3.43,
+            0.5,
+            5.27,
+            0.2,
+            0.5,
+            2.23
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4937",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_3158",
+          "round_name": "Round of 64 - Heat 5",
+          "position": 4,
+          "total_score": 6.6,
+          "wave_scores": [
+            2.27,
+            2.37,
+            1.6,
+            2.03,
+            4.23,
+            2.2
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4933",
+      "event_name": "Boardmasters Open 2025",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_29185",
+          "round_name": "Round of 64 - Heat 6",
+          "position": 3,
+          "total_score": 8.67,
+          "wave_scores": [
+            4.0,
+            0.2,
+            3.27,
+            4.67,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

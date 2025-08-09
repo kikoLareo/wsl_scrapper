@@ -1,0 +1,102 @@
+{
+  "surfer_id": "15826",
+  "name": "Fekru Jiménez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4281",
+      "event_name": "Morocco Mall Junior Pro Casablanca",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_88785",
+          "round_name": "Round of 96 - Heat 9",
+          "position": 3,
+          "total_score": 6.6,
+          "wave_scores": [
+            2.0,
+            0.37,
+            0.7,
+            0.93,
+            3.6,
+            1.33,
+            3.0,
+            0.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4349",
+      "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30054",
+          "round_name": "Round of 64 - Heat 1",
+          "position": 4,
+          "total_score": 5.97,
+          "wave_scores": [
+            1.83,
+            1.13,
+            2.03,
+            3.6,
+            2.37
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_66728",
+          "round_name": "Round of 96 - Heat 1",
+          "position": 1,
+          "total_score": 8.83,
+          "wave_scores": [
+            4.33,
+            4.5,
+            3.0,
+            3.47,
+            1.57
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4352",
+      "event_name": "Cabreiroá Junior Pro Razo-Caión",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_68636",
+          "round_name": "Round of 96 - Heat 13",
+          "position": 4,
+          "total_score": 6.6,
+          "wave_scores": [
+            4.0,
+            2.6,
+            0.5,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

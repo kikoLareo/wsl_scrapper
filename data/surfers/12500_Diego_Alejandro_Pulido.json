@@ -1,0 +1,36 @@
+{
+  "surfer_id": "12500",
+  "name": "Diego Alejandro Pulido",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1882",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 5.57,
+          "wave_scores": [
+            2.33,
+            1.0,
+            1.03,
+            2.07,
+            2.4,
+            3.17,
+            1.0,
+            1.2
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

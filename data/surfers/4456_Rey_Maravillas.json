@@ -1,0 +1,53 @@
+{
+  "surfer_id": "4456",
+  "name": "Rey Maravillas",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "564",
+      "event_name": "Sopela O'Neill Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 4.23,
+          "wave_scores": [
+            2.63,
+            1.6
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "567",
+      "event_name": "Gijon Pro Junior Women",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 4.87,
+          "wave_scores": [
+            1.9,
+            2.97
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

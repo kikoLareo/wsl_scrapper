@@ -1,0 +1,57 @@
+{
+  "surfer_id": "7291",
+  "name": "Maravillas Rey",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1042",
+      "event_name": "Espinho Surf Destination",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 0.23,
+          "wave_scores": [
+            0.23
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1003",
+      "event_name": "Sopela Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 2.86,
+          "wave_scores": [
+            0.93,
+            1.2,
+            1.43,
+            1.43,
+            0.67,
+            0.97,
+            0.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

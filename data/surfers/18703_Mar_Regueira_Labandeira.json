@@ -1,0 +1,36 @@
+{
+  "surfer_id": "18703",
+  "name": "Mar Regueira Labandeira",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4353",
+      "event_name": "Cabreiroá Junior Pro Razo-Caión",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_23155",
+          "round_name": "Round of 32 - Heat 2",
+          "position": 4,
+          "total_score": 3.23,
+          "wave_scores": [
+            0.5,
+            0.57,
+            0.33,
+            0.5,
+            1.53,
+            0.67,
+            1.7,
+            1.1
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

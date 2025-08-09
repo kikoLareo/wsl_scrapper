@@ -1,0 +1,33 @@
+{
+  "surfer_id": "9519",
+  "name": "Airam De Juan Pérez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "2658",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_89996",
+          "round_name": "Round 1 - Heat 2",
+          "position": 3,
+          "total_score": 5.87,
+          "wave_scores": [
+            1.23,
+            1.67,
+            2.97,
+            2.6,
+            2.9
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

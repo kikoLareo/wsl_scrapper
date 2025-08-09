@@ -1,0 +1,144 @@
+{
+  "surfer_id": "11397",
+  "name": "Ricardo De La Hera Suarez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "3100",
+      "event_name": "Deeply Pro Anglet",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_58960",
+          "round_name": "Round 1 - Heat 3",
+          "position": 4,
+          "total_score": 5.0,
+          "wave_scores": [
+            2.93,
+            0.83,
+            1.57,
+            2.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2991",
+      "event_name": "Caparica Surf Fest Junior Pro",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_46237",
+          "round_name": "Round 2 - Heat 11",
+          "position": 4,
+          "total_score": 6.74,
+          "wave_scores": [
+            2.97,
+            1.1,
+            1.17,
+            3.77
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_65257",
+          "round_name": "Round 1 - Heat 12",
+          "position": 2,
+          "total_score": 8.96,
+          "wave_scores": [
+            2.1,
+            4.33,
+            4.63,
+            3.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "3208",
+      "event_name": "Quiksilver Junior Pro 40",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_52900",
+          "round_name": "Round 4 - Heat 6",
+          "position": 4,
+          "total_score": 11.97,
+          "wave_scores": [
+            5.1,
+            5.5,
+            0.83,
+            1.0,
+            6.47,
+            1.0,
+            2.6
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_85142",
+          "round_name": "Round 3 - Heat 9",
+          "position": 2,
+          "total_score": 7.83,
+          "wave_scores": [
+            1.0,
+            3.33,
+            4.5,
+            1.0,
+            3.17,
+            0.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_79524",
+          "round_name": "Round 2 - Heat 10",
+          "position": 2,
+          "total_score": 12.77,
+          "wave_scores": [
+            5.67,
+            0.5,
+            5.77,
+            5.7,
+            3.53,
+            7.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_50216",
+          "round_name": "Round 1 - Heat 10",
+          "position": 1,
+          "total_score": 14.8,
+          "wave_scores": [
+            6.5,
+            7.07,
+            7.73
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

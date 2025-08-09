@@ -1,0 +1,32 @@
+{
+  "surfer_id": "12607",
+  "name": "Eñaut Salaberria",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "1925",
+      "event_name": "Pro Anglet",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 6.27,
+          "wave_scores": [
+            4.0,
+            1.4,
+            0.5,
+            2.27
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

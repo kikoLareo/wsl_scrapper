@@ -1,0 +1,32 @@
+{
+  "surfer_id": "10621",
+  "name": "Diego Lourido Alvarez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1492",
+      "event_name": "Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_60141",
+          "round_name": "Round2",
+          "position": 4,
+          "total_score": 8.23,
+          "wave_scores": [
+            2.67,
+            1.0,
+            4.0,
+            4.23
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

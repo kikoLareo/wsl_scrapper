@@ -1,0 +1,36 @@
+{
+  "surfer_id": "18371",
+  "name": "Jaime Fernández Díaz",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4343",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_91524",
+          "round_name": "Round of 128 - Heat 12",
+          "position": 4,
+          "total_score": 3.7,
+          "wave_scores": [
+            1.23,
+            0.87,
+            1.2,
+            1.9,
+            0.4,
+            0.67,
+            1.8,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

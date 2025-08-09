@@ -1,0 +1,50 @@
+{
+  "surfer_id": "14406",
+  "name": "Alejandro Diaz",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "2942",
+      "event_name": "Cabreiroá Las Americas Pro Tenerife",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_79524",
+          "round_name": "Round 2 - Heat 10",
+          "position": 4,
+          "total_score": 7.47,
+          "wave_scores": [
+            4.5,
+            2.97,
+            1.77,
+            1.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_40054",
+          "round_name": "Round 1 - Heat 5",
+          "position": 2,
+          "total_score": 6.7,
+          "wave_scores": [
+            0.33,
+            1.67,
+            1.43,
+            1.67,
+            3.27,
+            3.43,
+            1.0,
+            2.23
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

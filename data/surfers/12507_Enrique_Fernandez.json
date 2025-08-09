@@ -1,0 +1,97 @@
+{
+  "surfer_id": "12507",
+  "name": "Enrique Fernandez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "3094",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_38176",
+          "round_name": "Round 1 - Heat 1",
+          "position": 3,
+          "total_score": 3.83,
+          "wave_scores": [
+            1.0,
+            0.5,
+            2.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "3208",
+      "event_name": "Quiksilver Junior Pro 40",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_67746",
+          "round_name": "Round 3 - Heat 4",
+          "position": 3,
+          "total_score": 8.96,
+          "wave_scores": [
+            4.83,
+            4.13,
+            1.07,
+            1.07
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_95893",
+          "round_name": "Round 2 - Heat 3",
+          "position": 2,
+          "total_score": 10.83,
+          "wave_scores": [
+            1.93,
+            4.83,
+            2.57,
+            6.0,
+            3.07,
+            1.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "3199",
+      "event_name": "Ribeira Grande Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_34271",
+          "round_name": "Round 2 - Heat 14",
+          "position": 3,
+          "total_score": 6.7,
+          "wave_scores": [
+            2.7,
+            1.0,
+            4.0,
+            1.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

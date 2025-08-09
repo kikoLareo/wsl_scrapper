@@ -1,0 +1,36 @@
+{
+  "surfer_id": "13166",
+  "name": "Demian Caceres Alge",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "2608",
+      "event_name": "Las Americas Pro Tenerife",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_91675",
+          "round_name": "Round 1 - Heat 14",
+          "position": 3,
+          "total_score": 5.77,
+          "wave_scores": [
+            2.0,
+            0.93,
+            1.8,
+            2.3,
+            2.4,
+            1.0,
+            2.77,
+            3.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

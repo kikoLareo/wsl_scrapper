@@ -1,0 +1,163 @@
+{
+  "surfer_id": "12611",
+  "name": "Peru Zuniga",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "4937",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_77746",
+          "round_name": "Round of 120 - Heat 3",
+          "position": 3,
+          "total_score": 6.4,
+          "wave_scores": [
+            2.0,
+            2.9,
+            3.5,
+            0.37
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4913",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_14619",
+          "round_name": "Quarterfinals - Heat 2",
+          "position": 3,
+          "total_score": 11.27,
+          "wave_scores": [
+            4.0,
+            6.0,
+            5.27,
+            5.1,
+            3.27
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 2,
+          "total_score": 11.84,
+          "wave_scores": [
+            0.5,
+            6.17,
+            3.67,
+            0.3,
+            5.67,
+            5.43
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_47399",
+          "round_name": "Round of 48 - Heat 1",
+          "position": 1,
+          "total_score": 10.57,
+          "wave_scores": [
+            5.67,
+            3.5,
+            4.07,
+            0.43,
+            4.9
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30054",
+          "round_name": "Round of 64 - Heat 1",
+          "position": 1,
+          "total_score": 11.23,
+          "wave_scores": [
+            6.33,
+            3.73,
+            4.9,
+            1.7,
+            1.13,
+            4.1,
+            1.23
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "5058",
+      "event_name": "Quiksilver Junior Pro Capbreton",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_63706",
+          "round_name": "Round of 32 - Heat 7",
+          "position": 3,
+          "total_score": 6.67,
+          "wave_scores": [
+            3.67,
+            0.4,
+            3.0,
+            1.0,
+            2.43
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_45015",
+          "round_name": "Round of 48 - Heat 8",
+          "position": 2,
+          "total_score": 10.37,
+          "wave_scores": [
+            1.83,
+            4.5,
+            0.9,
+            4.2,
+            3.83,
+            5.0,
+            0.57,
+            5.37
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_7398",
+          "round_name": "Round of 64 - Heat 7",
+          "position": 2,
+          "total_score": 8.73,
+          "wave_scores": [
+            2.73,
+            6.0,
+            2.57
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

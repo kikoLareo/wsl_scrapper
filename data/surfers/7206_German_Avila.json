@@ -1,0 +1,41 @@
+{
+  "surfer_id": "7206",
+  "name": "German Avila",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "987",
+      "event_name": "Rias Baixas Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    },
+    {
+      "event_id": "1013",
+      "event_name": "Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 4.8,
+          "wave_scores": [
+            0.6,
+            2.4,
+            2.4
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

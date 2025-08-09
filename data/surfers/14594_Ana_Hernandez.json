@@ -1,0 +1,33 @@
+{
+  "surfer_id": "14594",
+  "name": "Ana Hernandez",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "3270",
+      "event_name": "Cabreiroá Pro Las Americas",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_89996",
+          "round_name": "Round 1 - Heat 2",
+          "position": 3,
+          "total_score": 7.4,
+          "wave_scores": [
+            1.07,
+            4.07,
+            0.33,
+            1.0,
+            3.33
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

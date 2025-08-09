@@ -1,0 +1,17 @@
+{
+  "surfer_id": "7523",
+  "name": "Isabel Ledo",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1012",
+      "event_name": "Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    }
+  ]
+}

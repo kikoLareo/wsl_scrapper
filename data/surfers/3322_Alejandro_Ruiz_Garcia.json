@@ -1,0 +1,42 @@
+{
+  "surfer_id": "3322",
+  "name": "Alejandro Ruiz Garcia",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "341",
+      "event_name": "Islas Canarias Ocean and Earth Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_73727",
+          "round_name": "Round of 32",
+          "position": 3,
+          "total_score": 6.5,
+          "wave_scores": [
+            3.5,
+            3.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 1,
+          "total_score": 7.35,
+          "wave_scores": [
+            3.75,
+            3.6
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

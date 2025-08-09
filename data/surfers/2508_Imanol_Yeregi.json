@@ -1,0 +1,168 @@
+{
+  "surfer_id": "2508",
+  "name": "Imanol Yeregi",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "3010",
+      "event_name": "Cabreiroá Pro Zarautz Basque Country",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_54361",
+          "round_name": "Round 3 - Heat 13",
+          "position": 4,
+          "total_score": 8.84,
+          "wave_scores": [
+            5.67,
+            1.17,
+            1.67,
+            0.83,
+            3.17
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1218",
+      "event_name": "Caparica Primavera Surf Fest",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 3,
+          "total_score": 8.56,
+          "wave_scores": [
+            1.67,
+            0.93,
+            3.03,
+            2.83,
+            5.53,
+            2.43
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 2,
+          "total_score": 13.16,
+          "wave_scores": [
+            1.5,
+            4.67,
+            5.83,
+            7.33,
+            4.27
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 1,
+          "total_score": 15.17,
+          "wave_scores": [
+            7.17,
+            8.0,
+            5.33,
+            3.47
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1254",
+      "event_name": "Peña Txuri Junior Pro Sopela",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_87673",
+          "round_name": "Round 5",
+          "position": 3,
+          "total_score": 11.67,
+          "wave_scores": [
+            5.5,
+            4.17,
+            6.17,
+            2.67,
+            5.0,
+            4.87
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_6552",
+          "round_name": "Round 4",
+          "position": 2,
+          "total_score": 11.0,
+          "wave_scores": [
+            5.0,
+            6.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 2,
+          "total_score": 9.9,
+          "wave_scores": [
+            3.5,
+            4.67,
+            5.23,
+            4.43
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1268",
+      "event_name": "Airwalk Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 3,
+          "total_score": 11.67,
+          "wave_scores": [
+            1.07,
+            6.3,
+            4.83,
+            4.0,
+            5.37
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

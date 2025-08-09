@@ -1,0 +1,36 @@
+{
+  "surfer_id": "9520",
+  "name": "Jolan Lequertier",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "1288",
+      "event_name": "Lanzarote Teguise 2015 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 3,
+          "total_score": 6.9,
+          "wave_scores": [
+            1.0,
+            1.67,
+            1.63,
+            1.6,
+            4.07,
+            1.97,
+            2.83,
+            1.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

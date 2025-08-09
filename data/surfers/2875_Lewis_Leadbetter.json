@@ -1,0 +1,86 @@
+{
+  "surfer_id": "2875",
+  "name": "Lewis Leadbetter",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "2942",
+      "event_name": "Cabreiroá Las Americas Pro Tenerife",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_70778",
+          "round_name": "Round 2 - Heat 13",
+          "position": 3,
+          "total_score": 6.3,
+          "wave_scores": [
+            3.67,
+            1.07,
+            2.63,
+            1.23,
+            1.7,
+            1.13,
+            1.63,
+            0.87,
+            1.43
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1073",
+      "event_name": "Teguise 2014 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 3,
+          "total_score": 6.2,
+          "wave_scores": [
+            0.5,
+            1.5,
+            1.83,
+            2.33,
+            2.73,
+            1.0,
+            0.4,
+            3.47
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 1,
+          "total_score": 10.0,
+          "wave_scores": [
+            3.5,
+            1.37,
+            4.0,
+            2.83,
+            5.5,
+            4.5,
+            1.07,
+            0.93,
+            1.17,
+            0.73
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

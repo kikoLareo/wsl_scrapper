@@ -1,0 +1,38 @@
+{
+  "surfer_id": "11440",
+  "name": "Tiago Marinho",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1833",
+      "event_name": "Pro Zarautz",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 4,
+          "total_score": 5.9,
+          "wave_scores": [
+            1.13,
+            0.5,
+            1.73,
+            1.0,
+            2.8,
+            3.0,
+            2.9,
+            1.13,
+            1.0,
+            0.73
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

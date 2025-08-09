@@ -1,0 +1,36 @@
+{
+  "surfer_id": "16000",
+  "name": "Toni Castro",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "3735",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_40630",
+          "round_name": "Round of 96 - Heat 4",
+          "position": 4,
+          "total_score": 3.94,
+          "wave_scores": [
+            2.07,
+            1.6,
+            0.93,
+            1.1,
+            0.5,
+            1.87,
+            0.83,
+            1.43
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

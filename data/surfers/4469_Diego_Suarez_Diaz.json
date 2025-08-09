@@ -1,0 +1,333 @@
+{
+  "surfer_id": "4469",
+  "name": "Diego Suarez Diaz",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "3271",
+      "event_name": "Cabreiroá Pro Las Americas",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_42960",
+          "round_name": "Round 2 - Heat 12",
+          "position": 4,
+          "total_score": 4.63,
+          "wave_scores": [
+            1.07,
+            1.17,
+            1.4,
+            1.03,
+            3.23
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2658",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_40362",
+          "round_name": "Round 4 - Heat 3",
+          "position": 3,
+          "total_score": 9.1,
+          "wave_scores": [
+            3.83,
+            3.0,
+            2.43,
+            5.27,
+            1.73,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_49408",
+          "round_name": "Round 3 - Heat 6",
+          "position": 1,
+          "total_score": 10.74,
+          "wave_scores": [
+            0.57,
+            5.17,
+            0.4,
+            5.57
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2663",
+      "event_name": "Caparica Junior Pro",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_72582",
+          "round_name": "Round 4 - Heat 2",
+          "position": 4,
+          "total_score": 7.24,
+          "wave_scores": [
+            4.67,
+            0.67,
+            2.57
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_7162",
+          "round_name": "Round 3 - Heat 2",
+          "position": 2,
+          "total_score": 10.8,
+          "wave_scores": [
+            3.33,
+            1.07,
+            3.17,
+            5.0,
+            0.83,
+            2.7,
+            5.8,
+            2.63
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2865",
+      "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_7162",
+          "round_name": "Round 3 - Heat 2",
+          "position": 4,
+          "total_score": 3.0,
+          "wave_scores": [
+            0.83,
+            0.9,
+            0.93,
+            2.07
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2703",
+      "event_name": "Junior Pro Biscarrosse",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_8553",
+          "round_name": "Round 4 - Heat 8",
+          "position": 3,
+          "total_score": 8.9,
+          "wave_scores": [
+            4.43,
+            1.07,
+            4.37,
+            4.47
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_15954",
+          "round_name": "Round 3 - Heat 15",
+          "position": 1,
+          "total_score": 14.53,
+          "wave_scores": [
+            6.33,
+            3.0,
+            4.83,
+            7.7,
+            4.43,
+            6.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2758",
+      "event_name": "Junior Pro Sopela",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_92125",
+          "round_name": "Final",
+          "position": 2,
+          "total_score": 10.44,
+          "wave_scores": [
+            3.5,
+            0.5,
+            5.17,
+            0.5,
+            1.13,
+            1.13,
+            5.27,
+            3.13
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_29385",
+          "round_name": "Semifinals - Heat 2",
+          "position": 1,
+          "total_score": 8.86,
+          "wave_scores": [
+            1.0,
+            1.5,
+            2.5,
+            4.93,
+            3.93,
+            3.43
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8992",
+          "round_name": "Quarterfinals - Heat 3",
+          "position": 1,
+          "total_score": 9.76,
+          "wave_scores": [
+            3.33,
+            5.83,
+            3.57,
+            2.0,
+            3.93
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_88602",
+          "round_name": "Round 5 - Heat 4",
+          "position": 2,
+          "total_score": 13.6,
+          "wave_scores": [
+            1.0,
+            4.37,
+            3.57,
+            4.27,
+            6.5,
+            7.1,
+            2.67,
+            1.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_8553",
+          "round_name": "Round 4 - Heat 8",
+          "position": 1,
+          "total_score": 12.0,
+          "wave_scores": [
+            1.33,
+            5.4,
+            1.23,
+            5.9,
+            6.1
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_15954",
+          "round_name": "Round 3 - Heat 15",
+          "position": 1,
+          "total_score": 10.3,
+          "wave_scores": [
+            2.83,
+            3.07,
+            4.9,
+            1.07,
+            2.57,
+            1.07,
+            5.4
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2883",
+      "event_name": "Pantin Junior Pro by Gadis",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_7162",
+          "round_name": "Round 3 - Heat 2",
+          "position": 3,
+          "total_score": 10.8,
+          "wave_scores": [
+            5.33,
+            3.67,
+            0.93,
+            2.5,
+            5.47,
+            3.23,
+            4.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_32020",
+          "round_name": "Round 2 - Heat 4",
+          "position": 1,
+          "total_score": 9.03,
+          "wave_scores": [
+            4.5,
+            4.53,
+            2.93
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

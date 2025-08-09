@@ -1,0 +1,30 @@
+{
+  "surfer_id": "2219",
+  "name": "Lenny Perdomo",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "494",
+      "event_name": "Islas Canarias Santa Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_31041",
+          "round_name": "Round of 144",
+          "position": 3,
+          "total_score": 10.1,
+          "wave_scores": [
+            5.8,
+            4.3
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

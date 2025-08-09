@@ -1,0 +1,35 @@
+{
+  "surfer_id": "590",
+  "name": "Eneko Acero",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "1548",
+      "event_name": "Pro Zarautz",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 3,
+          "total_score": 11.7,
+          "wave_scores": [
+            0.93,
+            5.5,
+            3.33,
+            4.8,
+            6.2,
+            5.43,
+            5.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

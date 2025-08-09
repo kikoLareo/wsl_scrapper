@@ -1,0 +1,33 @@
+{
+  "surfer_id": "14653",
+  "name": "Liber Gesalaga",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "3010",
+      "event_name": "Cabreiroá Pro Zarautz Basque Country",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_53092",
+          "round_name": "Round 1 - Heat 13",
+          "position": 4,
+          "total_score": 4.47,
+          "wave_scores": [
+            2.27,
+            2.2,
+            1.57,
+            1.0,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

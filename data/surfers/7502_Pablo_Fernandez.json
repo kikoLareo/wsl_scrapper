@@ -1,0 +1,51 @@
+{
+  "surfer_id": "7502",
+  "name": "Pablo Fernandez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1073",
+      "event_name": "Teguise 2014 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 3,
+          "total_score": 9.33,
+          "wave_scores": [
+            4.83,
+            4.5,
+            0.93,
+            0.5,
+            4.03
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 2,
+          "total_score": 7.16,
+          "wave_scores": [
+            0.6,
+            0.37,
+            2.17,
+            3.33,
+            2.93,
+            0.63,
+            3.83,
+            3.1
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1757 @@
+{
+  "surfers": [
+    {
+      "surfer_id": "588",
+      "name": "Aritz Aranburu",
+      "country": "Basque Country",
+      "gender": "Women",
+      "birth_date": null,
+      "hometown": "zarautz",
+      "stance": "Regular",
+      "height": "5 ft",
+      "weight": "155 lbs",
+      "sponsor": null,
+      "career_earnings": null,
+      "career_victories": 0,
+      "world_titles": 0,
+      "active_years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2007,
+        2000
+      ],
+      "seasons": [
+        {
+          "year": 2025,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2024,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2023,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2022,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2021,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2020,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2019,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2018,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2017,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2016,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2015,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2014,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2013,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2012,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2011,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2010,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2009,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2008,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2007,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2000,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        }
+      ]
+    },
+    {
+      "surfer_id": "3771",
+      "name": "Juan Fernandez",
+      "country": "Spain",
+      "gender": "Women",
+      "birth_date": null,
+      "hometown": null,
+      "stance": null,
+      "height": null,
+      "weight": null,
+      "sponsor": null,
+      "career_earnings": null,
+      "career_victories": 0,
+      "world_titles": 0,
+      "active_years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2000
+      ],
+      "seasons": [
+        {
+          "year": 2025,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2024,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2023,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2022,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2021,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2020,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2019,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2018,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2017,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2016,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2015,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2014,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2013,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2012,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2011,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2010,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2009,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2008,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2000,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        }
+      ]
+    },
+    {
+      "surfer_id": "602",
+      "name": "Gony Zubizarreta",
+      "country": "Basque Country",
+      "gender": "Women",
+      "birth_date": null,
+      "hometown": "vigo",
+      "stance": "Regular",
+      "height": "5 ft",
+      "weight": "160 lbs",
+      "sponsor": null,
+      "career_earnings": null,
+      "career_victories": 0,
+      "world_titles": 0,
+      "active_years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2000
+      ],
+      "seasons": [
+        {
+          "year": 2025,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2024,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2023,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2022,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2021,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2020,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2019,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2018,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2017,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2016,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2015,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2014,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2013,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2012,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2011,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2010,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2009,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2008,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2000,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        }
+      ]
+    },
+    {
+      "surfer_id": "10158",
+      "name": "Adur Amatriain",
+      "country": "Basque Country",
+      "gender": "Women",
+      "birth_date": null,
+      "hometown": null,
+      "stance": "Regular",
+      "height": null,
+      "weight": null,
+      "sponsor": null,
+      "career_earnings": null,
+      "career_victories": 0,
+      "world_titles": 0,
+      "active_years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2003,
+        2000
+      ],
+      "seasons": [
+        {
+          "year": 2025,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2024,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2023,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2022,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2021,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2020,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2019,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2018,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2017,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2016,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2015,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2014,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2013,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2012,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2011,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2010,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2009,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2008,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2003,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2000,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        }
+      ]
+    },
+    {
+      "surfer_id": "18855",
+      "name": "Alex Hontoria",
+      "country": "Spain",
+      "gender": "Women",
+      "birth_date": null,
+      "hometown": null,
+      "stance": null,
+      "height": null,
+      "weight": null,
+      "sponsor": null,
+      "career_earnings": null,
+      "career_victories": 0,
+      "world_titles": 0,
+      "active_years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2000
+      ],
+      "seasons": [
+        {
+          "year": 2025,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2024,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2023,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2022,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2021,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2020,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2019,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2018,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2017,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2016,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2015,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2014,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2013,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2012,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2011,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2010,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2009,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2008,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2000,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        }
+      ]
+    },
+    {
+      "surfer_id": "7171",
+      "name": "Juanjo Fernandez",
+      "country": "Spain",
+      "gender": "Women",
+      "birth_date": null,
+      "hometown": "sevilla",
+      "stance": "Goofy",
+      "height": "5 ft",
+      "weight": "165 lbs",
+      "sponsor": null,
+      "career_earnings": null,
+      "career_victories": 0,
+      "world_titles": 0,
+      "active_years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2000
+      ],
+      "seasons": [
+        {
+          "year": 2025,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2024,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2023,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2022,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2021,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2020,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2019,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2018,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2017,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2016,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2015,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2014,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2013,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2012,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2011,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2010,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2009,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2008,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2000,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        }
+      ]
+    },
+    {
+      "surfer_id": "7288",
+      "name": "Nadia Erostarbe",
+      "country": "Basque Country",
+      "gender": "Women",
+      "birth_date": null,
+      "hometown": "zarautz",
+      "stance": "Goofy",
+      "height": null,
+      "weight": null,
+      "sponsor": null,
+      "career_earnings": null,
+      "career_victories": 0,
+      "world_titles": 0,
+      "active_years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2000
+      ],
+      "seasons": [
+        {
+          "year": 2025,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2024,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2023,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2022,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2021,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2020,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2019,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2018,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2017,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2016,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2015,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2014,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2013,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2012,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2011,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2010,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2009,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2008,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2000,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        }
+      ]
+    },
+    {
+      "surfer_id": "15615",
+      "name": "Annette Gonzalez Etxabarri",
+      "country": "Basque Country",
+      "gender": "Women",
+      "birth_date": null,
+      "hometown": null,
+      "stance": "Regular",
+      "height": "5 ft",
+      "weight": "103 lbs",
+      "sponsor": null,
+      "career_earnings": null,
+      "career_victories": 0,
+      "world_titles": 0,
+      "active_years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2007,
+        2000
+      ],
+      "seasons": [
+        {
+          "year": 2025,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2024,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2023,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2022,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2021,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2020,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2019,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2018,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2017,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2016,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2015,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2014,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2013,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2012,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2011,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2010,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2009,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2008,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2007,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2000,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        }
+      ]
+    },
+    {
+      "surfer_id": "10487",
+      "name": "Janire Gonzalez Etxabarri",
+      "country": "Basque Country",
+      "gender": "Women",
+      "birth_date": null,
+      "hometown": "zumaia",
+      "stance": "Goofy",
+      "height": "5 ft",
+      "weight": "103 lbs",
+      "sponsor": null,
+      "career_earnings": null,
+      "career_victories": 0,
+      "world_titles": 0,
+      "active_years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2005,
+        2000
+      ],
+      "seasons": [
+        {
+          "year": 2025,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2024,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2023,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2022,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2021,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2020,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2019,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2018,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2017,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2016,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2015,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2014,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2013,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2012,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2011,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2010,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2009,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2008,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2005,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        },
+        {
+          "year": 2000,
+          "tour_type": "Championship Tour",
+          "final_ranking": null,
+          "total_points": null,
+          "events_participated": 0,
+          "events": []
+        }
+      ]
+    }
+  ],
+  "last_updated": "2025-08-08T13:32:34.289728",
+  "total_surfers": 9,
+  "countries_covered": [
+    "Spain",
+    "Basque Country",
+    "Canary Islands"
+  ]
+}

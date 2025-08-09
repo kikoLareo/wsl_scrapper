@@ -1,0 +1,78 @@
+{
+  "surfer_id": "15884",
+  "name": "Enara Palacios",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4350",
+      "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_89990",
+          "round_name": "Round of 48 - Heat 2",
+          "position": 3,
+          "total_score": 6.9,
+          "wave_scores": [
+            1.27,
+            2.0,
+            0.77,
+            1.17,
+            2.67,
+            4.23
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4353",
+      "event_name": "Cabreiroá Junior Pro Razo-Caión",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_3102",
+          "round_name": "Round of 32 - Heat 3",
+          "position": 4,
+          "total_score": 10.77,
+          "wave_scores": [
+            2.5,
+            6.17,
+            3.4,
+            0.47,
+            4.6,
+            0.2,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_45413",
+          "round_name": "Round of 40 - Heat 2",
+          "position": 1,
+          "total_score": 10.93,
+          "wave_scores": [
+            6.0,
+            4.1,
+            0.5,
+            0.93,
+            4.93,
+            1.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

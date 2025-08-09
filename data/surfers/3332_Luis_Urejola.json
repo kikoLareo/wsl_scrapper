@@ -1,0 +1,30 @@
+{
+  "surfer_id": "3332",
+  "name": "Luis Urejola",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "341",
+      "event_name": "Islas Canarias Ocean and Earth Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 4,
+          "total_score": 5.55,
+          "wave_scores": [
+            2.9,
+            2.65
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

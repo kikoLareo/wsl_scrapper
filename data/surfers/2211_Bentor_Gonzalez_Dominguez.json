@@ -1,0 +1,30 @@
+{
+  "surfer_id": "2211",
+  "name": "Bentor Gonzalez Dominguez",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "341",
+      "event_name": "Islas Canarias Ocean and Earth Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 3,
+          "total_score": 8.35,
+          "wave_scores": [
+            5.0,
+            3.35
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

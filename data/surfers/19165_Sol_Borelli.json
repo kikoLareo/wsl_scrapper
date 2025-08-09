@@ -1,0 +1,158 @@
+{
+  "surfer_id": "19165",
+  "name": "Sol Borelli",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4812",
+      "event_name": "Pro Taghazout Bay",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_18973",
+          "round_name": "Round of 16 - Heat 4",
+          "position": 3,
+          "total_score": 11.5,
+          "wave_scores": [
+            4.33,
+            3.67,
+            0.93,
+            7.17,
+            2.53,
+            0.33
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_63706",
+          "round_name": "Round of 32 - Heat 7",
+          "position": 1,
+          "total_score": 11.26,
+          "wave_scores": [
+            4.43,
+            1.93,
+            6.83,
+            2.0
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_44345",
+          "round_name": "Round of 40 - Heat 4",
+          "position": 1,
+          "total_score": 14.6,
+          "wave_scores": [
+            7.67,
+            6.5,
+            6.93
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4871",
+      "event_name": "Caparica Surf Fest 2025",
+      "location": "Unknown",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_63706",
+          "round_name": "Round of 32 - Heat 7",
+          "position": 4,
+          "total_score": 8.47,
+          "wave_scores": [
+            2.17,
+            2.5,
+            5.97,
+            1.13,
+            1.07,
+            1.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4915",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_54741",
+          "round_name": "Quarterfinals - Heat 4",
+          "position": 3,
+          "total_score": 8.5,
+          "wave_scores": [
+            1.33,
+            2.87,
+            0.97,
+            3.17,
+            5.33,
+            1.77,
+            1.1
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_23716",
+          "round_name": "Round of 32 - Heat 5",
+          "position": 2,
+          "total_score": 11.3,
+          "wave_scores": [
+            3.83,
+            5.0,
+            2.77,
+            5.73,
+            2.47,
+            5.57
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "5059",
+      "event_name": "ROXY Junior Pro Capbreton",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_46665",
+          "round_name": "Round of 32 - Heat 6",
+          "position": 4,
+          "total_score": 5.74,
+          "wave_scores": [
+            0.5,
+            2.37,
+            2.57,
+            3.17,
+            0.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

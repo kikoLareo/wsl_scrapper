@@ -1,0 +1,30 @@
+{
+  "surfer_id": "14572",
+  "name": "Miguel Marrero Dominguez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "3880",
+      "event_name": "GADIS Junior Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_29185",
+          "round_name": "Round of 64 - Heat 6",
+          "position": 3,
+          "total_score": 6.0,
+          "wave_scores": [
+            3.5,
+            2.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

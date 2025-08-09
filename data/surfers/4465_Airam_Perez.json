@@ -1,0 +1,17 @@
+{
+  "surfer_id": "4465",
+  "name": "Airam Perez",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "585",
+      "event_name": "Gran Canaria Santa Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": []
+    }
+  ]
+}

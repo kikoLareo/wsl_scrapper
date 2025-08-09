@@ -1,0 +1,30 @@
+{
+  "surfer_id": "2205",
+  "name": "Manuel Lezcano Cruz",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "341",
+      "event_name": "Islas Canarias Ocean and Earth Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 3,
+          "total_score": 8.55,
+          "wave_scores": [
+            3.9,
+            4.65
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

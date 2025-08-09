@@ -1,0 +1,30 @@
+{
+  "surfer_id": "9523",
+  "name": "Carla Suárez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1289",
+      "event_name": "Lanzarote Teguise 2015 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "WJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 3.83,
+          "wave_scores": [
+            2.43,
+            1.4
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "surfer_id": "9457",
+  "name": "Oliver Mendez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "1280",
+      "event_name": "Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 1.93,
+          "wave_scores": [
+            0.77,
+            1.0,
+            0.77,
+            0.93,
+            0.93
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

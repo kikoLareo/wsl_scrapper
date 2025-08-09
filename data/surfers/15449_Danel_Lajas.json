@@ -1,0 +1,179 @@
+{
+  "surfer_id": "15449",
+  "name": "Danel Lajas",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4335",
+      "event_name": "Caraïbos Lacanau Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_25610",
+          "round_name": "Round of 96 - Heat 2",
+          "position": 3,
+          "total_score": 8.1,
+          "wave_scores": [],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_87352",
+          "round_name": "Round of 128 - Heat 1",
+          "position": 2,
+          "total_score": 6.96,
+          "wave_scores": [
+            3.83,
+            2.23,
+            0.57,
+            2.4,
+            3.13
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4338",
+      "event_name": "Rip Curl Pro Anglet",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_99878",
+          "round_name": "Round of 96 - Heat 10",
+          "position": 3,
+          "total_score": 8.8,
+          "wave_scores": [
+            0.67,
+            2.83,
+            1.33,
+            3.97,
+            3.5,
+            4.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_87224",
+          "round_name": "Round of 128 - Heat 9",
+          "position": 2,
+          "total_score": 10.67,
+          "wave_scores": [
+            4.17,
+            6.5,
+            1.1,
+            0.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4343",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_4828",
+          "round_name": "Round of 128 - Heat 6",
+          "position": 4,
+          "total_score": 8.97,
+          "wave_scores": [
+            1.0,
+            4.4,
+            4.57,
+            1.43,
+            0.5,
+            1.87
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4349",
+      "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_83680",
+          "round_name": "Round of 96 - Heat 11",
+          "position": 4,
+          "total_score": 4.2,
+          "wave_scores": [
+            0.2,
+            2.63,
+            1.57
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4352",
+      "event_name": "Cabreiroá Junior Pro Razo-Caión",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30054",
+          "round_name": "Round of 64 - Heat 1",
+          "position": 4,
+          "total_score": 6.5,
+          "wave_scores": [
+            0.5,
+            0.47,
+            2.83,
+            0.47,
+            0.5,
+            0.5,
+            3.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_25610",
+          "round_name": "Round of 96 - Heat 2",
+          "position": 2,
+          "total_score": 9.1,
+          "wave_scores": [
+            3.33,
+            4.5,
+            3.43,
+            4.6,
+            3.17,
+            0.5,
+            0.73
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

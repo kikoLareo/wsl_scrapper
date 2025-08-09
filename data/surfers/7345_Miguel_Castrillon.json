@@ -1,0 +1,209 @@
+{
+  "surfer_id": "7345",
+  "name": "Miguel Castrillon",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "2608",
+      "event_name": "Las Americas Pro Tenerife",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_50216",
+          "round_name": "Round 1 - Heat 10",
+          "position": 3,
+          "total_score": 10.27,
+          "wave_scores": [
+            5.17,
+            0.43,
+            1.5,
+            2.83,
+            1.0,
+            5.1,
+            4.8,
+            0.83,
+            1.13
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2679",
+      "event_name": "Pro Zarautz pres. by Oakley",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_41283",
+          "round_name": "Round 3 - Heat 8",
+          "position": 3,
+          "total_score": 6.44,
+          "wave_scores": [
+            2.5,
+            3.77,
+            2.0,
+            2.67,
+            1.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_9464",
+          "round_name": "Round 2 - Heat 7",
+          "position": 2,
+          "total_score": 7.3,
+          "wave_scores": [
+            3.5,
+            1.07,
+            3.8
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2658",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_14741",
+          "round_name": "Round 3 - Heat 5",
+          "position": 4,
+          "total_score": 4.1,
+          "wave_scores": [
+            0.73,
+            1.33,
+            2.77,
+            1.07
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2663",
+      "event_name": "Caparica Junior Pro",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_40654",
+          "round_name": "Round 3 - Heat 1",
+          "position": 3,
+          "total_score": 11.17,
+          "wave_scores": [
+            6.5,
+            0.5,
+            0.43,
+            0.57,
+            4.67,
+            2.4,
+            0.4,
+            3.97
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2865",
+      "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_28747",
+          "round_name": "Round 4 - Heat 1",
+          "position": 3,
+          "total_score": 10.5,
+          "wave_scores": [
+            6.5,
+            3.97,
+            4.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_40654",
+          "round_name": "Round 3 - Heat 1",
+          "position": 1,
+          "total_score": 12.0,
+          "wave_scores": [
+            5.17,
+            1.83,
+            6.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2703",
+      "event_name": "Junior Pro Biscarrosse",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_28747",
+          "round_name": "Round 4 - Heat 1",
+          "position": 4,
+          "total_score": 7.93,
+          "wave_scores": [
+            3.5,
+            2.23,
+            3.2,
+            4.43
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_67746",
+          "round_name": "Round 3 - Heat 4",
+          "position": 2,
+          "total_score": 11.34,
+          "wave_scores": [
+            1.0,
+            1.9,
+            2.4,
+            7.17,
+            2.07,
+            1.0,
+            4.17
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

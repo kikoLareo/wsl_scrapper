@@ -1,0 +1,34 @@
+{
+  "surfer_id": "673",
+  "name": "Pablo Solar",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "2608",
+      "event_name": "Las Americas Pro Tenerife",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_45769",
+          "round_name": "Round 2 - Heat 8",
+          "position": 3,
+          "total_score": 8.23,
+          "wave_scores": [
+            3.0,
+            3.4,
+            2.67,
+            4.83,
+            0.43,
+            0.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

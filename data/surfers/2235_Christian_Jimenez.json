@@ -1,0 +1,33 @@
+{
+  "surfer_id": "2235",
+  "name": "Christian Jimenez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "3271",
+      "event_name": "Cabreiroá Pro Las Americas",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_41353",
+          "round_name": "Round 2 - Heat 16",
+          "position": 4,
+          "total_score": 8.33,
+          "wave_scores": [
+            0.57,
+            2.9,
+            1.0,
+            4.73,
+            3.6
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

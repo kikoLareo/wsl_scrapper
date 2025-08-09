@@ -1,0 +1,30 @@
+{
+  "surfer_id": "2670",
+  "name": "Ander Mendiguren",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "341",
+      "event_name": "Islas Canarias Ocean and Earth Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_73727",
+          "round_name": "Round of 32",
+          "position": 3,
+          "total_score": 10.15,
+          "wave_scores": [
+            5.0,
+            5.15
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

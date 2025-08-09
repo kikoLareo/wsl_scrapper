@@ -1,0 +1,137 @@
+{
+  "surfer_id": "17104",
+  "name": "Kenjiro Erostarbe",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4281",
+      "event_name": "Morocco Mall Junior Pro Casablanca",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_93087",
+          "round_name": "Round of 64 - Heat 10",
+          "position": 3,
+          "total_score": 7.77,
+          "wave_scores": [
+            4.5,
+            3.27,
+            2.37
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_88785",
+          "round_name": "Round of 96 - Heat 9",
+          "position": 2,
+          "total_score": 7.23,
+          "wave_scores": [
+            3.0,
+            1.5,
+            2.67,
+            4.23,
+            0.17,
+            2.07,
+            1.0,
+            2.13
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_87224",
+          "round_name": "Round of 128 - Heat 9",
+          "position": 1,
+          "total_score": 9.1,
+          "wave_scores": [
+            3.5,
+            5.5,
+            3.6
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4349",
+      "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_96527",
+          "round_name": "Round of 96 - Heat 6",
+          "position": 3,
+          "total_score": 10.33,
+          "wave_scores": [
+            1.1,
+            1.07,
+            0.5,
+            3.17,
+            4.0,
+            3.23,
+            0.33,
+            0.47,
+            6.33,
+            1.47,
+            3.63,
+            1.1
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_63377",
+          "round_name": "Round of 128 - Heat 5",
+          "position": 2,
+          "total_score": 9.63,
+          "wave_scores": [
+            6.33,
+            3.3,
+            0.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "4352",
+      "event_name": "Cabreiroá Junior Pro Razo-Caión",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_25610",
+          "round_name": "Round of 96 - Heat 2",
+          "position": 3,
+          "total_score": 7.4,
+          "wave_scores": [
+            0.93,
+            1.37,
+            3.7,
+            1.0,
+            3.67,
+            0.93,
+            3.7,
+            1.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

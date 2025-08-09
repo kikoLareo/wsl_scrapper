@@ -1,0 +1,69 @@
+{
+  "surfer_id": "9186",
+  "name": "Lucas Buatois Figueroa",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "2987",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_32020",
+          "round_name": "Round 2 - Heat 4",
+          "position": 4,
+          "total_score": 3.83,
+          "wave_scores": [
+            3.83
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_58960",
+          "round_name": "Round 1 - Heat 3",
+          "position": 2,
+          "total_score": 6.74,
+          "wave_scores": [
+            5.67,
+            1.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2991",
+      "event_name": "Caparica Surf Fest Junior Pro",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_65257",
+          "round_name": "Round 1 - Heat 12",
+          "position": 4,
+          "total_score": 4.43,
+          "wave_scores": [
+            1.13,
+            1.93,
+            1.2,
+            0.67,
+            2.5,
+            0.83,
+            0.97
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "surfer_id": "16977",
+  "name": "Makoa Gómez",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4352",
+      "event_name": "Cabreiroá Junior Pro Razo-Caión",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_66728",
+          "round_name": "Round of 96 - Heat 1",
+          "position": 3,
+          "total_score": 7.06,
+          "wave_scores": [
+            2.83,
+            2.1,
+            4.23,
+            0.83,
+            0.57
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

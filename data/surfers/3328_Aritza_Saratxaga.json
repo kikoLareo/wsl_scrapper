@@ -1,0 +1,50 @@
+{
+  "surfer_id": "3328",
+  "name": "Aritza Saratxaga",
+  "country": "Basque Country",
+  "events_2025": [
+    {
+      "event_id": "341",
+      "event_name": "Islas Canarias Ocean and Earth Pro",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_55391",
+          "round_name": "Round of 48",
+          "position": 3,
+          "total_score": 5.4,
+          "wave_scores": [
+            2.5,
+            2.9
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1039",
+      "event_name": "Punta Galea Challenge",
+      "location": "Unknown",
+      "tour_type": "MBWT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 4,
+          "total_score": 12.66,
+          "wave_scores": [],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

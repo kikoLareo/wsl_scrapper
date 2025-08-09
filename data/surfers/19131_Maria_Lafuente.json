@@ -1,0 +1,36 @@
+{
+  "surfer_id": "19131",
+  "name": "Maria Lafuente",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4715",
+      "event_name": "GADIS Longboard Festival Ferrol",
+      "location": "Unknown",
+      "tour_type": "WLT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_23716",
+          "round_name": "Round of 32 - Heat 5",
+          "position": 3,
+          "total_score": 3.47,
+          "wave_scores": [
+            1.27,
+            0.57,
+            0.6,
+            2.1,
+            0.2,
+            1.37,
+            1.07,
+            0.63
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

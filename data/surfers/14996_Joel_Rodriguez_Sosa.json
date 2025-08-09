@@ -1,0 +1,52 @@
+{
+  "surfer_id": "14996",
+  "name": "Joel Rodriguez Sosa",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "4714",
+      "event_name": "GADIS Longboard Festival Ferrol",
+      "location": "Unknown",
+      "tour_type": "MLT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_14619",
+          "round_name": "Quarterfinals - Heat 2",
+          "position": 3,
+          "total_score": 6.2,
+          "wave_scores": [
+            2.17,
+            1.0,
+            2.07,
+            0.53,
+            1.27,
+            4.03,
+            2.17
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_79927",
+          "round_name": "Round of 32 - Heat 1",
+          "position": 2,
+          "total_score": 8.46,
+          "wave_scores": [
+            2.67,
+            1.13,
+            3.83,
+            0.93,
+            1.93,
+            0.83,
+            4.63
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

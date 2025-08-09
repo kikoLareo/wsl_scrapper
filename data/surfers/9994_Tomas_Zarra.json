@@ -1,0 +1,88 @@
+{
+  "surfer_id": "9994",
+  "name": "Tomas Zarra",
+  "country": "Spain",
+  "events_2025": [
+    {
+      "event_id": "2942",
+      "event_name": "Cabreiroá Las Americas Pro Tenerife",
+      "location": "Unknown",
+      "tour_type": "MQS",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_85142",
+          "round_name": "Round 3 - Heat 9",
+          "position": 4,
+          "total_score": 6.06,
+          "wave_scores": [
+            0.2,
+            2.83,
+            2.7,
+            3.23
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_79524",
+          "round_name": "Round 2 - Heat 10",
+          "position": 2,
+          "total_score": 7.8,
+          "wave_scores": [
+            2.33,
+            3.63,
+            4.17,
+            0.5,
+            0.5
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "2987",
+      "event_name": "Junior Pro Espinho",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_60122",
+          "round_name": "Round 3 - Heat 3",
+          "position": 4,
+          "total_score": 7.84,
+          "wave_scores": [
+            0.5,
+            3.33,
+            3.77,
+            4.07,
+            1.03,
+            0.2
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_32020",
+          "round_name": "Round 2 - Heat 4",
+          "position": 2,
+          "total_score": 6.94,
+          "wave_scores": [
+            3.67,
+            3.27,
+            0.5,
+            0.7
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}

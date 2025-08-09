@@ -1,0 +1,161 @@
+{
+  "surfer_id": "3764",
+  "name": "Juan Ignacio Sebastia Roman",
+  "country": "Canary Islands",
+  "events_2025": [
+    {
+      "event_id": "1041",
+      "event_name": "Espinho Surf Destination",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 4,
+          "total_score": 5.43,
+          "wave_scores": [
+            2.0,
+            0.43,
+            2.83,
+            1.13,
+            1.43,
+            1.67,
+            2.6
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 1,
+          "total_score": 7.67,
+          "wave_scores": [
+            3.5,
+            4.17,
+            3.23,
+            1.8,
+            1.2,
+            2.27
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1002",
+      "event_name": "Sopela Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 3,
+          "total_score": 10.03,
+          "wave_scores": [
+            2.5,
+            2.27,
+            4.63,
+            5.4,
+            0.67
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1006",
+      "event_name": "Lacanau Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_64921",
+          "round_name": "Round 3",
+          "position": 4,
+          "total_score": 8.0,
+          "wave_scores": [
+            2.07,
+            4.67,
+            3.33,
+            2.67,
+            0.5
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 2,
+          "total_score": 7.07,
+          "wave_scores": [
+            1.93,
+            2.67,
+            2.8,
+            3.07,
+            4.0,
+            1.9
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_849",
+          "round_name": "Round 1",
+          "position": 1,
+          "total_score": 10.1,
+          "wave_scores": [
+            3.17,
+            4.83,
+            2.57,
+            4.57,
+            3.17,
+            0.4,
+            5.27
+          ],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    },
+    {
+      "event_id": "1073",
+      "event_name": "Teguise 2014 Franito Pro Junior",
+      "location": "Unknown",
+      "tour_type": "MJUN",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_30301",
+          "round_name": "Round 2",
+          "position": 4,
+          "total_score": 5.83,
+          "wave_scores": [
+            0.27,
+            2.83,
+            0.2,
+            3.0
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}
