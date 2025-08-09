@@ -13,6 +13,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+> **Nota:** usa `pip` para instalar las dependencias. `npm install requirements.txt`
+> no es válido y producirá un error 404.
+
 ## ✅ Problema Resuelto
 
 **Error original:** `AttributeError: 'WSLScraper' object has no attribute '_extract_spanish_surfers_from_events'`

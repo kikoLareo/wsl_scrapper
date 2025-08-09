@@ -79,6 +79,7 @@ class WSLSurferFocused:
         Path("data/heats").mkdir(exist_ok=True)
     
     def get_surfers(self) -> List[Dict]:
+
         """Obtener todos los surfistas de los países configurados"""
         logger.info("Obteniendo listado de surfistas...")
 
