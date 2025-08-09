@@ -79,68 +79,60 @@ class WSLSurferFocused:
         Path("data/heats").mkdir(exist_ok=True)
     
     def get_surfers(self) -> List[Dict]:
-        """Obtener todos los surfistas de los países configurados."""
+
+        """Obtener todos los surfistas de los países configurados"""
         logger.info("Obteniendo listado de surfistas...")
 
-        surfers: Dict[str, Dict] = {}
+        query = "&".join([f"countryIds%5B{i}%5D={cid}" for i, cid in enumerate(self.country_ids)])
+        url = f"{self.base_url}/athletes?{query}&rnd={int(time.time() * 1000)}"
+
         try:
-            for cid in self.country_ids:
-                # Consultar cada país por separado; usar múltiples countryIds en
-                # una sola petición resulta en una intersección vacía.
-                query = f"countryIds%5B%5D={cid}&rnd={int(time.time() * 1000)}"
-                url = f"{self.base_url}/athletes?{query}"
+            response = self.session.get(url)
+            if response.status_code != 200:
+                logger.error(f"Error obteniendo surfistas: {response.status_code}")
+                return []
 
-                response = self.session.get(url)
-                if response.status_code != 200:
-                    logger.warning(f"Error obteniendo surfistas para país {cid}: {response.status_code}")
-                    continue
+            soup = BeautifulSoup(response.text, 'html.parser')
 
-                soup = BeautifulSoup(response.text, 'html.parser')
-                athlete_names = soup.select('.athlete-name')
-                athlete_countries = soup.select('.athlete-country-name')
-                pagination_label = soup.select_one('.paginationLabel')
+            athlete_names = soup.select('.athlete-name')
+            athlete_countries = soup.select('.athlete-country-name')
+            pagination_label = soup.select_one('.paginationLabel')
+            total_surfers = 0
+            if pagination_label:
+                match = re.search(r'(\\d+) - (\\d+) of (\\d+) items', pagination_label.get_text(strip=True))
+                if match:
+                    total_surfers = int(match.group(3))
+                    last_index = int(match.group(2))
+                    while last_index < total_surfers:
+                        new_url = f"{self.base_url}/athletes?{query}&offset={last_index}"
+                        resp = self.session.get(new_url)
+                        if resp.status_code != 200:
+                            break
+                        sub = BeautifulSoup(resp.text, 'html.parser')
+                        new_names = sub.select('.athlete-name')
+                        new_countries = sub.select('.athlete-country-name')
+                        athlete_names.extend(new_names)
+                        athlete_countries.extend(new_countries)
+                        per_page = len(new_names)
+                        if per_page == 0:
+                            break
+                        last_index += per_page
 
-                total_surfers = 0
-                if pagination_label:
-                    match = re.search(r'(\\d+) - (\\d+) of (\\d+) items', pagination_label.get_text(strip=True))
-                    if match:
-                        total_surfers = int(match.group(3))
-                        last_index = int(match.group(2))
-                        while last_index < total_surfers:
-                            new_url = f"{self.base_url}/athletes?countryIds%5B%5D={cid}&offset={last_index}"
-                            resp = self.session.get(new_url)
-                            if resp.status_code != 200:
-                                break
-                            sub = BeautifulSoup(resp.text, 'html.parser')
-                            new_names = sub.select('.athlete-name')
-                            new_countries = sub.select('.athlete-country-name')
-                            athlete_names.extend(new_names)
-                            athlete_countries.extend(new_countries)
-                            per_page = len(new_names)
-                            if per_page == 0:
-                                break
-                            last_index += per_page
+            surfers = []
+            for name_elem, country_elem in zip(athlete_names, athlete_countries):
+                name = name_elem.get_text(strip=True)
+                country = country_elem.get_text(strip=True)
+                profile_url = name_elem['href']
+                match = re.search(r'/athletes/(\\d+)/', profile_url)
+                surfer_id = match.group(1) if match else None
+                if surfer_id and name:
+                    surfers.append({'id': surfer_id, 'name': name, 'country': country, 'profile_url': profile_url})
 
-                for name_elem, country_elem in zip(athlete_names, athlete_countries):
-                    name = name_elem.get_text(strip=True)
-                    country = country_elem.get_text(strip=True)
-                    profile_url = name_elem['href']
-                    match = re.search(r'/athletes/(\\d+)/', profile_url)
-                    surfer_id = match.group(1) if match else None
-                    if surfer_id and name:
-                        surfers.setdefault(surfer_id, {
-                            'id': surfer_id,
-                            'name': name,
-                            'country': country,
-                            'profile_url': profile_url
-                        })
-
-            surfers_list = list(surfers.values())
             if self.surfer_filter:
-                surfers_list = [s for s in surfers_list if s['name'] in self.surfer_filter or s['id'] in self.surfer_filter]
+                surfers = [s for s in surfers if s['name'] in self.surfer_filter or s['id'] in self.surfer_filter]
 
-            logger.info(f"Encontrados {len(surfers_list)} surfistas")
-            return surfers_list
+            logger.info(f"Encontrados {len(surfers)} surfistas")
+            return surfers
 
         except Exception as e:
             logger.error(f"Error obteniendo surfistas: {e}")
