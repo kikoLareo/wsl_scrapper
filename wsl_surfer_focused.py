@@ -1,22 +1,27 @@
 #!/usr/bin/env python3
 """
 WSL Scraper - Enfoque por Surfista Individual
-1. Obtener surfistas españoles (España, País Vasco, Canarias)
-2. Para cada surfista, obtener TODOS sus campeonatos de 2025
+1. Obtener surfistas por nacionalidad
+2. Para cada surfista, obtener todos sus campeonatos de los años configurados
 3. Para cada campeonato, obtener heats detallados
 """
 
+import argparse
 import requests
 import time
 import json
 import logging
 import re
+from concurrent.futures import ThreadPoolExecutor
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 from typing import List, Dict, Optional
 from pathlib import Path
 from dataclasses import dataclass, asdict
 from datetime import datetime
+from tqdm import tqdm
+
+from config import DEFAULT_YEARS, DEFAULT_COUNTRIES, COUNTRY_CODE_MAP
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -48,115 +53,95 @@ class Surfer:
     surfer_id: str
     name: str
     country: str
-    events_2025: List[Event] = None
+    events: List[Event] = None
 
 class WSLSurferFocused:
     """Scraper enfocado por surfista individual"""
-    
-    def __init__(self):
+
+    def __init__(self, years: List[int] = None, countries: List[str] = None,
+                 surfer_filter: Optional[List[str]] = None, max_workers: int = 5):
         self.base_url = "https://www.worldsurfleague.com"
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
         })
-        
+
+        self.years = years or DEFAULT_YEARS
+        self.country_codes = countries or DEFAULT_COUNTRIES
+        self.country_ids = [COUNTRY_CODE_MAP.get(c.upper()) for c in self.country_codes if c.upper() in COUNTRY_CODE_MAP]
+        self.surfer_filter = surfer_filter
+        self.max_workers = max_workers
+
         # Crear directorios
         Path("data").mkdir(exist_ok=True)
         Path("data/surfers").mkdir(exist_ok=True)
         Path("data/events").mkdir(exist_ok=True)
         Path("data/heats").mkdir(exist_ok=True)
     
-    def get_spanish_surfers(self) -> List[Dict]:
-        """Obtener todos los surfistas españoles usando el endpoint que funciona"""
-        logger.info("Obteniendo surfistas españoles...")
-        
-        url = f"{self.base_url}/athletes?countryIds%5B%5D=250&countryIds%5B%5D=253&countryIds%5B%5D=208&rnd={int(time.time() * 1000)}"
-        
-       # https://www.worldsurfleague.com/athletes?countryIds%5B%5D=250&countryIds%5B%5D=253&countryIds%5B%5D=208&rnd=1754658454735
+    def get_surfers(self) -> List[Dict]:
+        """Obtener todos los surfistas de los países configurados"""
+        logger.info("Obteniendo listado de surfistas...")
+        # Los parámetros de país se envían como arrays sin índice: countryIds[]=<id>
+        query = "&".join([f"countryIds%5B%5D={cid}" for cid in self.country_ids])
+        url = f"{self.base_url}/athletes?{query}&rnd={int(time.time() * 1000)}"
+
         try:
             response = self.session.get(url)
             if response.status_code != 200:
                 logger.error(f"Error obteniendo surfistas: {response.status_code}")
                 return []
-            
+
             soup = BeautifulSoup(response.text, 'html.parser')
-            
-            # Extraer surfistas como ya sabemos que funciona
+
             athlete_names = soup.select('.athlete-name')
             athlete_countries = soup.select('.athlete-country-name')
-            paginationLabel = soup.select_one('.paginationLabel')
+            pagination_label = soup.select_one('.paginationLabel')
             total_surfers = 0
-            logger.info(f"Total de surfistas encontrados en la primera página: {len(athlete_names)}")
-            if paginationLabel:
-                match = re.search(r'(\d+) - (\d+) of (\d+) items', paginationLabel.get_text(strip=True))
+            if pagination_label:
+                match = re.search(r'(\\d+) - (\\d+) of (\\d+) items', pagination_label.get_text(strip=True))
                 if match:
                     total_surfers = int(match.group(3))
                     last_index = int(match.group(2))
-                    
                     while last_index < total_surfers:
-                        logger.info(f"Obteniendo siguiente página de surfistas... (mostrando hasta {last_index})")
-                        new_url = f"{self.base_url}/athletes?countryIds%5B0%5D=250&countryIds%5B1%5D=253&countryIds%5B2%5D=208&offset={last_index}"
-                        response = self.session.get(new_url)
-                        time.sleep(1)
-                        
-                        if response.status_code == 200:
-                            soup = BeautifulSoup(response.text, 'html.parser')  
-                            new_athlete_names = soup.select('.athlete-name')
-                            new_athlete_countries = soup.select('.athlete-country-name')
-                            
-                            athlete_names.extend(new_athlete_names)
-                            athlete_countries.extend(new_athlete_countries)
-                            logger.info(f"Total de surfistas encontrados hasta ahora: {len(athlete_names)}")
-                            
-
-                            per_page = len(new_athlete_names)
-                            if per_page == 0:
-                                break  # no hay más resultados
-
-                            last_index += per_page  # aumenta el offset para la próxima iteración
-
-                        else:
+                        new_url = f"{self.base_url}/athletes?{query}&offset={last_index}"
+                        resp = self.session.get(new_url)
+                        if resp.status_code != 200:
                             break
+                        sub = BeautifulSoup(resp.text, 'html.parser')
+                        new_names = sub.select('.athlete-name')
+                        new_countries = sub.select('.athlete-country-name')
+                        athlete_names.extend(new_names)
+                        athlete_countries.extend(new_countries)
+                        per_page = len(new_names)
+                        if per_page == 0:
+                            break
+                        last_index += per_page
 
             surfers = []
-
-            for i, (name_elem, country_elem) in enumerate(zip(athlete_names, athlete_countries)):
+            for name_elem, country_elem in zip(athlete_names, athlete_countries):
                 name = name_elem.get_text(strip=True)
                 country = country_elem.get_text(strip=True)
-                # Buscar URL del surfista
-                url = name_elem['href']  
-                
-                # Extraer ID
-                surfer_id = None
-                if url:
-                    match = re.search(r'/athletes/(\d+)/', url)
-                    if match:
-                        surfer_id = match.group(1)
-                
+                profile_url = name_elem['href']
+                match = re.search(r'/athletes/(\\d+)/', profile_url)
+                surfer_id = match.group(1) if match else None
                 if surfer_id and name:
-                    surfers.append({
-                        'id': surfer_id,
-                        'name': name,
-                        'country': country,
-                        'profile_url': url
-                    })
-            
-            logger.info(f"Encontrados {len(surfers)} surfistas españoles")
+                    surfers.append({'id': surfer_id, 'name': name, 'country': country, 'profile_url': profile_url})
+
+            if self.surfer_filter:
+                surfers = [s for s in surfers if s['name'] in self.surfer_filter or s['id'] in self.surfer_filter]
+
+            logger.info(f"Encontrados {len(surfers)} surfistas")
             return surfers
-            
+
         except Exception as e:
             logger.error(f"Error obteniendo surfistas: {e}")
             return []
 
-    def get_surfer_events_2025(self, surfer_data: dict) -> List[Event]:
-        """
-        Obtener TODOS los eventos de 2025 para un surfista específico,
-        recorriendo cada circuito/tour disponible en el selector de año.
-        """
+    def get_surfer_events(self, surfer_data: dict, year: int) -> List[Event]:
+        """Obtener todos los eventos del año indicado para un surfista"""
         surfer_id = surfer_data['id']
         surfer_name = surfer_data['name']
-        surfer_profile_url = surfer_data.get('profile_url', '')
-        logger.info(f"Obteniendo eventos 2025 para {surfer_name} (ID: {surfer_id})")
+        logger.info(f"Obteniendo eventos {year} para {surfer_name} (ID: {surfer_id})")
 
         base_url = f"{self.base_url}/athletes/{surfer_id}/{surfer_name.lower().replace(' ', '-')}"
         year_results_url = f"{base_url}?section=yearResults"
@@ -183,9 +168,8 @@ class WSLSurferFocused:
             all_events: List[Event] = []
 
             for code in tour_codes:
-                url = f"{base_url}?section=yearResults&yearResultsTourCode={code}&year=2025"
-                logger.info(f"🔄 Consultando eventos en: {url}")
-                time.sleep(1)
+                url = f"{base_url}?section=yearResults&yearResultsTourCode={code}&year={year}"
+                logger.debug(f"Consultando eventos en: {url}")
                 res = self.session.get(url)
                 if res.status_code != 200:
                     logger.warning(f"  ⚠️ No se pudo acceder a eventos para {surfer_name} en tour {code}")
@@ -222,7 +206,7 @@ class WSLSurferFocused:
                     all_events.append(event)
                     logger.info(f"    ✅ {event_text} ({code.upper()})")
 
-            logger.info(f"🎯 Total eventos 2025 para {surfer_name}: {len(all_events)}")
+            logger.info(f"🎯 Total eventos {year} para {surfer_name}: {len(all_events)}")
             return all_events
 
         except Exception as e:
@@ -249,7 +233,7 @@ class WSLSurferFocused:
     
     def _extract_event_id_from_url(self, url: str) -> str:
         """Extraer ID del evento desde URL"""
-        match = re.search(r'/events/2025/[^/]+/[^/]+/(\d+)/', url)
+        match = re.search(r'/events/\d{4}/[^/]+/[^/]+/(\d+)/', url)
         if match:
             return match.group(1)
         return f"event_{hash(url) % 10000}"
@@ -263,15 +247,14 @@ class WSLSurferFocused:
             return location_part.replace('-', ' ').title()
         return "Unknown Location"
     
-    def _search_events_alternative(self, surfer_id: str, surfer_name: str) -> List[Event]:
+    def _search_events_alternative(self, surfer_id: str, surfer_name: str, year: int) -> List[Event]:
         """Búsqueda alternativa de eventos cuando no aparecen en el perfil"""
-        logger.info(f"Búsqueda alternativa de eventos para {surfer_name}...")
-        
-        # URLs base para buscar por diferentes tours en 2025
+        logger.info(f"Búsqueda alternativa de eventos para {surfer_name} en {year}...")
+
         search_urls = [
-            f"{self.base_url}/athletes/{surfer_id}/results?year=2025",
-            f"{self.base_url}/athletes/{surfer_id}/events?year=2025",
-            f"{self.base_url}/events/2025?athleteId={surfer_id}",
+            f"{self.base_url}/athletes/{surfer_id}/results?year={year}",
+            f"{self.base_url}/athletes/{surfer_id}/events?year={year}",
+            f"{self.base_url}/events/{year}?athleteId={surfer_id}",
         ]
         
         events = []
@@ -283,11 +266,11 @@ class WSLSurferFocused:
                     soup = BeautifulSoup(response.text, 'html.parser')
                     
                     # Buscar eventos en esta página
-                    event_elements = soup.find_all(['a', 'div'], href=re.compile(r'/events/2025/') if hasattr(soup, 'href') else None)
+                    event_elements = soup.find_all(['a', 'div'], href=re.compile(rf'/events/{year}/') if hasattr(soup, 'href') else None)
                     
                     for elem in event_elements:
                         href = elem.get('href') if hasattr(elem, 'get') else None
-                        if href and '/events/2025/' in href:
+                        if href and f'/events/{year}/' in href:
                             event_name = elem.get_text(strip=True)
                             
                             if event_name and len(event_name) > 3:  # Filtrar textos muy cortos
@@ -507,49 +490,32 @@ class WSLSurferFocused:
                             continue
         return None
     
-    def process_all_spanish_surfers(self):
-        """Procesar todos los surfistas españoles - NUEVO ENFOQUE"""
-        logger.info("=== PROCESANDO TODOS LOS SURFISTAS ESPAÑOLES ===")
-        
-        # 1. Obtener lista de surfistas
-        surfers_list = self.get_spanish_surfers()
+    def process_all_surfers(self):
+        """Procesar todos los surfistas configurados"""
+        logger.info("=== PROCESANDO SURFISTAS ===")
+
+        surfers_list = self.get_surfers()
         logger.info(f"Total surfistas a procesar: {len(surfers_list)}")
-        
-        all_surfers_data = []
-        
-        # 2. Para cada surfista, obtener sus eventos 2025
-        for i, surfer_data in enumerate(surfers_list):
-            logger.info(f"\n--- Procesando {i+1}/{len(surfers_list)}: {surfer_data['name']} ---")
-            
-            # Obtener eventos 2025 para este surfista
-            events_2025 = self.get_surfer_events_2025(surfer_data)
-            
+
+        def worker(surfer_data: Dict) -> Surfer:
+            events: List[Event] = []
+            for year in self.years:
+                events.extend(self.get_surfer_events(surfer_data, year))
             surfer = Surfer(
                 surfer_id=surfer_data['id'],
                 name=surfer_data['name'],
                 country=surfer_data['country'],
-                events_2025=events_2025
+                events=events
             )
-            
-            all_surfers_data.append(surfer)
-            
-            # Guardar datos incrementales
             self._save_surfer_data(surfer)
-            
-            # Resumen del surfista
-            total_events = len(events_2025)
-            total_heats = sum(len(event.heats) for event in events_2025 if event.heats)
-            tours = set(event.tour_type for event in events_2025)
-            
-            logger.info(f"  ✅ {surfer_data['name']}: {total_events} eventos, {total_heats} heats")
-            logger.info(f"  📊 Tours: {', '.join(tours) if tours else 'Ninguno'}")
-            
-            # Rate limiting
-            time.sleep(2)
-        
-        # 3. Guardar datos finales
+            return surfer
+
+        all_surfers_data: List[Surfer] = []
+        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
+            for surfer in tqdm(executor.map(worker, surfers_list), total=len(surfers_list), desc="Surfistas"):
+                all_surfers_data.append(surfer)
+
         self._save_final_data(all_surfers_data)
-        
         return all_surfers_data
     
     def _save_surfer_data(self, surfer: Surfer):
@@ -570,7 +536,7 @@ class WSLSurferFocused:
             'surfers': [asdict(surfer) for surfer in surfers_data]
         }
         
-        json_file = f"data/spanish_surfers_2025_{timestamp}.json"
+        json_file = f"data/surfers_{timestamp}.json"
         with open(json_file, 'w', encoding='utf-8') as f:
             json.dump(final_data, f, ensure_ascii=False, indent=2, default=str)
         
@@ -582,12 +548,12 @@ class WSLSurferFocused:
         surfers_csv = f"data/surfers_summary_{timestamp}.csv"
         with open(surfers_csv, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
-            writer.writerow(['ID', 'Name', 'Country', 'Events_2025', 'Total_Heats', 'Tours'])
+            writer.writerow(['ID', 'Name', 'Country', 'Events', 'Total_Heats', 'Tours'])
             
             for surfer in surfers_data:
-                events_count = len(surfer.events_2025) if surfer.events_2025 else 0
-                heats_count = sum(len(e.heats) for e in surfer.events_2025 if e.heats) if surfer.events_2025 else 0
-                tours = set(e.tour_type for e in surfer.events_2025) if surfer.events_2025 else set()
+                events_count = len(surfer.events) if surfer.events else 0
+                heats_count = sum(len(e.heats) for e in surfer.events if e.heats) if surfer.events else 0
+                tours = set(e.tour_type for e in surfer.events) if surfer.events else set()
                 
                 writer.writerow([
                     surfer.surfer_id,
@@ -616,7 +582,7 @@ class WSLSurferFocused:
             surfer_id = surfer.surfer_id
             surfer_name = surfer.name
             surfer_country = surfer.country
-            events = surfer.events_2025 or []
+            events = surfer.events or []
             for event in events:
                 event_id = event.event_id
                 event_name = event.event_name
@@ -699,26 +665,34 @@ def main():
     print("🏄‍♂️ WSL Scraper - Enfoque por Surfista")
     print("=" * 50)
     
-    scraper = WSLSurferFocused()
-    
-    # Procesar todos los surfistas españoles
-    surfers_data = scraper.process_all_spanish_surfers()
+    parser = argparse.ArgumentParser(description="WSL scraper")
+    parser.add_argument('--years', nargs='+', type=int, default=DEFAULT_YEARS, help='Años a analizar')
+    parser.add_argument('--countries', nargs='+', default=DEFAULT_COUNTRIES, help='Códigos de país a incluir')
+    parser.add_argument('--surfers', nargs='+', help='IDs o nombres de surfistas específicos')
+    parser.add_argument('--max-workers', type=int, default=5, help='Número máximo de hilos')
+    args = parser.parse_args()
+
+    scraper = WSLSurferFocused(years=args.years, countries=args.countries,
+                               surfer_filter=args.surfers, max_workers=args.max_workers)
+
+    # Procesar surfistas
+    surfers_data = scraper.process_all_surfers()
     
     # Estadísticas finales
     total_surfers = len(surfers_data)
-    total_events = sum(len(s.events_2025) for s in surfers_data if s.events_2025)
-    total_heats = sum(sum(len(e.heats) for e in s.events_2025 if e.heats) for s in surfers_data if s.events_2025)
+    total_events = sum(len(s.events) for s in surfers_data if s.events)
+    total_heats = sum(sum(len(e.heats) for e in s.events if e.heats) for s in surfers_data if s.events)
     
     print(f"\n📊 ESTADÍSTICAS FINALES:")
     print(f"Total surfistas procesados: {total_surfers}")
-    print(f"Total eventos 2025: {total_events}")
+    print(f"Total eventos: {total_events}")
     print(f"Total heats extraídos: {total_heats}")
     
     # Tours representados
     all_tours = set()
     for surfer in surfers_data:
-        if surfer.events_2025:
-            for event in surfer.events_2025:
+        if surfer.events:
+            for event in surfer.events:
                 all_tours.add(event.tour_type)
     
     print(f"Tours encontrados: {', '.join(all_tours)}")
