@@ -2,7 +2,7 @@
   "surfer_id": "13336",
   "name": "Maria De La Pena",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2986",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_95893",
+          "heat_id": "heat_27602",
           "round_name": "Round 2 - Heat 3",
           "position": 4,
           "total_score": 5.23,
@@ -25,7 +25,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 1,
           "total_score": 8.56,
@@ -49,7 +49,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86987",
+          "heat_id": "heat_8839",
           "round_name": "Round 2 - Heat 6",
           "position": 4,
           "total_score": 0.83,
@@ -60,7 +60,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_99874",
+          "heat_id": "heat_67257",
           "round_name": "Round 1 - Heat 6",
           "position": 1,
           "total_score": 12.83,
@@ -86,7 +86,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64528",
+          "heat_id": "heat_39072",
           "round_name": "Round 1 - Heat 7",
           "position": 4,
           "total_score": 6.03,

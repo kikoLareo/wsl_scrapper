@@ -2,7 +2,7 @@
   "surfer_id": "2878",
   "name": "Ivan Gonzalez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2942",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -23,7 +23,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 5.5,
@@ -35,7 +35,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 7.27,

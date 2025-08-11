@@ -2,7 +2,7 @@
   "surfer_id": "9152",
   "name": "Diego Garcia",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3010",
       "event_name": "Cabreiroá Pro Zarautz Basque Country",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_16513",
+          "heat_id": "heat_33304",
           "round_name": "Round 1 - Heat 9",
           "position": 3,
           "total_score": 6.7,

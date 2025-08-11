@@ -2,7 +2,7 @@
   "surfer_id": "2222",
   "name": "Luca Dioguardi",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "494",
       "event_name": "Islas Canarias Santa Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_31041",
+          "heat_id": "heat_88756",
           "round_name": "Round of 144",
           "position": 4,
           "total_score": 5.53,
@@ -36,7 +36,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 7.64,
@@ -62,7 +62,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 5.8,
@@ -88,7 +88,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 3,
           "total_score": 7.53,
@@ -115,7 +115,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 5.76,

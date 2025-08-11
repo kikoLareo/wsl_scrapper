@@ -2,7 +2,7 @@
   "surfer_id": "7345",
   "name": "Miguel Castrillon",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2608",
       "event_name": "Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_50216",
+          "heat_id": "heat_45017",
           "round_name": "Round 1 - Heat 10",
           "position": 3,
           "total_score": 10.27,
@@ -43,7 +43,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_41283",
+          "heat_id": "heat_39151",
           "round_name": "Round 3 - Heat 8",
           "position": 3,
           "total_score": 6.44,
@@ -58,7 +58,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9464",
+          "heat_id": "heat_6443",
           "round_name": "Round 2 - Heat 7",
           "position": 2,
           "total_score": 7.3,
@@ -82,7 +82,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14741",
+          "heat_id": "heat_57375",
           "round_name": "Round 3 - Heat 5",
           "position": 4,
           "total_score": 4.1,
@@ -107,7 +107,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40654",
+          "heat_id": "heat_8095",
           "round_name": "Round 3 - Heat 1",
           "position": 3,
           "total_score": 11.17,
@@ -129,14 +129,14 @@
     {
       "event_id": "2865",
       "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbe Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_28747",
+          "heat_id": "heat_66218",
           "round_name": "Round 4 - Heat 1",
           "position": 3,
           "total_score": 10.5,
@@ -149,7 +149,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_40654",
+          "heat_id": "heat_8095",
           "round_name": "Round 3 - Heat 1",
           "position": 1,
           "total_score": 12.0,
@@ -173,7 +173,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_28747",
+          "heat_id": "heat_66218",
           "round_name": "Round 4 - Heat 1",
           "position": 4,
           "total_score": 7.93,
@@ -187,7 +187,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_67746",
+          "heat_id": "heat_80303",
           "round_name": "Round 3 - Heat 4",
           "position": 2,
           "total_score": 11.34,

@@ -2,7 +2,7 @@
   "surfer_id": "5900",
   "name": "Dani Garcia",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3271",
       "event_name": "Cabreiroá Pro Las Americas",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_15954",
+          "heat_id": "heat_13843",
           "round_name": "Round 3 - Heat 15",
           "position": 4,
           "total_score": 7.54,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_41353",
+          "heat_id": "heat_78733",
           "round_name": "Round 2 - Heat 16",
           "position": 2,
           "total_score": 11.33,
@@ -40,7 +40,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_27523",
+          "heat_id": "heat_28044",
           "round_name": "Round 1 - Heat 8",
           "position": 2,
           "total_score": 8.77,

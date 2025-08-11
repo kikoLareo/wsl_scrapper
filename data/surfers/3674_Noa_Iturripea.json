@@ -2,7 +2,7 @@
   "surfer_id": "3674",
   "name": "Noa Iturripea",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1834",
       "event_name": "Pro Zarautz",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 4,
           "total_score": 5.83,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 3.86,
@@ -67,7 +67,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 3,
           "total_score": 5.44,
@@ -82,7 +82,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 7.97,
@@ -109,7 +109,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 4.37,
@@ -136,7 +136,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 4.9,

@@ -2,7 +2,7 @@
   "surfer_id": "13292",
   "name": "Maren Del Campo",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2989",
       "event_name": "Caparica Surf Fest Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40054",
+          "heat_id": "heat_95280",
           "round_name": "Round 1 - Heat 5",
           "position": 4,
           "total_score": 3.63,
@@ -37,7 +37,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_89996",
+          "heat_id": "heat_63521",
           "round_name": "Round 1 - Heat 2",
           "position": 3,
           "total_score": 6.36,
@@ -65,7 +65,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_16513",
+          "heat_id": "heat_33304",
           "round_name": "Round 1 - Heat 9",
           "position": 4,
           "total_score": 4.67,
@@ -93,7 +93,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9464",
+          "heat_id": "heat_6443",
           "round_name": "Round 2 - Heat 7",
           "position": 4,
           "total_score": 1.3,
@@ -106,7 +106,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64528",
+          "heat_id": "heat_39072",
           "round_name": "Round 1 - Heat 7",
           "position": 1,
           "total_score": 6.87,
@@ -130,7 +130,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_27523",
+          "heat_id": "heat_28044",
           "round_name": "Round 1 - Heat 8",
           "position": 4,
           "total_score": 5.2,

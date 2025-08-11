@@ -2,7 +2,7 @@
   "surfer_id": "16067",
   "name": "Claudia Prieto Sapena",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4044",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 4,
           "total_score": 4.74,
@@ -37,7 +37,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_45015",
+          "heat_id": "heat_74841",
           "round_name": "Round of 48 - Heat 8",
           "position": 4,
           "total_score": 3.96,

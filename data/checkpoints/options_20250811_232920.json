@@ -1,0 +1,22 @@
+{
+  "timestamp": "20250811_232920",
+  "years": [
+    2025
+  ],
+  "surfers": [
+    {
+      "id": "12612",
+      "name": "Yago Dominguez",
+      "country": "Basque Country"
+    }
+  ],
+  "tours": [
+    "MCS",
+    "MJUN",
+    "MQS"
+  ],
+  "locations": [
+    "Unknown",
+    "l'Abbé Junior Pro La Torche"
+  ]
+}

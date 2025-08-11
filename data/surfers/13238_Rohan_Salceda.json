@@ -2,7 +2,7 @@
   "surfer_id": "13238",
   "name": "Rohan Salceda",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4572",
       "event_name": "Morocco Mall Junior Pro Casablanca",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86782",
+          "heat_id": "heat_70978",
           "round_name": "Round of 96 - Heat 8",
           "position": 4,
           "total_score": 5.26,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46658",
+          "heat_id": "heat_21935",
           "round_name": "Round of 96 - Heat 7",
           "position": 4,
           "total_score": 5.13,

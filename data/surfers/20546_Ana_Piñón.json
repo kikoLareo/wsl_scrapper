@@ -2,7 +2,7 @@
   "surfer_id": "20546",
   "name": "Ana Piñón",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4915",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 4,
           "total_score": 5.44,

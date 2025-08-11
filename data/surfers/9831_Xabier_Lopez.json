@@ -2,7 +2,7 @@
   "surfer_id": "9831",
   "name": "Xabier Lopez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3735",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_66728",
+          "heat_id": "heat_60366",
           "round_name": "Round of 96 - Heat 1",
           "position": 4,
           "total_score": 3.5,
@@ -25,7 +25,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64943",
+          "heat_id": "heat_6176",
           "round_name": "Round of 104 - Heat 1",
           "position": 1,
           "total_score": 0.0,
@@ -45,7 +45,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_65257",
+          "heat_id": "heat_10438",
           "round_name": "Round 1 - Heat 12",
           "position": 4,
           "total_score": 4.6,
@@ -68,7 +68,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_74874",
+          "heat_id": "heat_91165",
           "round_name": "Round 1 - Heat 15",
           "position": 3,
           "total_score": 7.24,
@@ -87,14 +87,14 @@
     {
       "event_id": "3021",
       "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbe Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64528",
+          "heat_id": "heat_39072",
           "round_name": "Round 1 - Heat 7",
           "position": 3,
           "total_score": 6.96,
@@ -120,7 +120,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_74874",
+          "heat_id": "heat_91165",
           "round_name": "Round 1 - Heat 15",
           "position": 3,
           "total_score": 6.1,

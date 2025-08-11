@@ -2,7 +2,7 @@
   "surfer_id": "9994",
   "name": "Tomas Zarra",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2942",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_85142",
+          "heat_id": "heat_16983",
           "round_name": "Round 3 - Heat 9",
           "position": 4,
           "total_score": 6.06,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_79524",
+          "heat_id": "heat_8480",
           "round_name": "Round 2 - Heat 10",
           "position": 2,
           "total_score": 7.8,
@@ -53,7 +53,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_60122",
+          "heat_id": "heat_17430",
           "round_name": "Round 3 - Heat 3",
           "position": 4,
           "total_score": 7.84,
@@ -69,7 +69,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 2,
           "total_score": 6.94,

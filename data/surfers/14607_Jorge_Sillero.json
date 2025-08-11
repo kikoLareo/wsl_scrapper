@@ -2,7 +2,7 @@
   "surfer_id": "14607",
   "name": "Jorge Sillero",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2987",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_34271",
+          "heat_id": "heat_91858",
           "round_name": "Round 2 - Heat 14",
           "position": 3,
           "total_score": 6.56,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_91675",
+          "heat_id": "heat_28482",
           "round_name": "Round 1 - Heat 14",
           "position": 1,
           "total_score": 8.0,
@@ -52,7 +52,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_79524",
+          "heat_id": "heat_8480",
           "round_name": "Round 2 - Heat 10",
           "position": 4,
           "total_score": 8.03,
@@ -66,7 +66,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_16513",
+          "heat_id": "heat_33304",
           "round_name": "Round 1 - Heat 9",
           "position": 2,
           "total_score": 6.87,

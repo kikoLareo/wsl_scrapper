@@ -2,7 +2,7 @@
   "surfer_id": "11359",
   "name": "Julen Susperregi",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2987",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_41353",
+          "heat_id": "heat_78733",
           "round_name": "Round 2 - Heat 16",
           "position": 3,
           "total_score": 6.04,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_70778",
+          "heat_id": "heat_14923",
           "round_name": "Round 2 - Heat 13",
           "position": 4,
           "total_score": 6.8,
@@ -67,7 +67,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_49944",
+          "heat_id": "heat_75697",
           "round_name": "Round 3 - Heat 16",
           "position": 4,
           "total_score": 10.67,
@@ -80,7 +80,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29063",
+          "heat_id": "heat_81186",
           "round_name": "Round 2 - Heat 15",
           "position": 2,
           "total_score": 10.24,

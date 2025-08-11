@@ -2,18 +2,18 @@
   "surfer_id": "14698",
   "name": "Lucas Chico",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3021",
       "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbe Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_99874",
+          "heat_id": "heat_67257",
           "round_name": "Round 1 - Heat 6",
           "position": 3,
           "total_score": 6.56,

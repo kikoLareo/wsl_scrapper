@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Estado del job {{ job.id }}</title>
+    <meta http-equiv="refresh" content="5">
+    <style>
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; }
+      pre { background: #f7f7f7; padding: 12px; border-radius: 6px; max-height: 50vh; overflow: auto; }
+      .badge { display: inline-block; padding: 4px 8px; border-radius: 6px; background: #eef; }
+    </style>
+  </head>
+  <body>
+    <h1>Estado del job {{ job.id }}</h1>
+    <p>Estado: <span class="badge">{{ job.status }}</span></p>
+
+    {% if job.progress %}
+      {% set done = job.progress.done or 0 %}
+      {% set total = job.progress.total or 0 %}
+      {% set pct = (100*done/total)|round(1) if total > 0 else 0 %}
+      <h3>Progreso</h3>
+      <div style="background:#eee;border-radius:8px;overflow:hidden;width:480px;">
+        <div style="background:#4a8df8;height:16px;width: {{ pct }}%;"></div>
+      </div>
+      <p>{{ done }}/{{ total }} ({{ pct }}%) {% if job.progress.eta_s %} - ETA: ~{{ job.progress.eta_s }}s{% endif %}</p>
+    {% endif %}
+
+    {% if job.summary %}
+      <h3>Resumen</h3>
+      <ul>
+        <li>Total surfistas: <b>{{ job.summary.total_surfers }}</b></li>
+        <li>Total eventos: <b>{{ job.summary.total_events }}</b></li>
+        <li>Total heats: <b>{{ job.summary.total_heats }}</b></li>
+        <li>Tiempo: <b>{{ job.summary.elapsed_s }}s</b></li>
+      </ul>
+    {% endif %}
+
+    <h3>Parámetros</h3>
+    <pre>{{ job.params | tojson(indent=2) }}</pre>
+
+    <h3>Descargas (última ejecución)</h3>
+    <ul>
+      <li><a href="/download/surfers_raw">surfers_raw.json</a></li>
+      <li><a href="/download/heats_raw_jsonl">heats_raw.jsonl</a></li>
+      <li><a href="/download/heats_raw_csv">heats_raw.csv</a></li>
+      <li><a href="/download/surfers_summary_csv">surfers_summary.csv</a></li>
+      <li><a href="/download/surfers_full">surfers_full.json</a></li>
+      <li><a href="/download/surfers_2025">surfers_2025.json</a></li>
+    </ul>
+
+    <h3>Logs</h3>
+    <pre>{{ "\n".join(job.logs) }}</pre>
+
+    <p><a href="/">Volver</a></p>
+  </body>
+  </html>
+
+

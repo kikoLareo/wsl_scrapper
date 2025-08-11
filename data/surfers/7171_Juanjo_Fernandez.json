@@ -2,7 +2,7 @@
   "surfer_id": "7171",
   "name": "Juanjo Fernandez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2942",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40654",
+          "heat_id": "heat_8095",
           "round_name": "Round 3 - Heat 1",
           "position": 4,
           "total_score": 8.6,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_54833",
+          "heat_id": "heat_96673",
           "round_name": "Round 2 - Heat 2",
           "position": 2,
           "total_score": 8.8,

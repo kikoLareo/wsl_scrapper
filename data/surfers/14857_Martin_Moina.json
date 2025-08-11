@@ -2,7 +2,7 @@
   "surfer_id": "14857",
   "name": "Martin Moina",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4055",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_38310",
+          "heat_id": "heat_50778",
           "round_name": "Round of 96 - Heat 16",
           "position": 4,
           "total_score": 6.27,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40630",
+          "heat_id": "heat_4523",
           "round_name": "Round of 96 - Heat 4",
           "position": 3,
           "total_score": 6.97,

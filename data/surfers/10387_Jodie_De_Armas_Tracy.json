@@ -2,7 +2,7 @@
   "surfer_id": "10387",
   "name": "Jodie De Armas Tracy",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1452",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 4.57,
@@ -25,7 +25,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 6.23,
@@ -50,7 +50,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 3,
           "total_score": 6.47,
@@ -68,7 +68,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 8.83,
@@ -94,7 +94,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 5.33,
@@ -110,7 +110,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 6.83,

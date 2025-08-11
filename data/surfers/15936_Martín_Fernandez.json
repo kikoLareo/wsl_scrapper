@@ -2,7 +2,7 @@
   "surfer_id": "15936",
   "name": "Martín Fernandez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4025",
       "event_name": "Cabreiroa Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_60525",
+          "heat_id": "heat_92575",
           "round_name": "Round of 96 - Heat 3",
           "position": 3,
           "total_score": 6.7,

@@ -2,7 +2,7 @@
   "surfer_id": "7131",
   "name": "David Bustamante",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1039",
       "event_name": "Punta Galea Challenge",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 5,
           "total_score": 1.66,

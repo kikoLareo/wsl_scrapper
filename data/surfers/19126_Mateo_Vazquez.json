@@ -2,7 +2,7 @@
   "surfer_id": "19126",
   "name": "Mateo Vazquez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29185",
+          "heat_id": "heat_91358",
           "round_name": "Round of 64 - Heat 6",
           "position": 3,
           "total_score": 8.0,

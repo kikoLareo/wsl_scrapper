@@ -2,7 +2,7 @@
   "surfer_id": "751",
   "name": "Pablo Montero",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4343",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30006",
+          "heat_id": "heat_15670",
           "round_name": "Round of 128 - Heat 16",
           "position": 4,
           "total_score": 4.93,

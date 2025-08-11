@@ -2,7 +2,7 @@
   "surfer_id": "13342",
   "name": "Marco Medina",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2942",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29063",
+          "heat_id": "heat_81186",
           "round_name": "Round 2 - Heat 15",
           "position": 3,
           "total_score": 6.0,
@@ -37,7 +37,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_15954",
+          "heat_id": "heat_13843",
           "round_name": "Round 3 - Heat 15",
           "position": 4,
           "total_score": 6.23,
@@ -51,7 +51,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29063",
+          "heat_id": "heat_81186",
           "round_name": "Round 2 - Heat 15",
           "position": 1,
           "total_score": 8.73,
@@ -64,7 +64,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_74874",
+          "heat_id": "heat_91165",
           "round_name": "Round 1 - Heat 15",
           "position": 1,
           "total_score": 10.27,
@@ -89,7 +89,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_70778",
+          "heat_id": "heat_14923",
           "round_name": "Round 2 - Heat 13",
           "position": 3,
           "total_score": 9.17,
@@ -103,7 +103,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_91675",
+          "heat_id": "heat_28482",
           "round_name": "Round 1 - Heat 14",
           "position": 2,
           "total_score": 6.7,

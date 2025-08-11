@@ -2,7 +2,7 @@
   "surfer_id": "1626",
   "name": "Estitxu Estremo",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "418",
       "event_name": "Swatch Girls Pro France",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29189",
+          "heat_id": "heat_86314",
           "round_name": "Round of 72",
           "position": 3,
           "total_score": 4.8,
@@ -35,7 +35,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_57171",
+          "heat_id": "heat_61509",
           "round_name": "Round of 24",
           "position": 3,
           "total_score": 7.34,
@@ -47,7 +47,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_55391",
+          "heat_id": "heat_9074",
           "round_name": "Round of 48",
           "position": 2,
           "total_score": 9.76,
@@ -70,7 +70,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_13011",
+          "heat_id": "heat_19085",
           "round_name": "Round of 16",
           "position": 2,
           "total_score": 5.4,
@@ -82,7 +82,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_73727",
+          "heat_id": "heat_43108",
           "round_name": "Round of 32",
           "position": 1,
           "total_score": 10.0,

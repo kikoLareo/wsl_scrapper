@@ -2,7 +2,7 @@
   "surfer_id": "2158",
   "name": "Pedro Berasaluze",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2631",
       "event_name": "Copa Triathlon Reef Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_65257",
+          "heat_id": "heat_10438",
           "round_name": "Round 1 - Heat 12",
           "position": 3,
           "total_score": 5.9,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_89996",
+          "heat_id": "heat_63521",
           "round_name": "Round 1 - Heat 2",
           "position": 3,
           "total_score": 6.75,
@@ -67,7 +67,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86987",
+          "heat_id": "heat_8839",
           "round_name": "Round 2 - Heat 6",
           "position": 4,
           "total_score": 7.7,
@@ -81,7 +81,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_89996",
+          "heat_id": "heat_63521",
           "round_name": "Round 1 - Heat 2",
           "position": 1,
           "total_score": 9.67,

@@ -2,7 +2,7 @@
   "surfer_id": "7196",
   "name": "Borja Malvar",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2661",
       "event_name": "Caparica Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58665",
+          "heat_id": "heat_30411",
           "round_name": "Round 1 - Heat 16",
           "position": 4,
           "total_score": 5.47,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 7.9,
@@ -67,7 +67,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 6.77,
@@ -86,7 +86,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 8.8,
@@ -116,7 +116,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 4,
           "total_score": 6.46,

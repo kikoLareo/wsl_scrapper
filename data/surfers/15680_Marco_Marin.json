@@ -2,7 +2,7 @@
   "surfer_id": "15680",
   "name": "Marco Marin",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4633",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_32277",
+          "heat_id": "heat_92491",
           "round_name": "Round of 120 - Heat 4",
           "position": 3,
           "total_score": 5.96,
@@ -41,7 +41,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_24951",
+          "heat_id": "heat_15117",
           "round_name": "Round of 64 - Heat 8",
           "position": 3,
           "total_score": 7.77,
@@ -67,7 +67,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_3158",
+          "heat_id": "heat_84481",
           "round_name": "Round of 64 - Heat 5",
           "position": 3,
           "total_score": 8.2,

@@ -2,7 +2,7 @@
   "surfer_id": "19124",
   "name": "Alejo Valido",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_45015",
+          "heat_id": "heat_74841",
           "round_name": "Round of 48 - Heat 8",
           "position": 4,
           "total_score": 8.03,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81191",
+          "heat_id": "heat_51270",
           "round_name": "Round of 48 - Heat 7",
           "position": 4,
           "total_score": 9.07,
@@ -55,7 +55,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_24951",
+          "heat_id": "heat_15117",
           "round_name": "Round of 64 - Heat 8",
           "position": 2,
           "total_score": 7.7,

@@ -2,7 +2,7 @@
   "surfer_id": "17181",
   "name": "Daniela Alonso",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4915",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58232",
+          "heat_id": "heat_48795",
           "round_name": "Quarterfinals - Heat 1",
           "position": 3,
           "total_score": 5.0,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 1,
           "total_score": 9.6,

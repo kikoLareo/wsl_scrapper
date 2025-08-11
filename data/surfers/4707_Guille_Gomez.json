@@ -2,7 +2,7 @@
   "surfer_id": "4707",
   "name": "Guille Gomez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "987",
       "event_name": "Rias Baixas Pro",
@@ -23,7 +23,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 3.54,
@@ -35,7 +35,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 4.2,

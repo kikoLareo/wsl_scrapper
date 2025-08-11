@@ -2,7 +2,7 @@
   "surfer_id": "1634",
   "name": "Carlos Marques",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2608",
       "event_name": "Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9464",
+          "heat_id": "heat_6443",
           "round_name": "Round 2 - Heat 7",
           "position": 3,
           "total_score": 8.04,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_27523",
+          "heat_id": "heat_28044",
           "round_name": "Round 1 - Heat 8",
           "position": 2,
           "total_score": 10.63,

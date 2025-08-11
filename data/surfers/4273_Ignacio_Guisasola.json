@@ -2,7 +2,7 @@
   "surfer_id": "4273",
   "name": "Ignacio Guisasola",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3735",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_88785",
+          "heat_id": "heat_34917",
           "round_name": "Round of 96 - Heat 9",
           "position": 3,
           "total_score": 6.84,
@@ -38,7 +38,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 4,
           "total_score": 6.04,
@@ -57,7 +57,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 9.84,
@@ -70,7 +70,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 10.07,
@@ -86,7 +86,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 9.5,
@@ -114,7 +114,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 4,
           "total_score": 6.66,
@@ -130,7 +130,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 10.47,
@@ -155,7 +155,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_87673",
+          "heat_id": "heat_60675",
           "round_name": "Round 5",
           "position": 4,
           "total_score": 11.6,
@@ -169,7 +169,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 2,
           "total_score": 10.23,
@@ -184,7 +184,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 15.93,

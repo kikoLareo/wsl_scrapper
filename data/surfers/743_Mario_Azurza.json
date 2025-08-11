@@ -2,7 +2,7 @@
   "surfer_id": "743",
   "name": "Mario Azurza",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "333",
       "event_name": "San Miguel Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_13621",
+          "heat_id": "heat_65970",
           "round_name": "Round of 96",
           "position": 4,
           "total_score": 7.73,

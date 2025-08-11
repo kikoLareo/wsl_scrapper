@@ -2,7 +2,7 @@
   "surfer_id": "8953",
   "name": "Leire Fuente",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1409",
       "event_name": "Caparica Junior Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 5.47,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 5.13,
@@ -54,7 +54,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 5.73,
@@ -71,7 +71,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 5.57,
@@ -99,7 +99,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 3,
           "total_score": 5.7,
@@ -117,7 +117,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 5.3,
@@ -145,7 +145,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 4.73,

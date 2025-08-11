@@ -2,7 +2,7 @@
   "surfer_id": "2877",
   "name": "Miguel Perez-Moneo",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3110",
       "event_name": "ABANCA Galicia Classic Surf Pro",
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 7.83,
@@ -53,7 +53,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 7.4,
@@ -81,7 +81,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 11.4,

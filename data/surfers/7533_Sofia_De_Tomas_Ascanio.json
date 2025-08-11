@@ -2,7 +2,7 @@
   "surfer_id": "7533",
   "name": "Sofia De Tomas Ascanio",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2943",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_33788",
+          "heat_id": "heat_34713",
           "round_name": "Round 2 - Heat 5",
           "position": 4,
           "total_score": 2.87,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 4.53,

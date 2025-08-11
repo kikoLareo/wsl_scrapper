@@ -2,7 +2,7 @@
   "surfer_id": "12507",
   "name": "Enrique Fernandez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3094",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_38176",
+          "heat_id": "heat_94161",
           "round_name": "Round 1 - Heat 1",
           "position": 3,
           "total_score": 3.83,
@@ -37,7 +37,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_67746",
+          "heat_id": "heat_80303",
           "round_name": "Round 3 - Heat 4",
           "position": 3,
           "total_score": 8.96,
@@ -51,7 +51,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_95893",
+          "heat_id": "heat_27602",
           "round_name": "Round 2 - Heat 3",
           "position": 2,
           "total_score": 10.83,
@@ -78,7 +78,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_34271",
+          "heat_id": "heat_91858",
           "round_name": "Round 2 - Heat 14",
           "position": 3,
           "total_score": 6.7,

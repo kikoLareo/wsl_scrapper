@@ -2,7 +2,7 @@
   "surfer_id": "14423",
   "name": "David Arbelo",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2942",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_41353",
+          "heat_id": "heat_78733",
           "round_name": "Round 2 - Heat 16",
           "position": 3,
           "total_score": 6.8,

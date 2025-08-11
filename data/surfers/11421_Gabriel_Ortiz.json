@@ -2,7 +2,7 @@
   "surfer_id": "11421",
   "name": "Gabriel Ortiz",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2658",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_99874",
+          "heat_id": "heat_67257",
           "round_name": "Round 1 - Heat 6",
           "position": 3,
           "total_score": 5.03,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29063",
+          "heat_id": "heat_81186",
           "round_name": "Round 2 - Heat 15",
           "position": 4,
           "total_score": 5.9,
@@ -57,7 +57,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58665",
+          "heat_id": "heat_30411",
           "round_name": "Round 1 - Heat 16",
           "position": 2,
           "total_score": 9.53,
@@ -82,7 +82,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_49944",
+          "heat_id": "heat_75697",
           "round_name": "Round 3 - Heat 16",
           "position": 4,
           "total_score": 6.27,
@@ -98,7 +98,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_41353",
+          "heat_id": "heat_78733",
           "round_name": "Round 2 - Heat 16",
           "position": 1,
           "total_score": 9.03,

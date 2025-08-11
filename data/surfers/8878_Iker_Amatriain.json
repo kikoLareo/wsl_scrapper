@@ -2,7 +2,7 @@
   "surfer_id": "8878",
   "name": "Iker Amatriain",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4058",
       "event_name": "Rip Curl Pro Anglet",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_16823",
+          "heat_id": "heat_13614",
           "round_name": "Round of 64 - Heat 14",
           "position": 3,
           "total_score": 7.83,
@@ -31,7 +31,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_68636",
+          "heat_id": "heat_58914",
           "round_name": "Round of 96 - Heat 13",
           "position": 2,
           "total_score": 10.3,
@@ -57,7 +57,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 2,
           "total_score": 9.17,
@@ -73,7 +73,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_88602",
+          "heat_id": "heat_48301",
           "round_name": "Round 5 - Heat 4",
           "position": 2,
           "total_score": 10.9,
@@ -97,7 +97,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_52900",
+          "heat_id": "heat_90176",
           "round_name": "Round 4 - Heat 6",
           "position": 2,
           "total_score": 10.73,
@@ -113,7 +113,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_54629",
+          "heat_id": "heat_80677",
           "round_name": "Round 3 - Heat 11",
           "position": 1,
           "total_score": 12.33,
@@ -139,7 +139,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_52900",
+          "heat_id": "heat_90176",
           "round_name": "Round 4 - Heat 6",
           "position": 3,
           "total_score": 9.57,
@@ -154,7 +154,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_54629",
+          "heat_id": "heat_80677",
           "round_name": "Round 3 - Heat 11",
           "position": 1,
           "total_score": 13.77,
@@ -173,14 +173,14 @@
     {
       "event_id": "3021",
       "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbe Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40654",
+          "heat_id": "heat_8095",
           "round_name": "Round 3 - Heat 1",
           "position": 3,
           "total_score": 8.97,
@@ -195,7 +195,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_12295",
+          "heat_id": "heat_60254",
           "round_name": "Round 2 - Heat 1",
           "position": 1,
           "total_score": 10.43,
@@ -210,7 +210,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_38176",
+          "heat_id": "heat_94161",
           "round_name": "Round 1 - Heat 1",
           "position": 1,
           "total_score": 12.5,
@@ -236,7 +236,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_52900",
+          "heat_id": "heat_90176",
           "round_name": "Round 4 - Heat 6",
           "position": 3,
           "total_score": 13.8,
@@ -254,7 +254,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_99747",
+          "heat_id": "heat_33351",
           "round_name": "Round 3 - Heat 12",
           "position": 1,
           "total_score": 15.67,

@@ -2,18 +2,18 @@
   "surfer_id": "13948",
   "name": "Silke Martinez Echegaray",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4350",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "WJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_98037",
+          "heat_id": "heat_30368",
           "round_name": "Round of 48 - Heat 6",
           "position": 3,
           "total_score": 6.4,
@@ -32,14 +32,14 @@
     {
       "event_id": "4353",
       "event_name": "Cabreiroá Junior Pro Razo-Caión",
-      "location": "Unknown",
+      "location": "Caión",
       "tour_type": "WJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 3,
           "total_score": 6.4,
@@ -56,7 +56,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_44345",
+          "heat_id": "heat_92380",
           "round_name": "Round of 40 - Heat 4",
           "position": 2,
           "total_score": 10.43,

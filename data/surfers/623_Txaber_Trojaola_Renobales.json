@@ -2,7 +2,7 @@
   "surfer_id": "623",
   "name": "Txaber Trojaola Renobales",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "412",
       "event_name": "Protest Vendée Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 3,
           "total_score": 6.34,
@@ -25,7 +25,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_73727",
+          "heat_id": "heat_43108",
           "round_name": "Round of 32",
           "position": 1,
           "total_score": 9.23,
@@ -37,7 +37,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_26813",
+          "heat_id": "heat_51619",
           "round_name": "Round of 64",
           "position": 2,
           "total_score": 8.2,
@@ -49,7 +49,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_13621",
+          "heat_id": "heat_65970",
           "round_name": "Round of 96",
           "position": 1,
           "total_score": 6.36,
@@ -72,7 +72,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_13621",
+          "heat_id": "heat_65970",
           "round_name": "Round of 96",
           "position": 4,
           "total_score": 7.03,
@@ -84,7 +84,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_31041",
+          "heat_id": "heat_88756",
           "round_name": "Round of 144",
           "position": 2,
           "total_score": 12.67,

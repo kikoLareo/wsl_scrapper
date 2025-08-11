@@ -2,7 +2,7 @@
   "surfer_id": "2159",
   "name": "Txaber Gaminde",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "563",
       "event_name": "Sopela O'neill Men's Pro Junior",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 7.2,

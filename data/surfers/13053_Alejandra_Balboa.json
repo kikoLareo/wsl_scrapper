@@ -2,7 +2,7 @@
   "surfer_id": "13053",
   "name": "Alejandra Balboa",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4044",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81191",
+          "heat_id": "heat_51270",
           "round_name": "Round of 48 - Heat 7",
           "position": 3,
           "total_score": 6.97,
@@ -41,7 +41,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 4,
           "total_score": 5.2,
@@ -69,7 +69,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 4,
           "total_score": 5.8,

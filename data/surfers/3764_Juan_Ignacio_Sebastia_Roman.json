@@ -2,7 +2,7 @@
   "surfer_id": "3764",
   "name": "Juan Ignacio Sebastia Roman",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1041",
       "event_name": "Espinho Surf Destination",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 5.43,
@@ -30,7 +30,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 7.67,
@@ -57,7 +57,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 3,
           "total_score": 10.03,
@@ -83,7 +83,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 8.0,
@@ -98,7 +98,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 7.07,
@@ -114,7 +114,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 10.1,
@@ -142,7 +142,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 5.83,

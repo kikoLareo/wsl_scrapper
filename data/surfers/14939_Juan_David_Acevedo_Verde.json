@@ -2,7 +2,7 @@
   "surfer_id": "14939",
   "name": "Juan David Acevedo Verde",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4633",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_98238",
+          "heat_id": "heat_548",
           "round_name": "Round of 112 - Heat 6",
           "position": 4,
           "total_score": 4.43,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_77746",
+          "heat_id": "heat_261",
           "round_name": "Round of 120 - Heat 3",
           "position": 2,
           "total_score": 9.2,
@@ -53,7 +53,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_35089",
+          "heat_id": "heat_56669",
           "round_name": "Round of 128 - Heat 7",
           "position": 4,
           "total_score": 4.63,
@@ -80,7 +80,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_24951",
+          "heat_id": "heat_15117",
           "round_name": "Round of 64 - Heat 8",
           "position": 4,
           "total_score": 5.37,
@@ -97,7 +97,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_46658",
+          "heat_id": "heat_21935",
           "round_name": "Round of 96 - Heat 7",
           "position": 2,
           "total_score": 11.07,
@@ -112,7 +112,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_35089",
+          "heat_id": "heat_56669",
           "round_name": "Round of 128 - Heat 7",
           "position": 1,
           "total_score": 8.7,
@@ -136,7 +136,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46658",
+          "heat_id": "heat_21935",
           "round_name": "Round of 96 - Heat 7",
           "position": 3,
           "total_score": 5.53,
@@ -150,7 +150,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_35089",
+          "heat_id": "heat_56669",
           "round_name": "Round of 128 - Heat 7",
           "position": 1,
           "total_score": 9.27,
@@ -171,14 +171,14 @@
     {
       "event_id": "4006",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_71292",
+          "heat_id": "heat_81320",
           "round_name": "Round of 128 - Heat 13",
           "position": 4,
           "total_score": 4.33,

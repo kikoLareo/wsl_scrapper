@@ -2,7 +2,7 @@
   "surfer_id": "15957",
   "name": "Xan Atchoarena Masterson",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 3,
           "total_score": 6.6,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 3,
           "total_score": 8.6,

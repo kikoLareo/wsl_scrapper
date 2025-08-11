@@ -2,7 +2,7 @@
   "surfer_id": "13404",
   "name": "Eneko Merino Zelaia",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4366",
       "event_name": "Siargao International Surfing Cup",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29185",
+          "heat_id": "heat_91358",
           "round_name": "Round of 64 - Heat 6",
           "position": 3,
           "total_score": 10.25,

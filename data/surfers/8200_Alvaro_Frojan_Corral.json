@@ -2,7 +2,7 @@
   "surfer_id": "8200",
   "name": "Alvaro Frojan Corral",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1408",
       "event_name": "Caparica Junior Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 4.07,

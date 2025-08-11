@@ -2,7 +2,7 @@
   "surfer_id": "9405",
   "name": "Jose Cabrera",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1280",
       "event_name": "Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 8.3,

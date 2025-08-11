@@ -2,7 +2,7 @@
   "surfer_id": "7292",
   "name": "Patrick Mainstone",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1408",
       "event_name": "Caparica Junior Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 3,
           "total_score": 6.84,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 10.0,
@@ -51,7 +51,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 4.06,
@@ -78,7 +78,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 6.04,
@@ -103,7 +103,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 4,
           "total_score": 6.4,
@@ -130,7 +130,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 6.07,

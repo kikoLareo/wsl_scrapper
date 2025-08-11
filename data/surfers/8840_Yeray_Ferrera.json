@@ -2,7 +2,7 @@
   "surfer_id": "8840",
   "name": "Yeray Ferrera",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1218",
       "event_name": "Caparica Primavera Surf Fest",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 10.5,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 11.7,
@@ -55,7 +55,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 4.9,
@@ -79,7 +79,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 14.57,
@@ -95,7 +95,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 14.9,

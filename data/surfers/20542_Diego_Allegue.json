@@ -2,7 +2,7 @@
   "surfer_id": "20542",
   "name": "Diego Allegue",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_72116",
+          "heat_id": "heat_62876",
           "round_name": "Round of 64 - Heat 3",
           "position": 3,
           "total_score": 6.93,
@@ -30,7 +30,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_71971",
+          "heat_id": "heat_96589",
           "round_name": "Round of 72 - Heat 2",
           "position": 1,
           "total_score": 9.93,

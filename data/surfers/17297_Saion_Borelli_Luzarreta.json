@@ -2,7 +2,7 @@
   "surfer_id": "17297",
   "name": "Saion Borelli Luzarreta",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_45015",
+          "heat_id": "heat_74841",
           "round_name": "Round of 48 - Heat 8",
           "position": 3,
           "total_score": 8.3,
@@ -42,7 +42,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 4,
           "total_score": 7.47,
@@ -59,7 +59,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_98037",
+          "heat_id": "heat_30368",
           "round_name": "Round of 48 - Heat 6",
           "position": 1,
           "total_score": 11.33,

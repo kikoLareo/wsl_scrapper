@@ -2,7 +2,7 @@
   "surfer_id": "9287",
   "name": "Arnau Riera",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3271",
       "event_name": "Cabreiroá Pro Las Americas",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40654",
+          "heat_id": "heat_8095",
           "round_name": "Round 3 - Heat 1",
           "position": 4,
           "total_score": 5.67,
@@ -36,7 +36,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 3,
           "total_score": 6.95,
@@ -52,7 +52,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_99874",
+          "heat_id": "heat_67257",
           "round_name": "Round 1 - Heat 6",
           "position": 2,
           "total_score": 9.66,
@@ -77,7 +77,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_91675",
+          "heat_id": "heat_28482",
           "round_name": "Round 1 - Heat 14",
           "position": 4,
           "total_score": 8.2,
@@ -102,7 +102,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_89996",
+          "heat_id": "heat_63521",
           "round_name": "Round 1 - Heat 2",
           "position": 4,
           "total_score": 6.45,
@@ -131,7 +131,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_27311",
+          "heat_id": "heat_1098",
           "round_name": "Round 4 - Heat 4",
           "position": 4,
           "total_score": 6.4,
@@ -146,7 +146,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_14741",
+          "heat_id": "heat_57375",
           "round_name": "Round 3 - Heat 5",
           "position": 2,
           "total_score": 7.6,
@@ -160,7 +160,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_33788",
+          "heat_id": "heat_34713",
           "round_name": "Round 2 - Heat 5",
           "position": 1,
           "total_score": 10.67,
@@ -187,7 +187,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_28747",
+          "heat_id": "heat_66218",
           "round_name": "Round 4 - Heat 1",
           "position": 3,
           "total_score": 9.5,
@@ -206,7 +206,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_7162",
+          "heat_id": "heat_19663",
           "round_name": "Round 3 - Heat 2",
           "position": 1,
           "total_score": 11.0,
@@ -221,7 +221,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_12295",
+          "heat_id": "heat_60254",
           "round_name": "Round 2 - Heat 1",
           "position": 2,
           "total_score": 10.64,
@@ -239,14 +239,14 @@
     {
       "event_id": "2865",
       "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbe Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_85142",
+          "heat_id": "heat_16983",
           "round_name": "Round 3 - Heat 9",
           "position": 4,
           "total_score": 7.33,
@@ -259,7 +259,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_79524",
+          "heat_id": "heat_8480",
           "round_name": "Round 2 - Heat 10",
           "position": 2,
           "total_score": 6.6,
@@ -285,7 +285,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46237",
+          "heat_id": "heat_77235",
           "round_name": "Round 2 - Heat 11",
           "position": 3,
           "total_score": 7.7,
@@ -314,7 +314,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 4,
           "total_score": 5.3,
@@ -344,7 +344,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 8.0,
@@ -368,7 +368,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9509",
+          "heat_id": "heat_52966",
           "round_name": "Round 1 - Heat 4",
           "position": 3,
           "total_score": 6.3,
@@ -395,7 +395,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_7162",
+          "heat_id": "heat_19663",
           "round_name": "Round 3 - Heat 2",
           "position": 3,
           "total_score": 7.86,
@@ -410,7 +410,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_12295",
+          "heat_id": "heat_60254",
           "round_name": "Round 2 - Heat 1",
           "position": 2,
           "total_score": 10.67,
@@ -437,7 +437,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29063",
+          "heat_id": "heat_81186",
           "round_name": "Round 2 - Heat 15",
           "position": 3,
           "total_score": 7.8,

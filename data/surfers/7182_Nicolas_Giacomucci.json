@@ -2,7 +2,7 @@
   "surfer_id": "7182",
   "name": "Nicolas Giacomucci",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2608",
       "event_name": "Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9464",
+          "heat_id": "heat_6443",
           "round_name": "Round 2 - Heat 7",
           "position": 4,
           "total_score": 5.87,
@@ -29,7 +29,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64528",
+          "heat_id": "heat_39072",
           "round_name": "Round 1 - Heat 7",
           "position": 1,
           "total_score": 9.1,

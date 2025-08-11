@@ -2,7 +2,7 @@
   "surfer_id": "3805",
   "name": "Roberto Alvarez Junquera",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "481",
       "event_name": "Cabreiroa Pantin Classic Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14427",
+          "heat_id": "heat_66794",
           "round_name": "Round of 112",
           "position": 4,
           "total_score": 3.77,

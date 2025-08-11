@@ -2,7 +2,7 @@
   "surfer_id": "16000",
   "name": "Toni Castro",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3735",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40630",
+          "heat_id": "heat_4523",
           "round_name": "Round of 96 - Heat 4",
           "position": 4,
           "total_score": 3.94,

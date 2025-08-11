@@ -2,7 +2,7 @@
   "surfer_id": "20364",
   "name": "Teo Cajide",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_79927",
+          "heat_id": "heat_37189",
           "round_name": "Round of 32 - Heat 1",
           "position": 4,
           "total_score": 6.1,

@@ -2,7 +2,7 @@
   "surfer_id": "15602",
   "name": "Alfonso Suarez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4618",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_72116",
+          "heat_id": "heat_62876",
           "round_name": "Round of 64 - Heat 3",
           "position": 3,
           "total_score": 8.47,
@@ -25,7 +25,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_60525",
+          "heat_id": "heat_92575",
           "round_name": "Round of 96 - Heat 3",
           "position": 1,
           "total_score": 8.47,
@@ -43,7 +43,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_75819",
+          "heat_id": "heat_58739",
           "round_name": "Round of 112 - Heat 2",
           "position": 1,
           "total_score": 9.67,
@@ -70,7 +70,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_88122",
+          "heat_id": "heat_3233",
           "round_name": "Round of 112 - Heat 3",
           "position": 3,
           "total_score": 10.1,
@@ -99,7 +99,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_87352",
+          "heat_id": "heat_19514",
           "round_name": "Round of 128 - Heat 1",
           "position": 3,
           "total_score": 6.23,
@@ -123,7 +123,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 1,
           "total_score": 16.23,
@@ -139,7 +139,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29385",
+          "heat_id": "heat_36517",
           "round_name": "Semifinals - Heat 2",
           "position": 1,
           "total_score": 10.86,
@@ -153,7 +153,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 1,
           "total_score": 15.34,
@@ -168,7 +168,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 2,
           "total_score": 10.77,
@@ -189,7 +189,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_36971",
+          "heat_id": "heat_38828",
           "round_name": "Round of 48 - Heat 5",
           "position": 2,
           "total_score": 11.24,
@@ -216,7 +216,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_47399",
+          "heat_id": "heat_24636",
           "round_name": "Round of 48 - Heat 1",
           "position": 3,
           "total_score": 6.73,

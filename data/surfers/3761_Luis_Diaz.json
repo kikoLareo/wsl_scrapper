@@ -2,7 +2,7 @@
   "surfer_id": "3761",
   "name": "Luis Diaz",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4813",
       "event_name": "Pro Taghazout Bay",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_16823",
+          "heat_id": "heat_13614",
           "round_name": "Round of 64 - Heat 14",
           "position": 4,
           "total_score": 9.0,
@@ -29,7 +29,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_68636",
+          "heat_id": "heat_58914",
           "round_name": "Round of 96 - Heat 13",
           "position": 2,
           "total_score": 10.5,
@@ -56,7 +56,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 3,
           "total_score": 11.47,
@@ -69,7 +69,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_93087",
+          "heat_id": "heat_44554",
           "round_name": "Round of 64 - Heat 10",
           "position": 2,
           "total_score": 12.73,
@@ -86,7 +86,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_99878",
+          "heat_id": "heat_822",
           "round_name": "Round of 96 - Heat 10",
           "position": 1,
           "total_score": 13.07,
@@ -113,7 +113,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_79927",
+          "heat_id": "heat_37189",
           "round_name": "Round of 32 - Heat 1",
           "position": 3,
           "total_score": 9.67,
@@ -127,7 +127,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_55557",
+          "heat_id": "heat_48565",
           "round_name": "Round of 64 - Heat 4",
           "position": 2,
           "total_score": 11.33,

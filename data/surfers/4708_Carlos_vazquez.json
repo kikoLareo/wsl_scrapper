@@ -2,7 +2,7 @@
   "surfer_id": "4708",
   "name": "Carlos vazquez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2883",
       "event_name": "Pantin Junior Pro by Gadis",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 4,
           "total_score": 7.33,

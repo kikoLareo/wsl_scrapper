@@ -2,7 +2,7 @@
   "surfer_id": "16876",
   "name": "Laine Fernandez Goenaga",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4915",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 3,
           "total_score": 7.5,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14619",
+          "heat_id": "heat_23260",
           "round_name": "Quarterfinals - Heat 2",
           "position": 4,
           "total_score": 3.93,
@@ -56,7 +56,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 1,
           "total_score": 10.07,

@@ -2,7 +2,7 @@
   "surfer_id": "13981",
   "name": "Martina Alvarez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3315",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40054",
+          "heat_id": "heat_95280",
           "round_name": "Round 1 - Heat 5",
           "position": 4,
           "total_score": 8.27,

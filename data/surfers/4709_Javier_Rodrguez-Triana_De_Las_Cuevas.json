@@ -2,7 +2,7 @@
   "surfer_id": "4709",
   "name": "Javier Rodrguez-Triana De Las Cuevas",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "590",
       "event_name": "Surf Rias Baixas Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 2.43,

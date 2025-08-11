@@ -2,7 +2,7 @@
   "surfer_id": "14446",
   "name": "Sara Santos",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4044",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 4,
           "total_score": 7.63,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_43986",
+          "heat_id": "heat_64301",
           "round_name": "Round of 48 - Heat 4",
           "position": 2,
           "total_score": 8.04,
@@ -55,7 +55,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 3,
           "total_score": 6.3,
@@ -73,7 +73,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_36971",
+          "heat_id": "heat_38828",
           "round_name": "Round of 48 - Heat 5",
           "position": 1,
           "total_score": 5.77,
@@ -101,7 +101,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 4,
           "total_score": 5.33,
@@ -117,7 +117,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_45015",
+          "heat_id": "heat_74841",
           "round_name": "Round of 48 - Heat 8",
           "position": 1,
           "total_score": 11.16,
@@ -134,14 +134,14 @@
     {
       "event_id": "4009",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "WJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9617",
+          "heat_id": "heat_38809",
           "round_name": "Round of 16 - Heat 1",
           "position": 4,
           "total_score": 4.17,
@@ -155,7 +155,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 2,
           "total_score": 9.17,
@@ -169,7 +169,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_57124",
+          "heat_id": "heat_64511",
           "round_name": "Round of 48 - Heat 3",
           "position": 1,
           "total_score": 12.66,

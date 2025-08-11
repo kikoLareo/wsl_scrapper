@@ -2,7 +2,7 @@
   "surfer_id": "15935",
   "name": "Pablo Perez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4572",
       "event_name": "Morocco Mall Junior Pro Casablanca",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_24951",
+          "heat_id": "heat_15117",
           "round_name": "Round of 64 - Heat 8",
           "position": 4,
           "total_score": 5.84,
@@ -29,7 +29,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_86782",
+          "heat_id": "heat_70978",
           "round_name": "Round of 96 - Heat 8",
           "position": 1,
           "total_score": 10.2,
@@ -58,7 +58,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 4,
           "total_score": 5.27,
@@ -74,7 +74,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_16823",
+          "heat_id": "heat_13614",
           "round_name": "Round of 64 - Heat 14",
           "position": 2,
           "total_score": 6.7,
@@ -92,7 +92,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_68636",
+          "heat_id": "heat_58914",
           "round_name": "Round of 96 - Heat 13",
           "position": 2,
           "total_score": 8.87,

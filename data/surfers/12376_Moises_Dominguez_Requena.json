@@ -2,7 +2,7 @@
   "surfer_id": "12376",
   "name": "Moises Dominguez Requena",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4933",
       "event_name": "Boardmasters Open 2025",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_3158",
+          "heat_id": "heat_84481",
           "round_name": "Round of 64 - Heat 5",
           "position": 4,
           "total_score": 6.0,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_96527",
+          "heat_id": "heat_28664",
           "round_name": "Round of 96 - Heat 6",
           "position": 2,
           "total_score": 11.33,
@@ -56,7 +56,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 2,
           "total_score": 12.33,
@@ -72,7 +72,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_18973",
+          "heat_id": "heat_13625",
           "round_name": "Round of 16 - Heat 4",
           "position": 2,
           "total_score": 9.07,
@@ -85,7 +85,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 1,
           "total_score": 15.8,
@@ -101,7 +101,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3053",
+          "heat_id": "heat_17393",
           "round_name": "Round of 64 - Heat 16",
           "position": 1,
           "total_score": 11.33,
@@ -119,14 +119,14 @@
     {
       "event_id": "4349",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_16823",
+          "heat_id": "heat_13614",
           "round_name": "Round of 64 - Heat 14",
           "position": 4,
           "total_score": 5.27,
@@ -143,7 +143,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_90969",
+          "heat_id": "heat_35565",
           "round_name": "Round of 96 - Heat 14",
           "position": 1,
           "total_score": 12.83,
@@ -164,14 +164,14 @@
     {
       "event_id": "4352",
       "event_name": "Cabreiroá Junior Pro Razo-Caión",
-      "location": "Unknown",
+      "location": "Caión",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 4,
           "total_score": 6.33,
@@ -188,7 +188,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_72116",
+          "heat_id": "heat_62876",
           "round_name": "Round of 64 - Heat 3",
           "position": 1,
           "total_score": 13.7,

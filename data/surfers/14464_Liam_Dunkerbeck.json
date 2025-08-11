@@ -2,7 +2,7 @@
   "surfer_id": "14464",
   "name": "Liam Dunkerbeck",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2942",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_42960",
+          "heat_id": "heat_42027",
           "round_name": "Round 2 - Heat 12",
           "position": 4,
           "total_score": 4.9,
@@ -42,7 +42,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_49408",
+          "heat_id": "heat_42682",
           "round_name": "Round 3 - Heat 6",
           "position": 4,
           "total_score": 3.97,
@@ -55,7 +55,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_33788",
+          "heat_id": "heat_34713",
           "round_name": "Round 2 - Heat 5",
           "position": 2,
           "total_score": 6.77,
@@ -68,7 +68,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_99874",
+          "heat_id": "heat_67257",
           "round_name": "Round 1 - Heat 6",
           "position": 2,
           "total_score": 5.76,

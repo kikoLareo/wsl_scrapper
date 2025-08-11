@@ -2,7 +2,7 @@
   "surfer_id": "7148",
   "name": "Kodiak Semsch",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1036",
       "event_name": "Billabong Pico Alto",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 5,
           "total_score": 12.33,

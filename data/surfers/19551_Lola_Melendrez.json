@@ -2,7 +2,7 @@
   "surfer_id": "19551",
   "name": "Lola Melendrez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4634",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_79927",
+          "heat_id": "heat_37189",
           "round_name": "Round of 32 - Heat 1",
           "position": 3,
           "total_score": 2.33,

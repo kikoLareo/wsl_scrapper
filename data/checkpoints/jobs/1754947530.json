@@ -1,0 +1,38 @@
+{
+  "id": "1754947530",
+  "status": "finished",
+  "logs": [
+    "Iniciando scraping...",
+    "Parámetros: years=[2025], countries=['ESP', 'BAS', 'CAN'], tours=[], surfers=['Yago', 'Dominguez'], locations=[], max_workers=6, delay=0.4",
+    "Total de surfistas a procesar: 0"
+  ],
+  "summary": {
+    "total_surfers": 0,
+    "total_events": 0,
+    "total_heats": 0,
+    "elapsed_s": 0
+  },
+  "params": {
+    "years": [
+      2025
+    ],
+    "countries": [
+      "ESP",
+      "BAS",
+      "CAN"
+    ],
+    "tours": [],
+    "surfers": [
+      "Yago",
+      "Dominguez"
+    ],
+    "max_workers": 6,
+    "request_delay": 0.4,
+    "locations": []
+  },
+  "progress": {
+    "total": 0,
+    "done": 0,
+    "eta_s": null
+  }
+}

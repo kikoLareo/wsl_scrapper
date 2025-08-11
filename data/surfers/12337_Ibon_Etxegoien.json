@@ -2,7 +2,7 @@
   "surfer_id": "12337",
   "name": "Ibon Etxegoien",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4043",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 4,
           "total_score": 6.27,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3053",
+          "heat_id": "heat_17393",
           "round_name": "Round of 64 - Heat 16",
           "position": 2,
           "total_score": 7.1,
@@ -41,7 +41,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_43395",
+          "heat_id": "heat_9398",
           "round_name": "Round of 80 - Heat 8",
           "position": 2,
           "total_score": 9.5,
@@ -68,7 +68,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54833",
+          "heat_id": "heat_96673",
           "round_name": "Round 2 - Heat 2",
           "position": 3,
           "total_score": 9.73,
@@ -94,7 +94,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_12295",
+          "heat_id": "heat_60254",
           "round_name": "Round 2 - Heat 1",
           "position": 3,
           "total_score": 9.23,
@@ -120,7 +120,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9464",
+          "heat_id": "heat_6443",
           "round_name": "Round 2 - Heat 7",
           "position": 4,
           "total_score": 3.6,

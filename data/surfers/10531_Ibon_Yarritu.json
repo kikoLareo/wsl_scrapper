@@ -2,7 +2,7 @@
   "surfer_id": "10531",
   "name": "Ibon Yarritu",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1905",
       "event_name": "Junior Pro Sopela",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 9.06,

@@ -2,7 +2,7 @@
   "surfer_id": "10530",
   "name": "Paolo Giorgi",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3271",
       "event_name": "Cabreiroá Pro Las Americas",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54361",
+          "heat_id": "heat_13351",
           "round_name": "Round 3 - Heat 13",
           "position": 1,
           "total_score": 11.67,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_70778",
+          "heat_id": "heat_14923",
           "round_name": "Round 2 - Heat 13",
           "position": 1,
           "total_score": 15.5,
@@ -39,7 +39,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64528",
+          "heat_id": "heat_39072",
           "round_name": "Round 1 - Heat 7",
           "position": 1,
           "total_score": 10.74,
@@ -63,7 +63,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_88058",
+          "heat_id": "heat_43298",
           "round_name": "Round of 16 - Heat 2",
           "position": 3,
           "total_score": 14.0,
@@ -79,7 +79,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 2,
           "total_score": 11.83,
@@ -93,7 +93,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_67738",
+          "heat_id": "heat_85431",
           "round_name": "Round of 64 - Heat 2",
           "position": 2,
           "total_score": 12.76,

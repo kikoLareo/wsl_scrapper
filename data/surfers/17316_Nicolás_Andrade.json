@@ -2,10 +2,10 @@
   "surfer_id": "17316",
   "name": "Nicolás Andrade",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
-      "event_id": "4714",
-      "event_name": "GADIS Longboard Festival Ferrol",
+      "event_id": "4917",
+      "event_name": "GADIS Longboard Pro Ferrol",
       "location": "Unknown",
       "tour_type": "MLT",
       "start_date": null,
@@ -13,52 +13,24 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54741",
-          "round_name": "Quarterfinals - Heat 4",
+          "heat_id": "heat_38678",
+          "round_name": "Quarterfinals - Heat 3",
           "position": 3,
-          "total_score": 8.77,
+          "total_score": 8.4,
           "wave_scores": [
-            4.17,
-            4.0,
-            2.5,
-            4.5,
-            0.23,
-            0.43,
-            0.57,
-            4.27
+            4.67,
+            2.672,
+            2.93,
+            5.73
           ],
           "advanced": false,
-          "heat_date": null
-        },
-        {
-          "heat_id": "heat_23716",
-          "round_name": "Round of 32 - Heat 5",
-          "position": 2,
-          "total_score": 12.44,
-          "wave_scores": [
-            5.67,
-            3.17,
-            4.0,
-            3.33,
-            0.5,
-            0.6,
-            6.77,
-            4.43,
-            3.43,
-            4.17,
-            2.83,
-            1.17,
-            0.7,
-            1.0
-          ],
-          "advanced": true,
           "heat_date": null
         }
       ]
     },
     {
-      "event_id": "4616",
-      "event_name": "Wild West Jerky Longboard Pro",
+      "event_id": "4935",
+      "event_name": "Boardmasters Longboard Pro",
       "location": "Unknown",
       "tour_type": "MLT",
       "start_date": null,
@@ -66,28 +38,29 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14619",
-          "round_name": "Quarterfinals - Heat 2",
-          "position": 3,
-          "total_score": 8.04,
+          "heat_id": "heat_36517",
+          "round_name": "Semifinals - Heat 2",
+          "position": 4,
+          "total_score": 10.06,
           "wave_scores": [
-            0.33,
-            2.83,
-            4.17,
-            3.87
+            4.0,
+            1.0,
+            5.53,
+            1.0,
+            4.53
           ],
           "advanced": false,
           "heat_date": null
         },
         {
-          "heat_id": "heat_37193",
-          "round_name": "Round of 24 - Heat 1",
+          "heat_id": "heat_11817",
+          "round_name": "Quarterfinals - Heat 4",
           "position": 2,
-          "total_score": 13.03,
+          "total_score": 6.83,
           "wave_scores": [
-            4.83,
-            5.03,
-            8.0
+            2.5,
+            4.33,
+            0.93
           ],
           "advanced": true,
           "heat_date": null

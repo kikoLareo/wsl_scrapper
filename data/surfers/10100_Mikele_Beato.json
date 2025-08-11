@@ -2,7 +2,7 @@
   "surfer_id": "10100",
   "name": "Mikele Beato",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3315",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_99874",
+          "heat_id": "heat_67257",
           "round_name": "Round 1 - Heat 6",
           "position": 3,
           "total_score": 10.0,

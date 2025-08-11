@@ -2,7 +2,7 @@
   "surfer_id": "615",
   "name": "Hodei Collazo",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2994",
       "event_name": "Caparica Surf Fest Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_60122",
+          "heat_id": "heat_17430",
           "round_name": "Round 3 - Heat 3",
           "position": 4,
           "total_score": 8.57,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_95893",
+          "heat_id": "heat_27602",
           "round_name": "Round 2 - Heat 3",
           "position": 1,
           "total_score": 8.8,
@@ -52,7 +52,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14741",
+          "heat_id": "heat_57375",
           "round_name": "Round 3 - Heat 5",
           "position": 4,
           "total_score": 8.8,

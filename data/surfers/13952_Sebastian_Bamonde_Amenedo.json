@@ -2,7 +2,7 @@
   "surfer_id": "13952",
   "name": "Sebastian Bamonde Amenedo",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4633",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_79093",
+          "heat_id": "heat_61744",
           "round_name": "Round of 112 - Heat 1",
           "position": 4,
           "total_score": 7.3,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_55557",
+          "heat_id": "heat_48565",
           "round_name": "Round of 64 - Heat 4",
           "position": 4,
           "total_score": 5.13,
@@ -70,7 +70,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_57124",
+          "heat_id": "heat_64511",
           "round_name": "Round of 48 - Heat 3",
           "position": 4,
           "total_score": 4.93,
@@ -87,7 +87,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_72116",
+          "heat_id": "heat_62876",
           "round_name": "Round of 64 - Heat 3",
           "position": 1,
           "total_score": 12.5,

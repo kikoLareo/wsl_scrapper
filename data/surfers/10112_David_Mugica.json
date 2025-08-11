@@ -2,7 +2,7 @@
   "surfer_id": "10112",
   "name": "David Mugica",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1548",
       "event_name": "Pro Zarautz",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 4,
           "total_score": 2.13,

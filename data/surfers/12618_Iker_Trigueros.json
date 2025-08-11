@@ -2,7 +2,7 @@
   "surfer_id": "12618",
   "name": "Iker Trigueros",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4813",
       "event_name": "Pro Taghazout Bay",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9617",
+          "heat_id": "heat_38809",
           "round_name": "Round of 16 - Heat 1",
           "position": 4,
           "total_score": 7.5,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 2,
           "total_score": 9.03,
@@ -41,7 +41,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3158",
+          "heat_id": "heat_84481",
           "round_name": "Round of 64 - Heat 5",
           "position": 2,
           "total_score": 10.26,
@@ -56,7 +56,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_53098",
+          "heat_id": "heat_94026",
           "round_name": "Round of 96 - Heat 5",
           "position": 1,
           "total_score": 11.84,
@@ -81,7 +81,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 4,
           "total_score": 7.6,
@@ -96,7 +96,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_67738",
+          "heat_id": "heat_85431",
           "round_name": "Round of 64 - Heat 2",
           "position": 2,
           "total_score": 9.93,
@@ -123,7 +123,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_93087",
+          "heat_id": "heat_44554",
           "round_name": "Round of 64 - Heat 10",
           "position": 4,
           "total_score": 10.47,
@@ -152,7 +152,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 4,
           "total_score": 6.36,
@@ -166,7 +166,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_48680",
+          "heat_id": "heat_47628",
           "round_name": "Round of 64 - Heat 13",
           "position": 1,
           "total_score": 10.5,
@@ -192,7 +192,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 3,
           "total_score": 10.6,
@@ -207,7 +207,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29185",
+          "heat_id": "heat_91358",
           "round_name": "Round of 64 - Heat 6",
           "position": 2,
           "total_score": 13.33,

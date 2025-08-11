@@ -2,5 +2,31 @@
   "surfer_id": "20543",
   "name": "Pablo Solloso",
   "country": "Spain",
-  "events_2025": []
+  "events": [
+    {
+      "event_id": "4917",
+      "event_name": "GADIS Longboard Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MLT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_26831",
+          "round_name": "Round of 24 - Heat 1",
+          "position": 3,
+          "total_score": 4.4,
+          "wave_scores": [
+            1.5,
+            2.0,
+            2.37,
+            2.03
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
 }

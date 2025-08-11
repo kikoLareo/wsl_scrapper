@@ -2,7 +2,7 @@
   "surfer_id": "13934",
   "name": "Xuban Lopetegui",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2758",
       "event_name": "Junior Pro Sopela",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_45769",
+          "heat_id": "heat_97484",
           "round_name": "Round 2 - Heat 8",
           "position": 3,
           "total_score": 6.23,
@@ -30,7 +30,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9509",
+          "heat_id": "heat_52966",
           "round_name": "Round 1 - Heat 4",
           "position": 2,
           "total_score": 8.24,

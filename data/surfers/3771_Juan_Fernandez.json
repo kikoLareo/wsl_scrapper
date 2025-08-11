@@ -2,7 +2,7 @@
   "surfer_id": "3771",
   "name": "Juan Fernandez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4633",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_24951",
+          "heat_id": "heat_15117",
           "round_name": "Round of 64 - Heat 8",
           "position": 4,
           "total_score": 3.0,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_87673",
+          "heat_id": "heat_60675",
           "round_name": "Round 5",
           "position": 4,
           "total_score": 8.33,
@@ -51,7 +51,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 1,
           "total_score": 10.33,
@@ -64,7 +64,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 12.0,
@@ -76,7 +76,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 11.43,
@@ -102,7 +102,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 4,
           "total_score": 7.93,
@@ -118,7 +118,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 6.43,
@@ -142,7 +142,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 5.17,
@@ -155,7 +155,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 11.13,
@@ -179,7 +179,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 4.53,
@@ -204,7 +204,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 4,
           "total_score": 6.67,
@@ -218,7 +218,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 8.64,

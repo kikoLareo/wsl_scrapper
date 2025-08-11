@@ -2,7 +2,7 @@
   "surfer_id": "20184",
   "name": "Carla Mendez Acebo",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4915",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_44345",
+          "heat_id": "heat_92380",
           "round_name": "Round of 40 - Heat 4",
           "position": 3,
           "total_score": 7.84,

@@ -2,7 +2,7 @@
   "surfer_id": "14358",
   "name": "Keoni Lasa",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4889",
       "event_name": "Burton Automotive Newcastle Surfest presented by Bonsoy",
@@ -90,7 +90,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 3,
           "total_score": 6.0,
@@ -106,7 +106,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_93087",
+          "heat_id": "heat_44554",
           "round_name": "Round of 64 - Heat 10",
           "position": 1,
           "total_score": 10.47,
@@ -133,7 +133,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_68007",
+          "heat_id": "heat_31260",
           "round_name": "Round of 16 - Heat 3",
           "position": 3,
           "total_score": 10.67,
@@ -153,7 +153,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 2,
           "total_score": 12.5,
@@ -167,7 +167,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3053",
+          "heat_id": "heat_17393",
           "round_name": "Round of 64 - Heat 16",
           "position": 1,
           "total_score": 12.0,
@@ -195,7 +195,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 3,
           "total_score": 9.44,
@@ -209,7 +209,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_36971",
+          "heat_id": "heat_38828",
           "round_name": "Round of 48 - Heat 5",
           "position": 2,
           "total_score": 10.0,
@@ -228,7 +228,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3158",
+          "heat_id": "heat_84481",
           "round_name": "Round of 64 - Heat 5",
           "position": 1,
           "total_score": 12.33,
@@ -252,7 +252,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 3,
           "total_score": 9.07,
@@ -266,7 +266,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_26884",
+          "heat_id": "heat_47844",
           "round_name": "Round of 64 - Heat 9",
           "position": 1,
           "total_score": 11.0,
@@ -293,7 +293,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14619",
+          "heat_id": "heat_23260",
           "round_name": "Quarterfinals - Heat 2",
           "position": 4,
           "total_score": 11.07,
@@ -312,7 +312,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 1,
           "total_score": 10.04,
@@ -327,7 +327,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_24951",
+          "heat_id": "heat_15117",
           "round_name": "Round of 64 - Heat 8",
           "position": 1,
           "total_score": 13.27,
@@ -356,7 +356,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_21514",
+          "heat_id": "heat_49558",
           "round_name": "Semifinals - Heat 1",
           "position": 4,
           "total_score": 5.26,
@@ -372,7 +372,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58232",
+          "heat_id": "heat_48795",
           "round_name": "Quarterfinals - Heat 1",
           "position": 2,
           "total_score": 12.73,
@@ -387,7 +387,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 1,
           "total_score": 12.67,
@@ -402,7 +402,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_72116",
+          "heat_id": "heat_62876",
           "round_name": "Round of 64 - Heat 3",
           "position": 1,
           "total_score": 11.47,
@@ -431,7 +431,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_16823",
+          "heat_id": "heat_13614",
           "round_name": "Round of 64 - Heat 14",
           "position": 4,
           "total_score": 6.1,

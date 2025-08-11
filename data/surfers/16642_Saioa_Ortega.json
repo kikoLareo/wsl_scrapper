@@ -2,7 +2,7 @@
   "surfer_id": "16642",
   "name": "Saioa Ortega",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4812",
       "event_name": "Pro Taghazout Bay",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_60639",
+          "heat_id": "heat_46727",
           "round_name": "Round of 40 - Heat 3",
           "position": 3,
           "total_score": 10.34,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_45015",
+          "heat_id": "heat_74841",
           "round_name": "Round of 48 - Heat 8",
           "position": 4,
           "total_score": 5.94,
@@ -54,7 +54,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_7398",
+          "heat_id": "heat_6504",
           "round_name": "Round of 64 - Heat 7",
           "position": 2,
           "total_score": 8.37,
@@ -82,7 +82,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 4,
           "total_score": 6.86,
@@ -100,7 +100,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 1,
           "total_score": 14.17,
@@ -126,7 +126,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 4,
           "total_score": 5.0,
@@ -141,7 +141,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 2,
           "total_score": 12.0,

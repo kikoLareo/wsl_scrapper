@@ -2,7 +2,7 @@
   "surfer_id": "13219",
   "name": "Leon Agurruza",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3735",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_60525",
+          "heat_id": "heat_92575",
           "round_name": "Round of 96 - Heat 3",
           "position": 4,
           "total_score": 5.8,
@@ -41,7 +41,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86782",
+          "heat_id": "heat_70978",
           "round_name": "Round of 96 - Heat 8",
           "position": 4,
           "total_score": 8.07,
@@ -71,7 +71,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_66728",
+          "heat_id": "heat_60366",
           "round_name": "Round of 96 - Heat 1",
           "position": 4,
           "total_score": 6.2,
@@ -89,14 +89,14 @@
     {
       "event_id": "4006",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_66728",
+          "heat_id": "heat_60366",
           "round_name": "Round of 96 - Heat 1",
           "position": 4,
           "total_score": 6.66,

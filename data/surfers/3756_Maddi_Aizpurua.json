@@ -2,7 +2,7 @@
   "surfer_id": "3756",
   "name": "Maddi Aizpurua",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "987",
       "event_name": "Rias Baixas Pro",
@@ -23,7 +23,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86987",
+          "heat_id": "heat_8839",
           "round_name": "Round 2 - Heat 6",
           "position": 4,
           "total_score": 3.57,
@@ -65,7 +65,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58739",
+          "heat_id": "heat_67232",
           "round_name": "Semifinals",
           "position": 4,
           "total_score": 4.87,
@@ -81,7 +81,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 2,
           "total_score": 7.8,
@@ -98,7 +98,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 9.93,
@@ -124,7 +124,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 3,
           "total_score": 5.87,
@@ -138,7 +138,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 7.94,
@@ -163,7 +163,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 3,
           "total_score": 9.17,
@@ -178,7 +178,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 8.8,
@@ -205,7 +205,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 8.23,
@@ -219,7 +219,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 6.66,

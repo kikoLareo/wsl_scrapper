@@ -2,7 +2,7 @@
   "surfer_id": "7547",
   "name": "Alberto Fernandez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2650",
       "event_name": "Longboard Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14619",
+          "heat_id": "heat_23260",
           "round_name": "Quarterfinals - Heat 2",
           "position": 2,
           "total_score": 7.5,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_60122",
+          "heat_id": "heat_17430",
           "round_name": "Round 3 - Heat 3",
           "position": 1,
           "total_score": 7.4,
@@ -38,7 +38,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 2,
           "total_score": 6.0,
@@ -65,7 +65,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29385",
+          "heat_id": "heat_36517",
           "round_name": "Semifinals - Heat 2",
           "position": 4,
           "total_score": 4.5,
@@ -76,7 +76,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 1,
           "total_score": 13.1,
@@ -102,7 +102,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_95893",
+          "heat_id": "heat_27602",
           "round_name": "Round 2 - Heat 3",
           "position": 3,
           "total_score": 8.63,

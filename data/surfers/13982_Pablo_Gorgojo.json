@@ -2,7 +2,7 @@
   "surfer_id": "13982",
   "name": "Pablo Gorgojo",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2883",
       "event_name": "Pantin Junior Pro by Gadis",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 4,
           "total_score": 5.54,

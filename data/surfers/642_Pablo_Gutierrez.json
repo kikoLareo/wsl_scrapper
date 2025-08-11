@@ -2,7 +2,7 @@
   "surfer_id": "642",
   "name": "Pablo Gutierrez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "412",
       "event_name": "Protest Vendée Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_26813",
+          "heat_id": "heat_51619",
           "round_name": "Round of 64",
           "position": 3,
           "total_score": 9.56,
@@ -25,7 +25,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_13621",
+          "heat_id": "heat_65970",
           "round_name": "Round of 96",
           "position": 1,
           "total_score": 16.57,
@@ -48,7 +48,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_13621",
+          "heat_id": "heat_65970",
           "round_name": "Round of 96",
           "position": 3,
           "total_score": 12.04,
@@ -60,7 +60,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_85285",
+          "heat_id": "heat_96225",
           "round_name": "Round of 128",
           "position": 1,
           "total_score": 9.93,

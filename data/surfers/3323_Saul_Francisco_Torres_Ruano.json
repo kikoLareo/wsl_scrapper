@@ -2,7 +2,7 @@
   "surfer_id": "3323",
   "name": "Saul Francisco Torres Ruano",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "341",
       "event_name": "Islas Canarias Ocean and Earth Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_73727",
+          "heat_id": "heat_43108",
           "round_name": "Round of 32",
           "position": 4,
           "total_score": 4.95,
@@ -25,7 +25,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_55391",
+          "heat_id": "heat_9074",
           "round_name": "Round of 48",
           "position": 2,
           "total_score": 5.65,
@@ -48,7 +48,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 8.3,
@@ -60,7 +60,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 8.16,

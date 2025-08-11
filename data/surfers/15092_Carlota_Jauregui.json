@@ -2,7 +2,7 @@
   "surfer_id": "15092",
   "name": "Carlota Jauregui",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4332",
       "event_name": "Boardmasters Longboard Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 4,
           "total_score": 4.74,
@@ -32,7 +32,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29385",
+          "heat_id": "heat_36517",
           "round_name": "Semifinals - Heat 2",
           "position": 1,
           "total_score": 7.23,
@@ -45,7 +45,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 1,
           "total_score": 9.33,
@@ -62,7 +62,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 1,
           "total_score": 7.0,

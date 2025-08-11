@@ -2,7 +2,7 @@
   "surfer_id": "19233",
   "name": "Naia Zaldegui Zapata",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4715",
       "event_name": "GADIS Longboard Festival Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 4,
           "total_score": 1.64,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 2,
           "total_score": 4.83,

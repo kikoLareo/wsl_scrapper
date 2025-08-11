@@ -2,18 +2,18 @@
   "surfer_id": "15886",
   "name": "Haizea Duo Mugabure",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3716",
       "event_name": "E. Leclerc Pont-l’Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l’Abbe Junior Pro La Torche",
       "tour_type": "WJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_47399",
+          "heat_id": "heat_24636",
           "round_name": "Round of 48 - Heat 1",
           "position": 3,
           "total_score": 5.1,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_44345",
+          "heat_id": "heat_92380",
           "round_name": "Round of 40 - Heat 4",
           "position": 3,
           "total_score": 4.5,

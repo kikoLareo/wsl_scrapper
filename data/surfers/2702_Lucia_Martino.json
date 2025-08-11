@@ -2,7 +2,7 @@
   "surfer_id": "2702",
   "name": "Lucia Martino",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3794",
       "event_name": "MEO Vissla Pro Ericeira",
@@ -50,7 +50,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_72116",
+          "heat_id": "heat_62876",
           "round_name": "Round of 64 - Heat 3",
           "position": 3,
           "total_score": 7.8,
@@ -79,7 +79,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58739",
+          "heat_id": "heat_67232",
           "round_name": "Semifinals",
           "position": 3,
           "total_score": 9.26,
@@ -95,7 +95,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 1,
           "total_score": 7.67,
@@ -109,7 +109,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 15.33,
@@ -135,7 +135,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 3,
           "total_score": 7.97,
@@ -152,7 +152,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 13.34,
@@ -179,7 +179,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 2.6,
@@ -206,7 +206,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58739",
+          "heat_id": "heat_67232",
           "round_name": "Semifinals",
           "position": 2,
           "total_score": 10.73,
@@ -224,7 +224,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 1,
           "total_score": 9.1,
@@ -238,7 +238,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 11.1,
@@ -253,7 +253,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 9.13,

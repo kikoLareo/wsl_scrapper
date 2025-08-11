@@ -2,7 +2,7 @@
   "surfer_id": "2711",
   "name": "Yolanda Aneiros",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "987",
       "event_name": "Rias Baixas Pro",
@@ -23,7 +23,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_79524",
+          "heat_id": "heat_8480",
           "round_name": "Round 2 - Heat 10",
           "position": 3,
           "total_score": 5.8,
@@ -42,7 +42,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_40054",
+          "heat_id": "heat_95280",
           "round_name": "Round 1 - Heat 5",
           "position": 2,
           "total_score": 4.8,
@@ -69,7 +69,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 7.33,
@@ -89,7 +89,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 5.4,
@@ -116,7 +116,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 4.23,

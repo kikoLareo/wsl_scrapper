@@ -2,7 +2,7 @@
   "surfer_id": "15605",
   "name": "Alba Mediavilla",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4026",
       "event_name": "Cabreiroa Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_47399",
+          "heat_id": "heat_24636",
           "round_name": "Round of 48 - Heat 1",
           "position": 3,
           "total_score": 4.77,

@@ -2,7 +2,7 @@
   "surfer_id": "4025",
   "name": "Julian Cuello",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1550",
       "event_name": "Pro A Coruna",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 4,
           "total_score": 9.66,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 11.5,
@@ -47,7 +47,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 12.33,
@@ -67,7 +67,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 7.93,

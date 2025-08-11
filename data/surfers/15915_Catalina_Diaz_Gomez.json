@@ -2,7 +2,7 @@
   "surfer_id": "15915",
   "name": "Catalina Diaz Gomez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3985",
       "event_name": "Estrella Galicia Caparica Surf Fest 2022",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_96277",
+          "heat_id": "heat_39406",
           "round_name": "Round of 56 - Heat 1",
           "position": 3,
           "total_score": 5.0,
@@ -41,7 +41,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_57124",
+          "heat_id": "heat_64511",
           "round_name": "Round of 48 - Heat 3",
           "position": 4,
           "total_score": 4.24,
@@ -60,14 +60,14 @@
     {
       "event_id": "4353",
       "event_name": "Cabreiroá Junior Pro Razo-Caión",
-      "location": "Unknown",
+      "location": "Caión",
       "tour_type": "WJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_60639",
+          "heat_id": "heat_46727",
           "round_name": "Round of 40 - Heat 3",
           "position": 4,
           "total_score": 4.4,

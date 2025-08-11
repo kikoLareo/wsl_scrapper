@@ -2,7 +2,7 @@
   "surfer_id": "2219",
   "name": "Lenny Perdomo",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "494",
       "event_name": "Islas Canarias Santa Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_31041",
+          "heat_id": "heat_88756",
           "round_name": "Round of 144",
           "position": 3,
           "total_score": 10.1,

@@ -2,7 +2,7 @@
   "surfer_id": "18085",
   "name": "Fernando Ibarra",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29385",
+          "heat_id": "heat_36517",
           "round_name": "Semifinals - Heat 2",
           "position": 3,
           "total_score": 8.23,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 2,
           "total_score": 11.4,
@@ -39,7 +39,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 2,
           "total_score": 10.06,
@@ -64,7 +64,26 @@
       "start_date": null,
       "final_position": null,
       "points_earned": null,
-      "heats": null
+      "heats": [
+        {
+          "heat_id": "heat_38828",
+          "round_name": "Round of 48 - Heat 5",
+          "position": 3,
+          "total_score": 7.17,
+          "wave_scores": [
+            3.67,
+            1.6,
+            2.8,
+            1.63,
+            0.6,
+            0.33,
+            3.5,
+            0.27
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
     }
   ]
 }

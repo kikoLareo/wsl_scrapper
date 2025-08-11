@@ -2,7 +2,7 @@
   "surfer_id": "14741",
   "name": "Noah Hecht Suarez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4025",
       "event_name": "Cabreiroa Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_96527",
+          "heat_id": "heat_28664",
           "round_name": "Round of 96 - Heat 6",
           "position": 3,
           "total_score": 7.7,
@@ -33,14 +33,14 @@
     {
       "event_id": "4006",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29185",
+          "heat_id": "heat_91358",
           "round_name": "Round of 64 - Heat 6",
           "position": 3,
           "total_score": 8.0,
@@ -55,7 +55,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_96527",
+          "heat_id": "heat_28664",
           "round_name": "Round of 96 - Heat 6",
           "position": 1,
           "total_score": 8.0,

@@ -2,7 +2,7 @@
   "surfer_id": "18636",
   "name": "Eder Fuentes",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 4,
           "total_score": 9.9,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 2,
           "total_score": 7.57,
@@ -43,7 +43,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_81191",
+          "heat_id": "heat_51270",
           "round_name": "Round of 48 - Heat 7",
           "position": 1,
           "total_score": 12.83,
@@ -60,7 +60,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_7398",
+          "heat_id": "heat_6504",
           "round_name": "Round of 64 - Heat 7",
           "position": 1,
           "total_score": 11.33,
@@ -89,7 +89,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 4,
           "total_score": 8.13,
@@ -107,7 +107,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 2,
           "total_score": 9.63,
@@ -124,7 +124,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_36971",
+          "heat_id": "heat_38828",
           "round_name": "Round of 48 - Heat 5",
           "position": 2,
           "total_score": 7.87,
@@ -137,7 +137,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3158",
+          "heat_id": "heat_84481",
           "round_name": "Round of 64 - Heat 5",
           "position": 1,
           "total_score": 8.84,

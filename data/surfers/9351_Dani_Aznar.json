@@ -2,7 +2,7 @@
   "surfer_id": "9351",
   "name": "Dani Aznar",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1819",
       "event_name": "Caparica Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 6.9,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 6.5,

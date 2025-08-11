@@ -2,7 +2,7 @@
   "surfer_id": "10127",
   "name": "José Maria De Paz",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3271",
       "event_name": "Cabreiroá Pro Las Americas",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_34271",
+          "heat_id": "heat_91858",
           "round_name": "Round 2 - Heat 14",
           "position": 4,
           "total_score": 3.37,

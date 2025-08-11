@@ -2,7 +2,7 @@
   "surfer_id": "10488",
   "name": "Iago Formosel",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4714",
       "event_name": "GADIS Longboard Festival Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 4,
           "total_score": 6.7,

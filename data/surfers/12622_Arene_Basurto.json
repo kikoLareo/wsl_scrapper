@@ -2,7 +2,7 @@
   "surfer_id": "12622",
   "name": "Arene Basurto",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2757",
       "event_name": "Junior Pro Sopela",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_89996",
+          "heat_id": "heat_63521",
           "round_name": "Round 1 - Heat 2",
           "position": 4,
           "total_score": 3.77,

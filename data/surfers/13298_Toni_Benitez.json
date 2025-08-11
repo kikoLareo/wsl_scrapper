@@ -2,7 +2,7 @@
   "surfer_id": "13298",
   "name": "Toni Benitez",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2942",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9464",
+          "heat_id": "heat_6443",
           "round_name": "Round 2 - Heat 7",
           "position": 3,
           "total_score": 6.13,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46237",
+          "heat_id": "heat_77235",
           "round_name": "Round 2 - Heat 11",
           "position": 3,
           "total_score": 4.74,
@@ -64,7 +64,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86987",
+          "heat_id": "heat_8839",
           "round_name": "Round 2 - Heat 6",
           "position": 3,
           "total_score": 8.1,
@@ -91,7 +91,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_99747",
+          "heat_id": "heat_33351",
           "round_name": "Round 3 - Heat 12",
           "position": 3,
           "total_score": 10.03,
@@ -107,7 +107,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_46237",
+          "heat_id": "heat_77235",
           "round_name": "Round 2 - Heat 11",
           "position": 2,
           "total_score": 12.03,

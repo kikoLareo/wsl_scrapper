@@ -2,7 +2,7 @@
   "surfer_id": "11436",
   "name": "Angela Ayesa",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2664",
       "event_name": "Caparica Junior Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_89996",
+          "heat_id": "heat_63521",
           "round_name": "Round 1 - Heat 2",
           "position": 3,
           "total_score": 5.8,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_38176",
+          "heat_id": "heat_94161",
           "round_name": "Round 1 - Heat 1",
           "position": 3,
           "total_score": 5.83,
@@ -67,7 +67,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_38176",
+          "heat_id": "heat_94161",
           "round_name": "Round 1 - Heat 1",
           "position": 3,
           "total_score": 5.97,

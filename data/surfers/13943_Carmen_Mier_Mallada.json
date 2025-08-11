@@ -2,7 +2,7 @@
   "surfer_id": "13943",
   "name": "Carmen Mier Mallada",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2986",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_38176",
+          "heat_id": "heat_94161",
           "round_name": "Round 1 - Heat 1",
           "position": 4,
           "total_score": 2.0,
@@ -35,7 +35,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_89996",
+          "heat_id": "heat_63521",
           "round_name": "Round 1 - Heat 2",
           "position": 4,
           "total_score": 3.44,

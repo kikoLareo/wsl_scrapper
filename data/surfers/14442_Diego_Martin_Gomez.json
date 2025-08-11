@@ -2,7 +2,7 @@
   "surfer_id": "14442",
   "name": "Diego Martin Gomez",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4043",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_67738",
+          "heat_id": "heat_85431",
           "round_name": "Round of 64 - Heat 2",
           "position": 4,
           "total_score": 4.96,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8849",
+          "heat_id": "heat_75247",
           "round_name": "Round of 80 - Heat 1",
           "position": 2,
           "total_score": 8.74,
@@ -57,7 +57,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_12488",
+          "heat_id": "heat_75462",
           "round_name": "Round of 96 - Heat 12",
           "position": 4,
           "total_score": 7.5,
@@ -84,7 +84,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 4,
           "total_score": 6.36,
@@ -97,7 +97,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30054",
+          "heat_id": "heat_24568",
           "round_name": "Round of 64 - Heat 1",
           "position": 2,
           "total_score": 10.34,
@@ -113,7 +113,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_25610",
+          "heat_id": "heat_21928",
           "round_name": "Round of 96 - Heat 2",
           "position": 2,
           "total_score": 7.23,
@@ -141,7 +141,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 4,
           "total_score": 6.33,
@@ -156,7 +156,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3053",
+          "heat_id": "heat_17393",
           "round_name": "Round of 64 - Heat 16",
           "position": 2,
           "total_score": 8.47,

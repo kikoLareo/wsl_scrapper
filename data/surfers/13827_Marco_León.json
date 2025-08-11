@@ -2,7 +2,7 @@
   "surfer_id": "13827",
   "name": "Marco León",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4618",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_88785",
+          "heat_id": "heat_34917",
           "round_name": "Round of 96 - Heat 9",
           "position": 4,
           "total_score": 5.33,

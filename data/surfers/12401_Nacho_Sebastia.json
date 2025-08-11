@@ -2,7 +2,7 @@
   "surfer_id": "12401",
   "name": "Nacho Sebastia",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3271",
       "event_name": "Cabreiroá Pro Las Americas",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_60122",
+          "heat_id": "heat_17430",
           "round_name": "Round 3 - Heat 3",
           "position": 3,
           "total_score": 5.67,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_95893",
+          "heat_id": "heat_27602",
           "round_name": "Round 2 - Heat 3",
           "position": 1,
           "total_score": 11.83,
@@ -40,7 +40,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_89996",
+          "heat_id": "heat_63521",
           "round_name": "Round 1 - Heat 2",
           "position": 1,
           "total_score": 12.57,

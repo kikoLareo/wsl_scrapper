@@ -2,7 +2,7 @@
   "surfer_id": "3772",
   "name": "Lander Davila",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3010",
       "event_name": "Cabreiroá Pro Zarautz Basque Country",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54361",
+          "heat_id": "heat_13351",
           "round_name": "Round 3 - Heat 13",
           "position": 3,
           "total_score": 12.5,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_34271",
+          "heat_id": "heat_91858",
           "round_name": "Round 2 - Heat 14",
           "position": 2,
           "total_score": 11.7,
@@ -53,7 +53,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 3,
           "total_score": 8.67,
@@ -78,7 +78,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 4,
           "total_score": 6.2,
@@ -94,7 +94,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 8.7,
@@ -120,7 +120,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 1,
           "total_score": 14.27,
@@ -137,7 +137,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58739",
+          "heat_id": "heat_67232",
           "round_name": "Semifinals",
           "position": 2,
           "total_score": 10.83,
@@ -155,7 +155,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 2,
           "total_score": 8.93,
@@ -170,7 +170,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 1,
           "total_score": 14.83,
@@ -186,7 +186,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 10.64,
@@ -211,7 +211,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 4,
           "total_score": 5.07,
@@ -232,7 +232,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 11.27,
@@ -258,7 +258,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 4,
           "total_score": 4.0,
@@ -271,7 +271,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 10.67,
@@ -286,7 +286,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 8.74,
@@ -298,7 +298,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 13.17,

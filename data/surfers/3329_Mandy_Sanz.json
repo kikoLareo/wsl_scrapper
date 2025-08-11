@@ -2,7 +2,7 @@
   "surfer_id": "3329",
   "name": "Mandy Sanz",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "341",
       "event_name": "Islas Canarias Ocean and Earth Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_55391",
+          "heat_id": "heat_9074",
           "round_name": "Round of 48",
           "position": 4,
           "total_score": 9.5,

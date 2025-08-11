@@ -2,7 +2,7 @@
   "surfer_id": "13264",
   "name": "Julia Gonzalez",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3736",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 3,
           "total_score": 7.7,
@@ -29,7 +29,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_36971",
+          "heat_id": "heat_38828",
           "round_name": "Round of 48 - Heat 5",
           "position": 2,
           "total_score": 9.93,
@@ -55,7 +55,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 3,
           "total_score": 6.54,
@@ -83,7 +83,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_68007",
+          "heat_id": "heat_31260",
           "round_name": "Round of 16 - Heat 3",
           "position": 3,
           "total_score": 7.47,
@@ -96,7 +96,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 1,
           "total_score": 10.6,
@@ -105,7 +105,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_36971",
+          "heat_id": "heat_38828",
           "round_name": "Round of 48 - Heat 5",
           "position": 1,
           "total_score": 9.17,

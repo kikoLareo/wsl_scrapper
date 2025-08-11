@@ -2,7 +2,7 @@
   "surfer_id": "15526",
   "name": "Andrea Plantada",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4044",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_57124",
+          "heat_id": "heat_64511",
           "round_name": "Round of 48 - Heat 3",
           "position": 3,
           "total_score": 4.64,

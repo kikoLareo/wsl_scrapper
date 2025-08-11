@@ -2,7 +2,7 @@
   "surfer_id": "602",
   "name": "Gony Zubizarreta",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3986",
       "event_name": "Estrella Galicia Caparica Surf Fest 2022",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9027",
+          "heat_id": "heat_22171",
           "round_name": "Round of 64 - Heat 11",
           "position": 4,
           "total_score": 3.93,
@@ -36,7 +36,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_90969",
+          "heat_id": "heat_35565",
           "round_name": "Round of 96 - Heat 14",
           "position": 3,
           "total_score": 8.2,
@@ -63,7 +63,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 3,
           "total_score": 8.6,
@@ -78,7 +78,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_48680",
+          "heat_id": "heat_47628",
           "round_name": "Round of 64 - Heat 13",
           "position": 2,
           "total_score": 12.23,

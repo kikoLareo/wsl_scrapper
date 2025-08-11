@@ -2,7 +2,7 @@
   "surfer_id": "673",
   "name": "Pablo Solar",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2608",
       "event_name": "Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_45769",
+          "heat_id": "heat_97484",
           "round_name": "Round 2 - Heat 8",
           "position": 3,
           "total_score": 8.23,

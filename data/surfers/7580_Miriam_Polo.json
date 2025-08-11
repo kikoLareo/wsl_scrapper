@@ -2,7 +2,7 @@
   "surfer_id": "7580",
   "name": "Miriam Polo",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1074",
       "event_name": "Teguise 2014 Franito Pro Junior",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 2.74,

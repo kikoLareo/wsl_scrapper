@@ -2,7 +2,7 @@
   "surfer_id": "16072",
   "name": "Jorge Guerreiro Alonso",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4025",
       "event_name": "Cabreiroa Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_90969",
+          "heat_id": "heat_35565",
           "round_name": "Round of 96 - Heat 14",
           "position": 3,
           "total_score": 5.56,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_71292",
+          "heat_id": "heat_81320",
           "round_name": "Round of 128 - Heat 13",
           "position": 2,
           "total_score": 5.34,

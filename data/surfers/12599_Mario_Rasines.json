@@ -2,7 +2,7 @@
   "surfer_id": "12599",
   "name": "Mario Rasines",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4937",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_12632",
+          "heat_id": "heat_27067",
           "round_name": "Round of 64 - Heat 15",
           "position": 3,
           "total_score": 7.8,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_38310",
+          "heat_id": "heat_50778",
           "round_name": "Round of 96 - Heat 16",
           "position": 2,
           "total_score": 8.36,
@@ -42,7 +42,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3919",
+          "heat_id": "heat_1891",
           "round_name": "Round of 120 - Heat 12",
           "position": 2,
           "total_score": 9.7,
@@ -69,7 +69,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_83680",
+          "heat_id": "heat_28771",
           "round_name": "Round of 96 - Heat 11",
           "position": 3,
           "total_score": 9.77,
@@ -95,7 +95,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_26884",
+          "heat_id": "heat_47844",
           "round_name": "Round of 64 - Heat 9",
           "position": 4,
           "total_score": 8.86,
@@ -111,7 +111,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_88785",
+          "heat_id": "heat_34917",
           "round_name": "Round of 96 - Heat 9",
           "position": 1,
           "total_score": 10.97,

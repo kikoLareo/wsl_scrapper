@@ -2,7 +2,7 @@
   "surfer_id": "13926",
   "name": "Jacobo Trigo",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4813",
       "event_name": "Pro Taghazout Bay",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_72200",
+          "heat_id": "heat_40660",
           "round_name": "Round of 64 - Heat 12",
           "position": 4,
           "total_score": 7.93,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_93087",
+          "heat_id": "heat_44554",
           "round_name": "Round of 64 - Heat 10",
           "position": 3,
           "total_score": 9.0,
@@ -68,7 +68,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14619",
+          "heat_id": "heat_23260",
           "round_name": "Quarterfinals - Heat 2",
           "position": 2,
           "total_score": 11.83,
@@ -87,7 +87,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_88058",
+          "heat_id": "heat_43298",
           "round_name": "Round of 16 - Heat 2",
           "position": 1,
           "total_score": 15.26,
@@ -105,7 +105,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 1,
           "total_score": 11.47,
@@ -119,7 +119,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_7398",
+          "heat_id": "heat_6504",
           "round_name": "Round of 64 - Heat 7",
           "position": 2,
           "total_score": 8.74,
@@ -148,7 +148,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 3,
           "total_score": 12.36,
@@ -161,7 +161,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29185",
+          "heat_id": "heat_91358",
           "round_name": "Round of 64 - Heat 6",
           "position": 1,
           "total_score": 13.13,
@@ -187,7 +187,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29385",
+          "heat_id": "heat_36517",
           "round_name": "Semifinals - Heat 2",
           "position": 4,
           "total_score": 9.76,
@@ -206,7 +206,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 2,
           "total_score": 12.4,
@@ -223,7 +223,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 2,
           "total_score": 11.94,
@@ -239,7 +239,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9027",
+          "heat_id": "heat_22171",
           "round_name": "Round of 64 - Heat 11",
           "position": 1,
           "total_score": 10.67,
@@ -271,7 +271,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29385",
+          "heat_id": "heat_36517",
           "round_name": "Semifinals - Heat 2",
           "position": 4,
           "total_score": 12.66,
@@ -286,7 +286,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 1,
           "total_score": 12.56,
@@ -301,7 +301,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 2,
           "total_score": 11.53,
@@ -316,7 +316,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9027",
+          "heat_id": "heat_22171",
           "round_name": "Round of 64 - Heat 11",
           "position": 1,
           "total_score": 12.84,

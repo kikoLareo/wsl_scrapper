@@ -2,7 +2,7 @@
   "surfer_id": "14549",
   "name": "Lucas Mir",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3314",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9509",
+          "heat_id": "heat_52966",
           "round_name": "Round 1 - Heat 4",
           "position": 3,
           "total_score": 6.83,

@@ -2,7 +2,7 @@
   "surfer_id": "14950",
   "name": "Ronald Jose Arenas",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3089",
       "event_name": "Quiksilver Open",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_38176",
+          "heat_id": "heat_94161",
           "round_name": "Round 1 - Heat 1",
           "position": 3,
           "total_score": 4.73,

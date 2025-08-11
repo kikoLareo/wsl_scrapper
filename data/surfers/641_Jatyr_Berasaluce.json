@@ -2,7 +2,7 @@
   "surfer_id": "641",
   "name": "Jatyr Berasaluce",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4228",
       "event_name": "Rip Curl Pro Search Taghazout Bay",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_87224",
+          "heat_id": "heat_44271",
           "round_name": "Round of 128 - Heat 9",
           "position": 3,
           "total_score": 9.57,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 3,
           "total_score": 8.3,
@@ -52,7 +52,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_72200",
+          "heat_id": "heat_40660",
           "round_name": "Round of 64 - Heat 12",
           "position": 1,
           "total_score": 11.04,
@@ -72,7 +72,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_83680",
+          "heat_id": "heat_28771",
           "round_name": "Round of 96 - Heat 11",
           "position": 2,
           "total_score": 9.1,
@@ -88,7 +88,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_91524",
+          "heat_id": "heat_15680",
           "round_name": "Round of 128 - Heat 12",
           "position": 2,
           "total_score": 9.83,
@@ -114,7 +114,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_90969",
+          "heat_id": "heat_35565",
           "round_name": "Round of 96 - Heat 14",
           "position": 3,
           "total_score": 7.0,
@@ -129,7 +129,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_50127",
+          "heat_id": "heat_60400",
           "round_name": "Round of 112 - Heat 7",
           "position": 2,
           "total_score": 7.83,

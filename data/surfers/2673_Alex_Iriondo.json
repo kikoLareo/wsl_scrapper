@@ -2,7 +2,7 @@
   "surfer_id": "2673",
   "name": "Alex Iriondo",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "333",
       "event_name": "San Miguel Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_31041",
+          "heat_id": "heat_88756",
           "round_name": "Round of 144",
           "position": 4,
           "total_score": 5.2,
@@ -36,7 +36,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 3,
           "total_score": 9.6,
@@ -52,7 +52,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 2,
           "total_score": 10.13,
@@ -67,7 +67,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 10.67,
@@ -95,7 +95,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 3,
           "total_score": 11.23,

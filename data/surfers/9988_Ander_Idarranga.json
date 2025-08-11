@@ -2,7 +2,7 @@
   "surfer_id": "9988",
   "name": "Ander Idarranga",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2679",
       "event_name": "Pro Zarautz pres. by Oakley",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_70778",
+          "heat_id": "heat_14923",
           "round_name": "Round 2 - Heat 13",
           "position": 3,
           "total_score": 7.5,
@@ -36,7 +36,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54833",
+          "heat_id": "heat_96673",
           "round_name": "Round 2 - Heat 2",
           "position": 4,
           "total_score": 1.73,
@@ -60,7 +60,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54629",
+          "heat_id": "heat_80677",
           "round_name": "Round 3 - Heat 11",
           "position": 4,
           "total_score": 5.0,
@@ -77,7 +77,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_46237",
+          "heat_id": "heat_77235",
           "round_name": "Round 2 - Heat 11",
           "position": 1,
           "total_score": 10.93,
@@ -105,7 +105,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_2886",
+          "heat_id": "heat_43483",
           "round_name": "Round 3 - Heat 7",
           "position": 4,
           "total_score": 5.83,
@@ -121,7 +121,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9464",
+          "heat_id": "heat_6443",
           "round_name": "Round 2 - Heat 7",
           "position": 1,
           "total_score": 11.36,

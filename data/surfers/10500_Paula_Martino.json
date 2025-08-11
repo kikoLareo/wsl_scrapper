@@ -2,7 +2,7 @@
   "surfer_id": "10500",
   "name": "Paula Martino",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1465",
       "event_name": "Junior Pro Sopela",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 4,
           "total_score": 3.1,

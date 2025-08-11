@@ -2,7 +2,7 @@
   "surfer_id": "19143",
   "name": "Daniel Román",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_3158",
+          "heat_id": "heat_84481",
           "round_name": "Round of 64 - Heat 5",
           "position": 4,
           "total_score": 8.4,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 4,
           "total_score": 7.17,
@@ -56,7 +56,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_43986",
+          "heat_id": "heat_64301",
           "round_name": "Round of 48 - Heat 4",
           "position": 2,
           "total_score": 8.74,
@@ -71,7 +71,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_55557",
+          "heat_id": "heat_48565",
           "round_name": "Round of 64 - Heat 4",
           "position": 1,
           "total_score": 7.57,

@@ -2,7 +2,7 @@
   "surfer_id": "10372",
   "name": "Rodrigo Garcia",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1882",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 5.23,
@@ -32,7 +32,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 6.5,
@@ -59,7 +59,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 5.17,

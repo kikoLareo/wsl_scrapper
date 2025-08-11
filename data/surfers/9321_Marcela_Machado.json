@@ -2,7 +2,7 @@
   "surfer_id": "9321",
   "name": "Marcela Machado",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3270",
       "event_name": "Cabreiroá Pro Las Americas",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 3,
           "total_score": 6.73,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_99874",
+          "heat_id": "heat_67257",
           "round_name": "Round 1 - Heat 6",
           "position": 2,
           "total_score": 9.43,
@@ -50,7 +50,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 2,
           "total_score": 9.17,
@@ -66,7 +66,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 11.43,
@@ -83,7 +83,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 8.07,
@@ -101,7 +101,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 7.6,
@@ -126,7 +126,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 13.47,

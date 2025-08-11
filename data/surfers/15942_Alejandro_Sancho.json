@@ -2,7 +2,7 @@
   "surfer_id": "15942",
   "name": "Alejandro Sancho",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 3,
           "total_score": 7.63,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 1,
           "total_score": 11.67,
@@ -43,7 +43,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_81191",
+          "heat_id": "heat_51270",
           "round_name": "Round of 48 - Heat 7",
           "position": 2,
           "total_score": 12.24,
@@ -69,7 +69,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 4,
           "total_score": 11.4,
@@ -89,7 +89,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_47399",
+          "heat_id": "heat_24636",
           "round_name": "Round of 48 - Heat 1",
           "position": 2,
           "total_score": 7.53,
@@ -107,7 +107,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30054",
+          "heat_id": "heat_24568",
           "round_name": "Round of 64 - Heat 1",
           "position": 1,
           "total_score": 7.3,

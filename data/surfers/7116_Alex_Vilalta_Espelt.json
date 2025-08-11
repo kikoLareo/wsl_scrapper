@@ -2,7 +2,7 @@
   "surfer_id": "7116",
   "name": "Alex Vilalta Espelt",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3735",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_25610",
+          "heat_id": "heat_21928",
           "round_name": "Round of 96 - Heat 2",
           "position": 4,
           "total_score": 5.16,

@@ -2,7 +2,7 @@
   "surfer_id": "10497",
   "name": "Axel Lopetegi",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4937",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86058",
+          "heat_id": "heat_44199",
           "round_name": "Round of 120 - Heat 6",
           "position": 3,
           "total_score": 8.53,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_52900",
+          "heat_id": "heat_90176",
           "round_name": "Round 4 - Heat 6",
           "position": 4,
           "total_score": 2.34,
@@ -51,7 +51,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_85142",
+          "heat_id": "heat_16983",
           "round_name": "Round 3 - Heat 9",
           "position": 2,
           "total_score": 8.57,
@@ -76,7 +76,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_10079",
+          "heat_id": "heat_90844",
           "round_name": "Round 3 - Heat 10",
           "position": 4,
           "total_score": 7.9,
@@ -89,7 +89,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_79524",
+          "heat_id": "heat_8480",
           "round_name": "Round 2 - Heat 10",
           "position": 1,
           "total_score": 12.13,
@@ -106,14 +106,14 @@
     {
       "event_id": "3021",
       "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbe Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_27311",
+          "heat_id": "heat_1098",
           "round_name": "Round 4 - Heat 4",
           "position": 4,
           "total_score": 8.13,
@@ -130,7 +130,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_14741",
+          "heat_id": "heat_57375",
           "round_name": "Round 3 - Heat 5",
           "position": 2,
           "total_score": 9.5,

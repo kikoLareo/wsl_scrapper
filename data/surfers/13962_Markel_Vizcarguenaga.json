@@ -2,7 +2,7 @@
   "surfer_id": "13962",
   "name": "Markel Vizcarguenaga",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4813",
       "event_name": "Pro Taghazout Bay",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_90969",
+          "heat_id": "heat_35565",
           "round_name": "Round of 96 - Heat 14",
           "position": 3,
           "total_score": 7.13,
@@ -29,7 +29,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_43262",
+          "heat_id": "heat_94150",
           "round_name": "Round of 120 - Heat 10",
           "position": 2,
           "total_score": 7.83,
@@ -52,7 +52,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 3,
           "total_score": 10.5,
@@ -69,7 +69,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3053",
+          "heat_id": "heat_17393",
           "round_name": "Round of 64 - Heat 16",
           "position": 1,
           "total_score": 10.47,
@@ -88,7 +88,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_89825",
+          "heat_id": "heat_39632",
           "round_name": "Round of 96 - Heat 15",
           "position": 2,
           "total_score": 9.2,
@@ -116,7 +116,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 4,
           "total_score": 5.37,
@@ -134,7 +134,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_26884",
+          "heat_id": "heat_47844",
           "round_name": "Round of 64 - Heat 9",
           "position": 1,
           "total_score": 8.9,
@@ -155,14 +155,14 @@
     {
       "event_id": "4349",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9617",
+          "heat_id": "heat_38809",
           "round_name": "Round of 16 - Heat 1",
           "position": 3,
           "total_score": 12.17,
@@ -178,7 +178,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 1,
           "total_score": 13.36,
@@ -194,7 +194,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_55557",
+          "heat_id": "heat_48565",
           "round_name": "Round of 64 - Heat 4",
           "position": 1,
           "total_score": 9.43,
@@ -217,14 +217,14 @@
     {
       "event_id": "4352",
       "event_name": "Cabreiroá Junior Pro Razo-Caión",
-      "location": "Unknown",
+      "location": "Caión",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_67738",
+          "heat_id": "heat_85431",
           "round_name": "Round of 64 - Heat 2",
           "position": 3,
           "total_score": 10.5,

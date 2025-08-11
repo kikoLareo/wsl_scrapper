@@ -2,7 +2,7 @@
   "surfer_id": "20000",
   "name": "Alvaro Casanova Del Cerro",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_79927",
+          "heat_id": "heat_37189",
           "round_name": "Round of 32 - Heat 1",
           "position": 3,
           "total_score": 9.9,
@@ -30,7 +30,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_89990",
+          "heat_id": "heat_5221",
           "round_name": "Round of 48 - Heat 2",
           "position": 2,
           "total_score": 8.26,
@@ -46,7 +46,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30054",
+          "heat_id": "heat_24568",
           "round_name": "Round of 64 - Heat 1",
           "position": 2,
           "total_score": 9.76,
@@ -59,7 +59,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3400",
+          "heat_id": "heat_63530",
           "round_name": "Round of 72 - Heat 1",
           "position": 1,
           "total_score": 10.93,

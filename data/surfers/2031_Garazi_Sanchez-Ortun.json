@@ -2,7 +2,7 @@
   "surfer_id": "2031",
   "name": "Garazi Sanchez-Ortun",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3919",
       "event_name": "Ballito Pro",
@@ -59,7 +59,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9027",
+          "heat_id": "heat_22171",
           "round_name": "Round of 64 - Heat 11",
           "position": 2,
           "total_score": 12.03,
@@ -96,7 +96,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_36971",
+          "heat_id": "heat_38828",
           "round_name": "Round of 48 - Heat 5",
           "position": 3,
           "total_score": 5.97,

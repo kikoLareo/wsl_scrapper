@@ -2,7 +2,7 @@
   "surfer_id": "19499",
   "name": "Ugaitz Zenarrutzabeitia Lazkano",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_36971",
+          "heat_id": "heat_38828",
           "round_name": "Round of 48 - Heat 5",
           "position": 4,
           "total_score": 10.24,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29185",
+          "heat_id": "heat_91358",
           "round_name": "Round of 64 - Heat 6",
           "position": 2,
           "total_score": 8.3,
@@ -43,7 +43,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_60256",
+          "heat_id": "heat_16834",
           "round_name": "Round of 72 - Heat 3",
           "position": 2,
           "total_score": 7.26,

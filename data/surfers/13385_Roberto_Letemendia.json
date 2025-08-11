@@ -2,7 +2,7 @@
   "surfer_id": "13385",
   "name": "Roberto Letemendia",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3010",
       "event_name": "Cabreiroá Pro Zarautz Basque Country",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_41283",
+          "heat_id": "heat_39151",
           "round_name": "Round 3 - Heat 8",
           "position": 3,
           "total_score": 11.16,
@@ -38,7 +38,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 8.33,
@@ -50,7 +50,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 9.5,
@@ -73,7 +73,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 3,
           "total_score": 9.2,
@@ -85,7 +85,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 11.77,
@@ -108,7 +108,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 4,
           "total_score": 7.67,
@@ -120,7 +120,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 11.13,
@@ -132,7 +132,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 10.33,

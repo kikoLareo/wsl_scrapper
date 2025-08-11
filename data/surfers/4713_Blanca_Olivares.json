@@ -2,7 +2,7 @@
   "surfer_id": "4713",
   "name": "Blanca Olivares",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "987",
       "event_name": "Rias Baixas Pro",
@@ -33,7 +33,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 0.73,

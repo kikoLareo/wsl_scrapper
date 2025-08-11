@@ -2,7 +2,7 @@
   "surfer_id": "2206",
   "name": "Eduardo Acosta",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "341",
       "event_name": "Islas Canarias Ocean and Earth Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_73727",
+          "heat_id": "heat_43108",
           "round_name": "Round of 32",
           "position": 3,
           "total_score": 6.0,
@@ -25,7 +25,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_55391",
+          "heat_id": "heat_9074",
           "round_name": "Round of 48",
           "position": 2,
           "total_score": 14.0,

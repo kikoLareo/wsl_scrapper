@@ -2,7 +2,7 @@
   "surfer_id": "20353",
   "name": "Oinatz Ortega",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29385",
+          "heat_id": "heat_36517",
           "round_name": "Semifinals - Heat 2",
           "position": 4,
           "total_score": 5.27,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 2,
           "total_score": 10.74,
@@ -40,7 +40,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 1,
           "total_score": 11.27,
@@ -56,7 +56,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_45015",
+          "heat_id": "heat_74841",
           "round_name": "Round of 48 - Heat 8",
           "position": 2,
           "total_score": 8.63,
@@ -71,7 +71,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_7398",
+          "heat_id": "heat_6504",
           "round_name": "Round of 64 - Heat 7",
           "position": 2,
           "total_score": 7.93,
@@ -86,7 +86,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_99314",
+          "heat_id": "heat_31753",
           "round_name": "Round of 72 - Heat 4",
           "position": 1,
           "total_score": 10.07,

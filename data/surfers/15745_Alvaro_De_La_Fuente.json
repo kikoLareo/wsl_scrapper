@@ -2,7 +2,7 @@
   "surfer_id": "15745",
   "name": "Alvaro De La Fuente",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4614",
       "event_name": "BYD Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_24951",
+          "heat_id": "heat_15117",
           "round_name": "Round of 64 - Heat 8",
           "position": 3,
           "total_score": 7.67,
@@ -30,7 +30,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_7737",
+          "heat_id": "heat_93954",
           "round_name": "Round of 80 - Heat 4",
           "position": 2,
           "total_score": 11.4,
@@ -57,7 +57,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_55557",
+          "heat_id": "heat_48565",
           "round_name": "Round of 64 - Heat 4",
           "position": 3,
           "total_score": 8.67,
@@ -73,7 +73,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_40630",
+          "heat_id": "heat_4523",
           "round_name": "Round of 96 - Heat 4",
           "position": 1,
           "total_score": 10.23,
@@ -93,7 +93,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_75819",
+          "heat_id": "heat_58739",
           "round_name": "Round of 112 - Heat 2",
           "position": 2,
           "total_score": 8.83,
@@ -123,7 +123,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_67926",
+          "heat_id": "heat_12719",
           "round_name": "Round of 120 - Heat 2",
           "position": 3,
           "total_score": 4.3,
@@ -151,7 +151,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_91524",
+          "heat_id": "heat_15680",
           "round_name": "Round of 128 - Heat 12",
           "position": 3,
           "total_score": 7.2,
@@ -179,7 +179,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 4,
           "total_score": 4.23,
@@ -201,7 +201,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_43986",
+          "heat_id": "heat_64301",
           "round_name": "Round of 48 - Heat 4",
           "position": 2,
           "total_score": 9.07,
@@ -230,7 +230,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_24951",
+          "heat_id": "heat_15117",
           "round_name": "Round of 64 - Heat 8",
           "position": 4,
           "total_score": 5.4,

@@ -2,7 +2,7 @@
   "surfer_id": "15826",
   "name": "Fekru Jiménez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4281",
       "event_name": "Morocco Mall Junior Pro Casablanca",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_88785",
+          "heat_id": "heat_34917",
           "round_name": "Round of 96 - Heat 9",
           "position": 3,
           "total_score": 6.6,
@@ -35,14 +35,14 @@
     {
       "event_id": "4349",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30054",
+          "heat_id": "heat_24568",
           "round_name": "Round of 64 - Heat 1",
           "position": 4,
           "total_score": 5.97,
@@ -57,7 +57,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_66728",
+          "heat_id": "heat_60366",
           "round_name": "Round of 96 - Heat 1",
           "position": 1,
           "total_score": 8.83,
@@ -76,14 +76,14 @@
     {
       "event_id": "4352",
       "event_name": "Cabreiroá Junior Pro Razo-Caión",
-      "location": "Unknown",
+      "location": "Caión",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_68636",
+          "heat_id": "heat_58914",
           "round_name": "Round of 96 - Heat 13",
           "position": 4,
           "total_score": 6.6,

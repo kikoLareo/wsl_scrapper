@@ -2,7 +2,7 @@
   "surfer_id": "9290",
   "name": "Violeta Sanchez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4227",
       "event_name": "Rip Curl Pro Search Taghazout Bay",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_57124",
+          "heat_id": "heat_64511",
           "round_name": "Round of 48 - Heat 3",
           "position": 4,
           "total_score": 4.97,
@@ -43,7 +43,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_36971",
+          "heat_id": "heat_38828",
           "round_name": "Round of 48 - Heat 5",
           "position": 3,
           "total_score": 5.33,
@@ -69,7 +69,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29185",
+          "heat_id": "heat_91358",
           "round_name": "Round of 64 - Heat 6",
           "position": 3,
           "total_score": 6.67,
@@ -97,7 +97,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_89990",
+          "heat_id": "heat_5221",
           "round_name": "Round of 48 - Heat 2",
           "position": 4,
           "total_score": 6.07,
@@ -124,7 +124,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40654",
+          "heat_id": "heat_8095",
           "round_name": "Round 3 - Heat 1",
           "position": 4,
           "total_score": 4.24,
@@ -137,7 +137,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_95893",
+          "heat_id": "heat_27602",
           "round_name": "Round 2 - Heat 3",
           "position": 2,
           "total_score": 5.0,
@@ -161,7 +161,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_21514",
+          "heat_id": "heat_49558",
           "round_name": "Semifinals - Heat 1",
           "position": 3,
           "total_score": 7.33,
@@ -175,7 +175,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58232",
+          "heat_id": "heat_48795",
           "round_name": "Quarterfinals - Heat 1",
           "position": 2,
           "total_score": 8.37,
@@ -190,7 +190,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 2,
           "total_score": 7.46,
@@ -209,14 +209,14 @@
     {
       "event_id": "2866",
       "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbe Junior Pro La Torche",
       "tour_type": "WJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 4,
           "total_score": 4.5,
@@ -227,7 +227,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_99874",
+          "heat_id": "heat_67257",
           "round_name": "Round 1 - Heat 6",
           "position": 2,
           "total_score": 4.43,
@@ -250,7 +250,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_95893",
+          "heat_id": "heat_27602",
           "round_name": "Round 2 - Heat 3",
           "position": 3,
           "total_score": 7.06,
@@ -275,7 +275,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86987",
+          "heat_id": "heat_8839",
           "round_name": "Round 2 - Heat 6",
           "position": 4,
           "total_score": 7.1,

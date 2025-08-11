@@ -2,7 +2,7 @@
   "surfer_id": "12749",
   "name": "Damian Ceballos",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2940",
       "event_name": "Senegal Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 3,
           "total_score": 3.35,

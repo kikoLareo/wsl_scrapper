@@ -2,7 +2,7 @@
   "surfer_id": "9939",
   "name": "Kike Suarez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3986",
       "event_name": "Estrella Galicia Caparica Surf Fest 2022",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86782",
+          "heat_id": "heat_70978",
           "round_name": "Round of 96 - Heat 8",
           "position": 3,
           "total_score": 8.6,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_83680",
+          "heat_id": "heat_28771",
           "round_name": "Round of 96 - Heat 11",
           "position": 3,
           "total_score": 8.13,
@@ -68,7 +68,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30054",
+          "heat_id": "heat_24568",
           "round_name": "Round of 64 - Heat 1",
           "position": 4,
           "total_score": 5.0,
@@ -80,7 +80,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_66728",
+          "heat_id": "heat_60366",
           "round_name": "Round of 96 - Heat 1",
           "position": 1,
           "total_score": 11.26,
@@ -100,14 +100,14 @@
     {
       "event_id": "4006",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_26884",
+          "heat_id": "heat_47844",
           "round_name": "Round of 64 - Heat 9",
           "position": 4,
           "total_score": 7.0,
@@ -120,7 +120,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_88785",
+          "heat_id": "heat_34917",
           "round_name": "Round of 96 - Heat 9",
           "position": 1,
           "total_score": 15.17,

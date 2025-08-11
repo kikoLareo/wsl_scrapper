@@ -2,7 +2,7 @@
   "surfer_id": "13117",
   "name": "Matias Rodriguez",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2608",
       "event_name": "Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_7162",
+          "heat_id": "heat_19663",
           "round_name": "Round 3 - Heat 2",
           "position": 4,
           "total_score": 9.16,
@@ -25,7 +25,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 1,
           "total_score": 10.4,
@@ -40,7 +40,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 2,
           "total_score": 9.4,

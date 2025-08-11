@@ -2,7 +2,7 @@
   "surfer_id": "19125",
   "name": "Hugo Dorta",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4913",
       "event_name": "GADIS Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_99314",
+          "heat_id": "heat_31753",
           "round_name": "Round of 72 - Heat 4",
           "position": 3,
           "total_score": 6.5,

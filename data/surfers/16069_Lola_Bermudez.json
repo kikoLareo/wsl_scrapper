@@ -2,7 +2,7 @@
   "surfer_id": "16069",
   "name": "Lola Bermudez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4344",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_79927",
+          "heat_id": "heat_37189",
           "round_name": "Round of 32 - Heat 1",
           "position": 4,
           "total_score": 4.44,
@@ -32,8 +32,8 @@
       ]
     },
     {
-      "event_id": "4715",
-      "event_name": "GADIS Longboard Festival Ferrol",
+      "event_id": "4918",
+      "event_name": "GADIS Longboard Pro Ferrol",
       "location": "Unknown",
       "tour_type": "WLT",
       "start_date": null,
@@ -41,21 +41,19 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
-          "round_name": "Round of 32 - Heat 6",
+          "heat_id": "heat_26831",
+          "round_name": "Round of 24 - Heat 1",
           "position": 3,
-          "total_score": 2.47,
+          "total_score": 6.74,
           "wave_scores": [
-            0.6,
-            0.3,
+            3.17,
+            1.23,
+            2.33,
+            3.57,
             1.1,
-            0.4,
-            0.7,
-            0.2,
-            0.7,
-            0.8,
-            0.97,
-            1.37
+            2.93,
+            0.83,
+            2.7
           ],
           "advanced": false,
           "heat_date": null
@@ -72,7 +70,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_99874",
+          "heat_id": "heat_67257",
           "round_name": "Round 1 - Heat 6",
           "position": 3,
           "total_score": 3.94,

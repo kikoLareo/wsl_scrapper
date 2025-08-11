@@ -2,7 +2,7 @@
   "surfer_id": "19165",
   "name": "Sol Borelli",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4812",
       "event_name": "Pro Taghazout Bay",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_18973",
+          "heat_id": "heat_13625",
           "round_name": "Round of 16 - Heat 4",
           "position": 3,
           "total_score": 11.5,
@@ -29,7 +29,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 1,
           "total_score": 11.26,
@@ -43,7 +43,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_44345",
+          "heat_id": "heat_92380",
           "round_name": "Round of 40 - Heat 4",
           "position": 1,
           "total_score": 14.6,
@@ -67,7 +67,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 4,
           "total_score": 8.47,
@@ -94,7 +94,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 3,
           "total_score": 8.5,
@@ -111,7 +111,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 2,
           "total_score": 11.3,
@@ -138,7 +138,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 4,
           "total_score": 5.74,

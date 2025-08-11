@@ -2,7 +2,7 @@
   "surfer_id": "15932",
   "name": "Ivan Rodriguez Portas",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4025",
       "event_name": "Cabreiroa Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46658",
+          "heat_id": "heat_21935",
           "round_name": "Round of 96 - Heat 7",
           "position": 4,
           "total_score": 5.2,

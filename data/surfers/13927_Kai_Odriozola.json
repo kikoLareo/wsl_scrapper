@@ -2,7 +2,7 @@
   "surfer_id": "13927",
   "name": "Kai Odriozola",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4570",
       "event_name": "Bonsoy Gold Coast Pro presented by GWM",
@@ -250,7 +250,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58232",
+          "heat_id": "heat_48795",
           "round_name": "Quarterfinals - Heat 1",
           "position": 2,
           "total_score": 14.46,
@@ -264,7 +264,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9617",
+          "heat_id": "heat_38809",
           "round_name": "Round of 16 - Heat 1",
           "position": 1,
           "total_score": 17.3,
@@ -279,7 +279,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 2,
           "total_score": 11.67,
@@ -294,7 +294,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3158",
+          "heat_id": "heat_84481",
           "round_name": "Round of 64 - Heat 5",
           "position": 1,
           "total_score": 11.5,
@@ -318,7 +318,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 3,
           "total_score": 10.97,
@@ -336,7 +336,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_12632",
+          "heat_id": "heat_27067",
           "round_name": "Round of 64 - Heat 15",
           "position": 1,
           "total_score": 10.43,
@@ -364,7 +364,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_45578",
+          "heat_id": "heat_50110",
           "round_name": "Quarter Final - Heat 2",
           "position": 4,
           "total_score": 5.73,
@@ -379,7 +379,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 2,
           "total_score": 10.97,
@@ -398,7 +398,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30054",
+          "heat_id": "heat_24568",
           "round_name": "Round of 64 - Heat 1",
           "position": 2,
           "total_score": 13.3,
@@ -416,7 +416,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3400",
+          "heat_id": "heat_63530",
           "round_name": "Round of 72 - Heat 1",
           "position": 1,
           "total_score": 8.47,
@@ -440,7 +440,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 2,
           "total_score": 7.33,
@@ -458,7 +458,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_18973",
+          "heat_id": "heat_13625",
           "round_name": "Round of 16 - Heat 4",
           "position": 1,
           "total_score": 10.5,
@@ -476,7 +476,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_50579",
+          "heat_id": "heat_94587",
           "round_name": "Round of 32 - Heat 8",
           "position": 1,
           "total_score": 12.66,
@@ -490,7 +490,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_81191",
+          "heat_id": "heat_51270",
           "round_name": "Round of 48 - Heat 7",
           "position": 2,
           "total_score": 9.67,

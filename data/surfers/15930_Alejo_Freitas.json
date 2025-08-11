@@ -2,7 +2,7 @@
   "surfer_id": "15930",
   "name": "Alejo Freitas",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4618",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_79093",
+          "heat_id": "heat_61744",
           "round_name": "Round of 112 - Heat 1",
           "position": 3,
           "total_score": 6.46,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_98238",
+          "heat_id": "heat_548",
           "round_name": "Round of 112 - Heat 6",
           "position": 3,
           "total_score": 6.5,
@@ -66,7 +66,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 4,
           "total_score": 4.64,
@@ -94,7 +94,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_29185",
+          "heat_id": "heat_91358",
           "round_name": "Round of 64 - Heat 6",
           "position": 4,
           "total_score": 4.16,

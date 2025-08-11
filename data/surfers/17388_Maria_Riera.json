@@ -2,7 +2,7 @@
   "surfer_id": "17388",
   "name": "Maria Riera",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4056",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_43986",
+          "heat_id": "heat_64301",
           "round_name": "Round of 48 - Heat 4",
           "position": 4,
           "total_score": 2.4,
@@ -38,7 +38,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_96277",
+          "heat_id": "heat_39406",
           "round_name": "Round of 56 - Heat 1",
           "position": 3,
           "total_score": 2.33,

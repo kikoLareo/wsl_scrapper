@@ -2,7 +2,7 @@
   "surfer_id": "15568",
   "name": "Carmen Garay Irigoras",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4328",
       "event_name": "Animal Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 3,
           "total_score": 6.53,
@@ -40,7 +40,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9617",
+          "heat_id": "heat_38809",
           "round_name": "Round of 16 - Heat 1",
           "position": 4,
           "total_score": 5.1,
@@ -57,7 +57,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 1,
           "total_score": 7.56,
@@ -86,7 +86,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_88058",
+          "heat_id": "heat_43298",
           "round_name": "Round of 16 - Heat 2",
           "position": 3,
           "total_score": 9.97,
@@ -102,7 +102,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 2,
           "total_score": 8.3,
@@ -120,14 +120,14 @@
     {
       "event_id": "4009",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "WJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_68007",
+          "heat_id": "heat_31260",
           "round_name": "Round of 16 - Heat 3",
           "position": 4,
           "total_score": 8.54,
@@ -141,7 +141,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 1,
           "total_score": 9.23,

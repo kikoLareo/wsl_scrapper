@@ -2,7 +2,7 @@
   "surfer_id": "755",
   "name": "Ethan Egiguren",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2942",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_15954",
+          "heat_id": "heat_13843",
           "round_name": "Round 3 - Heat 15",
           "position": 4,
           "total_score": 9.57,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29063",
+          "heat_id": "heat_81186",
           "round_name": "Round 2 - Heat 15",
           "position": 1,
           "total_score": 10.4,
@@ -54,7 +54,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_51876",
+          "heat_id": "heat_85761",
           "round_name": "Round 4 - Heat 7",
           "position": 3,
           "total_score": 9.63,
@@ -69,7 +69,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_54361",
+          "heat_id": "heat_13351",
           "round_name": "Round 3 - Heat 13",
           "position": 1,
           "total_score": 14.14,
@@ -85,7 +85,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_70778",
+          "heat_id": "heat_14923",
           "round_name": "Round 2 - Heat 13",
           "position": 1,
           "total_score": 9.26,
@@ -109,7 +109,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 3,
           "total_score": 8.27,
@@ -127,7 +127,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58739",
+          "heat_id": "heat_67232",
           "round_name": "Semifinals",
           "position": 2,
           "total_score": 10.2,
@@ -146,7 +146,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 1,
           "total_score": 13.0,
@@ -162,7 +162,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 11.3,
@@ -176,7 +176,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 12.1,
@@ -205,7 +205,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 3,
           "total_score": 9.24,
@@ -222,7 +222,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 10.7,
@@ -250,7 +250,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 3,
           "total_score": 10.17,
@@ -264,7 +264,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 10.53,
@@ -291,7 +291,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 6.57,

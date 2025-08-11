@@ -2,7 +2,7 @@
   "surfer_id": "17104",
   "name": "Kenjiro Erostarbe",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4281",
       "event_name": "Morocco Mall Junior Pro Casablanca",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_93087",
+          "heat_id": "heat_44554",
           "round_name": "Round of 64 - Heat 10",
           "position": 3,
           "total_score": 7.77,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_88785",
+          "heat_id": "heat_34917",
           "round_name": "Round of 96 - Heat 9",
           "position": 2,
           "total_score": 7.23,
@@ -44,7 +44,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_87224",
+          "heat_id": "heat_44271",
           "round_name": "Round of 128 - Heat 9",
           "position": 1,
           "total_score": 9.1,
@@ -61,14 +61,14 @@
     {
       "event_id": "4349",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_96527",
+          "heat_id": "heat_28664",
           "round_name": "Round of 96 - Heat 6",
           "position": 3,
           "total_score": 10.33,
@@ -90,7 +90,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_63377",
+          "heat_id": "heat_90558",
           "round_name": "Round of 128 - Heat 5",
           "position": 2,
           "total_score": 9.63,
@@ -107,14 +107,14 @@
     {
       "event_id": "4352",
       "event_name": "Cabreiroá Junior Pro Razo-Caión",
-      "location": "Unknown",
+      "location": "Caión",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_25610",
+          "heat_id": "heat_21928",
           "round_name": "Round of 96 - Heat 2",
           "position": 3,
           "total_score": 7.4,

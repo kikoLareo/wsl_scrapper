@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>WSL Scraper - Filtros</title>
+    <style>
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; }
+      fieldset { margin-bottom: 16px; }
+      label { display: inline-block; margin: 4px 8px 4px 0; }
+      .chips span { display: inline-block; padding: 4px 8px; background: #eef; margin: 2px; border-radius: 6px; }
+      .row { display: flex; gap: 24px; }
+      .col { flex: 1; }
+      input[type="text"], input[type="number"] { width: 100%; padding: 8px; }
+      button { padding: 10px 16px; font-weight: 600; }
+    </style>
+  </head>
+  <body>
+    <h1>WSL Scraper</h1>
+    <form method="post" action="/run">
+      <fieldset>
+        <legend>Años</legend>
+        {% for y in options.years %}
+          <label><input type="checkbox" name="years" value="{{y}}" {% if y in options.years %}checked{% endif %}/> {{y}}</label>
+        {% endfor %}
+      </fieldset>
+
+      <fieldset>
+        <legend>Países/Regiones</legend>
+        {% for c in options.countries %}
+          <label><input type="checkbox" name="countries" value="{{c}}" checked/> {{c}}</label>
+        {% endfor %}
+      </fieldset>
+
+      <fieldset>
+        <legend>Tours</legend>
+        {% for t in options.tours %}
+          <label><input type="checkbox" name="tours" value="{{t}}" /> {{t}}</label>
+        {% endfor %}
+      </fieldset>
+
+      {% if options.locations and options.locations|length > 0 %}
+      <fieldset>
+        <legend>Ubicaciones/Playas</legend>
+        {% for l in options.locations %}
+          <label><input type="checkbox" name="locations" value="{{l}}" /> {{l}}</label>
+        {% endfor %}
+      </fieldset>
+      {% endif %}
+
+      <fieldset>
+        <legend>Surfistas (IDs o nombres, separados por coma, espacio o salto de línea)</legend>
+        <textarea name="surfers" rows="4" placeholder="Ej: 10158, Adur Amatriain"></textarea>
+        {% if options.surfers and options.surfers|length > 0 %}
+          <div class="chips">
+            {% for s in options.surfers[:30] %}
+              <span title="{{s.id}}">{{s.name}}</span>
+            {% endfor %}
+            {% if options.surfers|length > 30 %}
+              <span>+{{ options.surfers|length - 30 }} más</span>
+            {% endif %}
+          </div>
+        {% endif %}
+      </fieldset>
+
+      <div class="row">
+        <div class="col">
+          <label>Max workers
+            <input type="number" name="max_workers" value="6" min="1" max="32" />
+          </label>
+        </div>
+        <div class="col">
+          <label>Delay requests (s)
+            <input type="number" name="request_delay" value="0.4" step="0.1" min="0" max="5" />
+          </label>
+        </div>
+      </div>
+
+      <p>
+        <button type="submit">Ejecutar scraping</button>
+      </p>
+    </form>
+
+    <hr/>
+    <h3>Descargas última ejecución</h3>
+    <ul>
+      <li><a href="/download/surfers_raw">surfers_raw.json</a></li>
+      <li><a href="/download/heats_raw_jsonl">heats_raw.jsonl</a></li>
+      <li><a href="/download/heats_raw_csv">heats_raw.csv</a></li>
+      <li><a href="/download/surfers_summary_csv">surfers_summary.csv</a></li>
+      <li><a href="/download/surfers_full">surfers_full.json</a></li>
+      <li><a href="/download/surfers_2025">surfers_2025.json</a></li>
+    </ul>
+  </body>
+  </html>
+
+

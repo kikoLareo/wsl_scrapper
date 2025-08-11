@@ -2,7 +2,7 @@
   "surfer_id": "14576",
   "name": "Alicia Delgado",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4026",
       "event_name": "Cabreiroa Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 3,
           "total_score": 8.06,
@@ -27,7 +27,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_43986",
+          "heat_id": "heat_64301",
           "round_name": "Round of 48 - Heat 4",
           "position": 1,
           "total_score": 8.56,

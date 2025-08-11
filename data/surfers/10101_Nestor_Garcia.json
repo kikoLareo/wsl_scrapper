@@ -2,7 +2,7 @@
   "surfer_id": "10101",
   "name": "Nestor Garcia",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4813",
       "event_name": "Pro Taghazout Bay",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 3,
           "total_score": 8.76,
@@ -29,7 +29,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29185",
+          "heat_id": "heat_91358",
           "round_name": "Round of 64 - Heat 6",
           "position": 2,
           "total_score": 11.03,
@@ -45,7 +45,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_53098",
+          "heat_id": "heat_94026",
           "round_name": "Round of 96 - Heat 5",
           "position": 2,
           "total_score": 11.1,
@@ -70,7 +70,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_16823",
+          "heat_id": "heat_13614",
           "round_name": "Round of 64 - Heat 14",
           "position": 4,
           "total_score": 6.93,
@@ -103,7 +103,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 4,
           "total_score": 9.37,
@@ -118,7 +118,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9027",
+          "heat_id": "heat_22171",
           "round_name": "Round of 64 - Heat 11",
           "position": 1,
           "total_score": 10.4,
@@ -146,7 +146,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 3,
           "total_score": 8.9,
@@ -161,7 +161,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_12632",
+          "heat_id": "heat_27067",
           "round_name": "Round of 64 - Heat 15",
           "position": 2,
           "total_score": 12.13,
@@ -187,7 +187,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 3,
           "total_score": 9.14,
@@ -205,7 +205,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3158",
+          "heat_id": "heat_84481",
           "round_name": "Round of 64 - Heat 5",
           "position": 2,
           "total_score": 10.66,
@@ -225,14 +225,14 @@
     {
       "event_id": "4349",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 2,
           "total_score": 8.83,
@@ -248,7 +248,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_18973",
+          "heat_id": "heat_13625",
           "round_name": "Round of 16 - Heat 4",
           "position": 2,
           "total_score": 12.5,
@@ -264,7 +264,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 2,
           "total_score": 8.74,
@@ -278,7 +278,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_72200",
+          "heat_id": "heat_40660",
           "round_name": "Round of 64 - Heat 12",
           "position": 1,
           "total_score": 9.33,
@@ -300,14 +300,14 @@
     {
       "event_id": "4352",
       "event_name": "Cabreiroá Junior Pro Razo-Caión",
-      "location": "Unknown",
+      "location": "Caión",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14619",
+          "heat_id": "heat_23260",
           "round_name": "Quarterfinals - Heat 2",
           "position": 2,
           "total_score": 10.73,
@@ -328,7 +328,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9617",
+          "heat_id": "heat_38809",
           "round_name": "Round of 16 - Heat 1",
           "position": 2,
           "total_score": 11.03,
@@ -350,7 +350,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 2,
           "total_score": 13.97,
@@ -368,7 +368,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3158",
+          "heat_id": "heat_84481",
           "round_name": "Round of 64 - Heat 5",
           "position": 1,
           "total_score": 12.4,

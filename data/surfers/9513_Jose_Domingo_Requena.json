@@ -2,7 +2,7 @@
   "surfer_id": "9513",
   "name": "Jose Domingo Requena",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1288",
       "event_name": "Lanzarote Teguise 2015 Franito Pro Junior",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 7.56,
@@ -31,7 +31,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 10.3,
@@ -45,7 +45,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 12.0,

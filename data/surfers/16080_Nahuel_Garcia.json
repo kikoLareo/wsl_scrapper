@@ -2,7 +2,7 @@
   "surfer_id": "16080",
   "name": "Nahuel Garcia",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4043",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8849",
+          "heat_id": "heat_75247",
           "round_name": "Round of 80 - Heat 1",
           "position": 3,
           "total_score": 6.0,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_93087",
+          "heat_id": "heat_44554",
           "round_name": "Round of 64 - Heat 10",
           "position": 4,
           "total_score": 3.97,
@@ -57,7 +57,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_88785",
+          "heat_id": "heat_34917",
           "round_name": "Round of 96 - Heat 9",
           "position": 2,
           "total_score": 7.5,

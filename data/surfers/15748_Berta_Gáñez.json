@@ -2,7 +2,7 @@
   "surfer_id": "15748",
   "name": "Berta Gáñez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4026",
       "event_name": "Cabreiroa Junior Pro Ferrol",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_45015",
+          "heat_id": "heat_74841",
           "round_name": "Round of 48 - Heat 8",
           "position": 3,
           "total_score": 5.07,

@@ -2,7 +2,7 @@
   "surfer_id": "11397",
   "name": "Ricardo De La Hera Suarez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3100",
       "event_name": "Deeply Pro Anglet",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 4,
           "total_score": 5.0,
@@ -38,7 +38,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46237",
+          "heat_id": "heat_77235",
           "round_name": "Round 2 - Heat 11",
           "position": 4,
           "total_score": 6.74,
@@ -52,7 +52,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_65257",
+          "heat_id": "heat_10438",
           "round_name": "Round 1 - Heat 12",
           "position": 2,
           "total_score": 8.96,
@@ -77,7 +77,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_52900",
+          "heat_id": "heat_90176",
           "round_name": "Round 4 - Heat 6",
           "position": 4,
           "total_score": 11.97,
@@ -94,7 +94,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_85142",
+          "heat_id": "heat_16983",
           "round_name": "Round 3 - Heat 9",
           "position": 2,
           "total_score": 7.83,
@@ -110,7 +110,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_79524",
+          "heat_id": "heat_8480",
           "round_name": "Round 2 - Heat 10",
           "position": 2,
           "total_score": 12.77,
@@ -126,7 +126,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_50216",
+          "heat_id": "heat_45017",
           "round_name": "Round 1 - Heat 10",
           "position": 1,
           "total_score": 14.8,

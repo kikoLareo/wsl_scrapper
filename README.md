@@ -1,208 +1,198 @@
-# WSL Spanish Surfers Data Scraper
+## WSL Spanish Surfers Scraper
 
-Sistema avanzado de scraping y análisis estadístico para obtener datos de surfistas españoles de la World Surf League (WSL).
+Sistema de scraping y exportación de datos de surfistas españoles (España, País Vasco, Canarias) de la World Surf League (WSL), con interfaz web para seleccionar filtros y barra de progreso.
 
-## 🏄‍♂️ Características
+### Funcionalidades clave
+- Extracción por surfista y año: eventos, rondas y heats con puntuaciones de olas.
+- Filtros por años, países/regiones, tours y surfistas concretos. Opcionalmente por ubicaciones/playas cuando se detectan.
+- Interfaz web (Flask) con estado, porcentaje y ETA; descargas de resultados.
+- Salidas normalizadas en JSON/JSONL/CSV y copias “estables” sin timestamp.
 
-- **Scraping completo**: Extrae datos de surfistas de España, País Vasco y Canarias
-- **Análisis estadístico avanzado**: Calcula medias por playas, rondas, tendencias temporales
-- **Arquitectura modular**: Sistema de subagentes especializados 
-- **Exportación múltiple**: JSON, CSV, Excel con análisis detallado
-- **Ejecución manual**: Optimizado para actualizaciones periódicas
+---
 
-## 📋 Surfistas Incluidos
+## 1) Requisitos e instalación
 
-El sistema está configurado para extraer datos de surfistas españoles incluyendo:
-- **España**: Surfistas con nacionalidad española
-- **País Vasco**: Competidores representando al País Vasco  
-- **Canarias**: Surfistas de las Islas Canarias
-
-### Surfistas Confirmados
-- Aritz Aranburu (País Vasco)
-- Juan Fernández (España)  
-- Alex Hontoria (España)
-- Juanjo Fernández (España)
-
-## 🚀 Instalación
+Recomendado Python 3.9+ y entorno virtual.
 
 ```bash
-# Clonar archivos del proyecto
-# Instalar dependencias
-pip install -r requirements.txt
+cd wsl_scrapper
+python3 -m venv venv
+source venv/bin/activate
+pip3 install --disable-pip-version-check -r requirements.txt
 ```
 
-> **Nota:** las dependencias son de Python, por lo que debe usarse `pip`.
-> Comandos como `npm install requirements.txt` fallarán.
+Notas:
+- Si ves “bash: pip: command not found”, usa `pip3` como arriba.
+- El aviso “NotOpenSSLWarning (LibreSSL)” es solo un warning de urllib3; puede ignorarse.
 
-## ⚙️ Configuración
+---
 
-El sistema incluye varios componentes especializados:
+## 2) Interfaz web (recomendada)
 
-### Subagentes Claude Code
-- **wsl-scraper-orchestrator**: Coordinador principal
-- **wsl-web-analyzer**: Análisis técnico de la web WSL
-- **wsl-data-extractor**: Extracción masiva de datos
-
-### Estructura de Datos
-- `wsl_data_structure.py`: Definición completa de modelos de datos
-- `wsl_scraper_main.py`: Script principal de scraping
-- `wsl_statistics_analyzer.py`: Sistema de análisis estadístico
-
-## 📊 Uso
-
-### 1. Scraping Básico (Modo Test)
+Lanzar la app:
 ```bash
-python wsl_scraper_main.py --test
+source venv/bin/activate
+python ui_app.py
 ```
-Ejecuta análisis técnico sin scraping completo.
 
-### 2. Extracción Completa
+Abrir en el navegador: `http://127.0.0.1:5000`
+
+En la página principal podrás:
+- Seleccionar años, países/regiones (ESP, BAS, CAN), tours (CT, CS, QS, Longboard, Junior, Big-Wave).
+- Especificar surfistas (IDs o nombres) separados EXCLUSIVAMENTE por comas. Ejemplo: `10158, Yago Dominguez, Leticia Canales Bilbao`. Los nombres admiten espacios; el filtrado es por coincidencia parcial (case-insensitive).
+- Seleccionar ubicaciones/playas (si existen en la última corrida guardada).
+- Ajustar concurrencia (`max_workers`) y retardo entre peticiones (`request_delay`).
+
+Durante la ejecución:
+- Verás barra de progreso, porcentaje, y ETA por número de surfistas procesados.
+- Logs con eventos relevantes (tours encontrados, heats detectados…).
+
+Al finalizar:
+- Descargas directas desde la página de estado del job y la portada: `surfers_raw.json`, `heats_raw.jsonl`, `heats_raw.csv`, `surfers_summary.csv`, `surfers_full.json`, `surfers_2025.json`.
+- Persistencia de jobs: si el servidor reinicia, los jobs quedan guardados como `interrupted` y puedes verlos en `/jobs`.
+
+---
+
+## 3) Uso por línea de comandos (CLI)
+
 ```bash
-python wsl_scraper_main.py
-```
-Ejecuta extracción completa de todos los surfistas españoles.
-
-### 3. Análisis Estadístico
-```bash
-python wsl_statistics_analyzer.py data/exports/wsl_spanish_surfers_[timestamp].json
-```
-
-## 📁 Estructura de Archivos Generados
-
-```
-data/
-├── checkpoints/          # Puntos de control durante extracción
-├── exports/              # Datos exportados finales
-│   ├── wsl_spanish_surfers_[timestamp].json
-│   ├── wsl_spanish_surfers_[timestamp]_surfers.csv  
-│   ├── wsl_spanish_surfers_[timestamp]_events.csv
-│   └── wsl_spanish_surfers_[timestamp]_heats.csv
-└── analysis_[timestamp].xlsx  # Análisis estadístico completo
+source venv/bin/activate
+python wsl_surfer_focused.py \
+  --years 2025 \
+  --countries ESP BAS CAN \
+  --tours CT CS QS \
+  --surfers 10158 "Adur Amatriain" \
+  --max-workers 8 \
+  --request-delay 0.4
 ```
 
-## 📈 Análisis Estadístico Incluye
+Parámetros disponibles:
+- `--years`: uno o varios años (p. ej., 2024 2025).
+- `--countries`: códigos `ESP BAS CAN` (España, País Vasco, Canarias).
+- `--tours`: CT, CS, QS, LONGBOARD, JUNIOR, BIG-WAVE (opcional).
+- `--surfers`: IDs o nombres de surfistas (opcional).
+- `--max-workers`: hilos en paralelo (por defecto 5).
+- `--request-delay`: retardo entre requests (segundos, por defecto 0.5).
 
-### Por Surfista
-- Puntuación media por manga
-- Tasa de avance entre rondas
-- Porcentaje de olas excelentes (8.0+)
-- Índice de consistencia
-- Progresión temporal de rendimiento
+---
 
-### Por Ubicación/Playa
-- Rendimiento medio por tipo de ola (Beach Break, Reef Break, Point Break)
-- Comparativas entre ubicaciones geográficas
-- Análisis de condiciones óptimas
+## 4) Estructura de directorios y salidas
 
-### Por Tipo de Competición
-- Championship Tour (CT) vs Challenger Series (CS)
-- Rendimiento por ronda (Round 1, Cuartos, Semifinales, Final)
-- Análisis de presión por eliminatorias
+La ejecución genera datos en `data/` siguiendo estas convenciones:
 
-### Comparativas
-- Rankings entre surfistas españoles
-- Comparación País Vasco vs España vs Canarias
-- Evolución temporal del surf español
-- Identificación de actuaciones pico
+- `data/runs/<timestamp>/`
+  - `surfers_raw.json`: lista simple de surfistas y sus eventos/heats (JSON).
+  - `heats_raw.jsonl`: filas planas por heat (JSON Lines, una línea por heat).
+  - `heats_raw.csv`: igual que el JSONL pero en CSV.
+  - `surfers_summary.csv`: resumen por surfista (conteos y tours).
+  - `surfers_full.json`: versión completa de la ejecución (estructura por surfista).
+  - `surfers_2025.json`: si la corrida fue de 2025, versión nominal equivalente.
 
-## 🔧 Configuración Avanzada
+- `data/stable/` (copias “estables”, sobrescritas en cada corrida)
+  - `all_surfers_raw.json`
+  - `all_heats_raw.jsonl`
+  - `all_heats_raw.csv`
 
-### Rate Limiting
-```python
-# En wsl_scraper_main.py
-MIN_DELAY = 1.0  # Mínimo 1 segundo entre requests  
-MAX_DELAY = 3.0  # Máximo 3 segundos
+- `data/checkpoints/`
+  - `options_latest.json`: opciones detectadas (años, tours, surfistas, ubicaciones). La UI usa este archivo para poblar lists.
+
+- `data/surfers/`
+  - Un archivo por surfista procesado: `ID_Nombre.json`
+
+---
+
+## 5) Esquemas de datos
+
+### 5.1 Surfer (estructura por surfista)
+```json
+{
+  "surfer_id": "10158",
+  "name": "Adur Amatriain",
+  "country": "Basque Country",
+  "events": [
+    {
+      "event_id": "4889",
+      "event_name": "ABANCA Pantin Classic Galicia Pro",
+      "location": "Pantin",
+      "tour_type": "WQS",
+      "start_date": null,
+      "final_position": 9,
+      "points_earned": 650,
+      "heats": [
+        {
+          "heat_id": "heat_106821",
+          "round_name": "Round of 64",
+          "position": 1,
+          "total_score": 12.5,
+          "wave_scores": [6.4, 4.9, 1.2],
+          "advanced": true,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
+}
 ```
 
-### Países/Regiones Objetivo  
-```python
-TARGET_COUNTRIES = [
-    "Spain",
-    "Basque Country", 
-    "Canary Islands"
-]
+### 5.2 Fila de heat (heats_raw.jsonl / heats_raw.csv)
+```json
+{
+  "surfer_id": "10158",
+  "surfer_name": "Adur Amatriain",
+  "country": "Basque Country",
+  "event_id": "4889",
+  "event_name": "ABANCA Pantin Classic Galicia Pro",
+  "event_location": "Pantin",
+  "tour_type": "WQS",
+  "event_final_position": 9,
+  "event_points_earned": 650,
+  "heat_id": "heat_106821",
+  "round_name": "Round of 64",
+  "heat_position": 1,
+  "heat_total_score": 12.5,
+  "heat_advanced": true,
+  "heat_date": null,
+  "wave_scores": [6.4, 4.9, 1.2]
+}
 ```
 
-### URLs Base Analizadas
-- `https://www.worldsurfleague.com/athletes/tour/mct` - Men's Championship Tour
-- `https://www.worldsurfleague.com/athletes/tour/wct` - Women's Championship Tour  
-- `https://www.worldsurfleague.com/athletes/tour/mcs` - Men's Challenger Series
-- `https://www.worldsurfleague.com/athletes/tour/wcs` - Women's Challenger Series
+Campos clave:
+- `wave_scores` en CSV se serializa como string con separador `|`.
+- `location` puede inferirse del nombre del evento cuando el HTML no lo aporta explícitamente.
 
-## 🛠️ Arquitectura Técnica
+---
 
-### Análisis Web Realizado
-- ✅ Identificación de URLs de perfil de surfistas
-- ✅ Patrones de extracción de datos HTML
-- ✅ Selectores CSS para información de atletas
-- ✅ Sistema de filtrado por país
-- ✅ Manejo de paginación y limitaciones
+## 6) Flujo interno (resumen)
+1. `get_surfers()` descarga el directorio de atletas filtrando por países (ESP/BAS/CAN) y resuelve la paginación.
+2. Por cada surfista y año seleccionado, `get_surfer_events()` recorre los tours disponibles (selector `yearResultsTourCode`).
+3. Para cada evento, `_get_event_details()` extrae heats y resultados; `_extract_surfer_heats()` parsea elementos reales `div.hot-heat`.
+4. Se guardan archivos incrementales por surfista y, al final, las salidas agregadas (JSON/JSONL/CSV) y copias estables.
+5. Se actualiza `data/checkpoints/options_latest.json` con años/tours/surfistas/ubicaciones detectadas.
 
-### Protecciones Anti-Scraping
-- Rate limiting ético implementado
-- Headers de navegador real configurados
-- Delays aleatorios entre requests
-- Sistema robusto de reintentos
-- Manejo gracioso de errores
+---
 
-## 📋 Datos Extraídos
+## 7) Consejos de rendimiento
+- Incrementa `--max-workers` en máquinas con buena conexión (p. ej., 8–16). Ajusta `--request-delay` a 0.3–0.5s.
+- Filtra por tours o surfistas concretos para recortar tiempo.
+- Usa la UI para monitorizar progreso y ETA.
 
-### Por Surfista
-- **Información personal**: Nombre, país, stance, hometown
-- **Carrera profesional**: Años activos, títulos mundiales
-- **Estadísticas**: Victorias, earnings, rankings
+---
 
-### Por Competición  
-- **Evento**: Nombre, ubicación, fechas, tipo de tour
-- **Condiciones**: Tipo de ola, condiciones del mar
-- **Resultados**: Posición final, puntos ganados
+## 8) Solución de problemas
+- “flask: command not found”: activa el venv y asegúrate de instalar dependencias con `pip3 install -r requirements.txt`.
+- “pip: command not found” en el venv: usa `pip3`.
+- Aviso `NotOpenSSLWarning`: es un warning de urllib3 (LibreSSL), ignorable.
+- `data/stable/*.json` vacío (`[]`): las copias estables se sobrescriben en cada corrida; revisa `data/runs/<timestamp>/` o ejecuta una nueva extracción.
 
-### Por Manga
-- **Ronda**: Nombre de la ronda, duración
-- **Puntuaciones**: Score total, puntuaciones individuales de olas
-- **Resultado**: Posición, si avanzó, oponentes
+---
 
-### Por Ola Individual
-- **Puntuación**: Score de 0-10
-- **Características**: Excelencia (8.0+), prioridad, interferencias
-- **Timing**: Momento en la manga
+## 9) Referencias de archivos clave
+- `wsl_surfer_focused.py`: núcleo de scraping (CLI y lógica de extracción/guardado).
+- `ui_app.py`: interfaz Flask con filtros, progreso/ETA y descargas.
+- `config.py`: años y países/regiones por defecto y mapping de IDs internos de WSL.
+- `data/`: salidas y checkpoints.
 
-## 🚨 Consideraciones Legales
+---
 
-- ✅ Respeta términos de servicio de WSL
-- ✅ Rate limiting ético implementado  
-- ✅ Solo datos públicos accedidos
-- ✅ No sobrecarga servidores WSL
-- ✅ Uso educativo/analítico de datos
-
-## 📞 Soporte
-
-Para soporte oficial de WSL API:
-- Email: support@worldsurfleague.com
-- Teléfono: +1 310 450 1212
-
-## 🔄 Actualizaciones
-
-Ejecutar manualmente el script de forma periódica (recomendado cada 2-3 meses) para mantener datos actualizados con nuevas competiciones y resultados.
-
-## 📊 Ejemplos de Análisis
-
-### Comando Completo de Ejecución
-```bash
-# 1. Scraping completo
-python wsl_scraper_main.py
-
-# 2. Análisis estadístico  
-python wsl_statistics_analyzer.py data/exports/wsl_spanish_surfers_20250808_143022.json
-
-# Resultado: Análisis comprehensivo en Excel y JSON
-```
-
-### Métricas Clave Generadas
-- **Overall Score**: Puntuación general ponderada (0-100)
-- **Consistency Index**: Medida de regularidad en el rendimiento  
-- **Pressure Performance**: Rendimiento bajo presión (finales vs rondas tempranas)
-- **Wave Type Affinity**: Preferencias por tipos de ola
-- **Career Progression**: Evolución temporal del surfista
-
-El sistema está diseñado para proporcionar insights profundos sobre el rendimiento de los surfistas españoles en el circuito mundial, facilitando análisis comparativos y identificación de patrones de rendimiento.
+## 10) Licencia y uso
+Proyecto para propósitos analíticos/educativos. Respeta los términos de servicio de WSL y no sobrecargues sus servidores (usa delays razonables).

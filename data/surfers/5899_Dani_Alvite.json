@@ -2,5 +2,31 @@
   "surfer_id": "5899",
   "name": "Dani Alvite",
   "country": "Spain",
-  "events_2025": []
+  "events": [
+    {
+      "event_id": "4917",
+      "event_name": "GADIS Longboard Pro Ferrol",
+      "location": "Unknown",
+      "tour_type": "MLT",
+      "start_date": null,
+      "final_position": null,
+      "points_earned": null,
+      "heats": [
+        {
+          "heat_id": "heat_48795",
+          "round_name": "Quarterfinals - Heat 1",
+          "position": 4,
+          "total_score": 4.86,
+          "wave_scores": [
+            2.83,
+            0.93,
+            0.67,
+            2.03
+          ],
+          "advanced": false,
+          "heat_date": null
+        }
+      ]
+    }
+  ]
 }

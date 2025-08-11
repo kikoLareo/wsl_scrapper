@@ -2,7 +2,7 @@
   "surfer_id": "4473",
   "name": "Nahir Manduca",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "586",
       "event_name": "Gran Canaria Santa Pro Junior",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 3,
           "total_score": 1.4,

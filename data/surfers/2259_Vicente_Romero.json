@@ -2,7 +2,7 @@
   "surfer_id": "2259",
   "name": "Vicente Romero",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3911",
       "event_name": "Ballito Pro",
@@ -69,7 +69,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_96527",
+          "heat_id": "heat_28664",
           "round_name": "Round of 96 - Heat 6",
           "position": 3,
           "total_score": 10.16,
@@ -99,7 +99,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_96527",
+          "heat_id": "heat_28664",
           "round_name": "Round of 96 - Heat 6",
           "position": 3,
           "total_score": 7.83,
@@ -129,7 +129,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_67738",
+          "heat_id": "heat_85431",
           "round_name": "Round of 64 - Heat 2",
           "position": 3,
           "total_score": 11.3,
@@ -145,7 +145,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_66728",
+          "heat_id": "heat_60366",
           "round_name": "Round of 96 - Heat 1",
           "position": 2,
           "total_score": 9.37,
@@ -173,7 +173,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_53098",
+          "heat_id": "heat_94026",
           "round_name": "Round of 96 - Heat 5",
           "position": 4,
           "total_score": 7.37,

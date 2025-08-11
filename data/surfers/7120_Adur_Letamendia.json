@@ -2,7 +2,7 @@
   "surfer_id": "7120",
   "name": "Adur Letamendia",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1036",
       "event_name": "Billabong Pico Alto",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 6,
           "total_score": 11.34,
@@ -33,7 +33,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 18.27,

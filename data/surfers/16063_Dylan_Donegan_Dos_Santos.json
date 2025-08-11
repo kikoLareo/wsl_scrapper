@@ -2,7 +2,7 @@
   "surfer_id": "16063",
   "name": "Dylan Donegan Dos Santos",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4872",
       "event_name": "Caparica Surf Fest 2025",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_46665",
+          "heat_id": "heat_61045",
           "round_name": "Round of 32 - Heat 6",
           "position": 3,
           "total_score": 9.77,
@@ -34,7 +34,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_93087",
+          "heat_id": "heat_44554",
           "round_name": "Round of 64 - Heat 10",
           "position": 2,
           "total_score": 11.3,
@@ -52,7 +52,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_88785",
+          "heat_id": "heat_34917",
           "round_name": "Round of 96 - Heat 9",
           "position": 2,
           "total_score": 9.06,
@@ -80,7 +80,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_7398",
+          "heat_id": "heat_6504",
           "round_name": "Round of 64 - Heat 7",
           "position": 4,
           "total_score": 6.29,
@@ -98,7 +98,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_86782",
+          "heat_id": "heat_70978",
           "round_name": "Round of 96 - Heat 8",
           "position": 2,
           "total_score": 11.1,
@@ -124,7 +124,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_67738",
+          "heat_id": "heat_85431",
           "round_name": "Round of 64 - Heat 2",
           "position": 4,
           "total_score": 7.0,
@@ -137,7 +137,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_66728",
+          "heat_id": "heat_60366",
           "round_name": "Round of 96 - Heat 1",
           "position": 2,
           "total_score": 8.1,
@@ -165,7 +165,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 2,
           "total_score": 14.5,
@@ -179,7 +179,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29385",
+          "heat_id": "heat_36517",
           "round_name": "Semifinals - Heat 2",
           "position": 2,
           "total_score": 9.87,
@@ -194,7 +194,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 1,
           "total_score": 12.24,
@@ -207,7 +207,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 1,
           "total_score": 9.93,
@@ -238,7 +238,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14619",
+          "heat_id": "heat_23260",
           "round_name": "Quarterfinals - Heat 2",
           "position": 4,
           "total_score": 5.43,
@@ -251,7 +251,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_79927",
+          "heat_id": "heat_37189",
           "round_name": "Round of 32 - Heat 1",
           "position": 2,
           "total_score": 11.23,

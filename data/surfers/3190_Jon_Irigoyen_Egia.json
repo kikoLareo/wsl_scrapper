@@ -2,7 +2,7 @@
   "surfer_id": "3190",
   "name": "Jon Irigoyen Egia",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1085",
       "event_name": "Vieux Boucau Longboard Festival",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 8.33,

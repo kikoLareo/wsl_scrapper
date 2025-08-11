@@ -2,7 +2,7 @@
   "surfer_id": "14552",
   "name": "Carlota Barreras",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2992",
       "event_name": "Caparica Surf Fest Junior Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 1,
           "total_score": 9.13,
@@ -38,7 +38,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 4,
           "total_score": 6.4,
@@ -54,7 +54,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 2,
           "total_score": 6.4,

@@ -2,7 +2,7 @@
   "surfer_id": "9186",
   "name": "Lucas Buatois Figueroa",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2987",
       "event_name": "Junior Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 4,
           "total_score": 3.83,
@@ -24,7 +24,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 2,
           "total_score": 6.74,
@@ -47,7 +47,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_65257",
+          "heat_id": "heat_10438",
           "round_name": "Round 1 - Heat 12",
           "position": 4,
           "total_score": 4.43,

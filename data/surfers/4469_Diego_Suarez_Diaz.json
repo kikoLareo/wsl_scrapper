@@ -2,7 +2,7 @@
   "surfer_id": "4469",
   "name": "Diego Suarez Diaz",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3271",
       "event_name": "Cabreiroá Pro Las Americas",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_42960",
+          "heat_id": "heat_42027",
           "round_name": "Round 2 - Heat 12",
           "position": 4,
           "total_score": 4.63,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40362",
+          "heat_id": "heat_3002",
           "round_name": "Round 4 - Heat 3",
           "position": 3,
           "total_score": 9.1,
@@ -55,7 +55,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_49408",
+          "heat_id": "heat_42682",
           "round_name": "Round 3 - Heat 6",
           "position": 1,
           "total_score": 10.74,
@@ -80,7 +80,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_72582",
+          "heat_id": "heat_9077",
           "round_name": "Round 4 - Heat 2",
           "position": 4,
           "total_score": 7.24,
@@ -93,7 +93,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_7162",
+          "heat_id": "heat_19663",
           "round_name": "Round 3 - Heat 2",
           "position": 2,
           "total_score": 10.8,
@@ -115,14 +115,14 @@
     {
       "event_id": "2865",
       "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbe Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_7162",
+          "heat_id": "heat_19663",
           "round_name": "Round 3 - Heat 2",
           "position": 4,
           "total_score": 3.0,
@@ -147,7 +147,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8553",
+          "heat_id": "heat_81993",
           "round_name": "Round 4 - Heat 8",
           "position": 3,
           "total_score": 8.9,
@@ -161,7 +161,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_15954",
+          "heat_id": "heat_13843",
           "round_name": "Round 3 - Heat 15",
           "position": 1,
           "total_score": 14.53,
@@ -188,7 +188,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 2,
           "total_score": 10.44,
@@ -206,7 +206,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29385",
+          "heat_id": "heat_36517",
           "round_name": "Semifinals - Heat 2",
           "position": 1,
           "total_score": 8.86,
@@ -222,7 +222,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 1,
           "total_score": 9.76,
@@ -237,7 +237,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_88602",
+          "heat_id": "heat_48301",
           "round_name": "Round 5 - Heat 4",
           "position": 2,
           "total_score": 13.6,
@@ -255,7 +255,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8553",
+          "heat_id": "heat_81993",
           "round_name": "Round 4 - Heat 8",
           "position": 1,
           "total_score": 12.0,
@@ -270,7 +270,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_15954",
+          "heat_id": "heat_13843",
           "round_name": "Round 3 - Heat 15",
           "position": 1,
           "total_score": 10.3,
@@ -298,7 +298,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_7162",
+          "heat_id": "heat_19663",
           "round_name": "Round 3 - Heat 2",
           "position": 3,
           "total_score": 10.8,
@@ -315,7 +315,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_32020",
+          "heat_id": "heat_89249",
           "round_name": "Round 2 - Heat 4",
           "position": 1,
           "total_score": 9.03,

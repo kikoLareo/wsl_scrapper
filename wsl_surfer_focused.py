@@ -44,8 +44,11 @@ class Event:
     location: str
     tour_type: str  # CT, CS, QS, Longboard, Junior, etc.
     start_date: Optional[str] = None
+    end_date: Optional[str] = None
     final_position: Optional[int] = None
     points_earned: Optional[float] = None
+    avg_heat_score: Optional[float] = None
+    avg_wave_score: Optional[float] = None
     heats: List[Heat] = None
 
 @dataclass 
@@ -59,24 +62,86 @@ class WSLSurferFocused:
     """Scraper enfocado por surfista individual"""
 
     def __init__(self, years: List[int] = None, countries: List[str] = None,
-                 surfer_filter: Optional[List[str]] = None, max_workers: int = 5):
+                 surfer_filter: Optional[List[str]] = None, max_workers: int = 5,
+                 tours: Optional[List[str]] = None, request_delay: float = 0.5,
+                 locations: Optional[List[str]] = None):
         self.base_url = "https://www.worldsurfleague.com"
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
         })
+        # Reintentos básicos para mayor robustez
+        try:
+            from requests.adapters import HTTPAdapter
+            from urllib3.util import Retry
+            retries = Retry(total=3, backoff_factor=0.5, status_forcelist=[429, 500, 502, 503, 504])
+            adapter = HTTPAdapter(max_retries=retries)
+            self.session.mount('http://', adapter)
+            self.session.mount('https://', adapter)
+        except Exception:
+            pass
 
         self.years = years or DEFAULT_YEARS
         self.country_codes = countries or DEFAULT_COUNTRIES
         self.country_ids = [COUNTRY_CODE_MAP.get(c.upper()) for c in self.country_codes if c.upper() in COUNTRY_CODE_MAP]
         self.surfer_filter = surfer_filter
         self.max_workers = max_workers
+        self.tours_filter = set([t.upper() for t in (tours or [])]) if tours else None
+        self.request_delay = max(0.0, request_delay)
+        self.locations_filter = set([l.lower() for l in (locations or [])]) if locations else None
 
         # Crear directorios
         Path("data").mkdir(exist_ok=True)
         Path("data/surfers").mkdir(exist_ok=True)
         Path("data/events").mkdir(exist_ok=True)
         Path("data/heats").mkdir(exist_ok=True)
+
+    def _slugify(self, text: str) -> str:
+        try:
+            t = text.lower().strip()
+            t = re.sub(r"[^a-z0-9]+", "_", t)
+            t = re.sub(r"_+", "_", t).strip("_")
+            return t or "na"
+        except Exception:
+            return "na"
+
+    def _build_run_tag(self) -> str:
+        parts = []
+        # Years
+        try:
+            if self.years:
+                years_tag = "y" + "-".join(str(y) for y in sorted(set(self.years)))
+                parts.append(years_tag)
+        except Exception:
+            pass
+        # Countries
+        try:
+            if self.country_codes:
+                parts.append("c" + "-".join(self.country_codes))
+        except Exception:
+            pass
+        # Tours
+        try:
+            if self.tours_filter:
+                parts.append("t" + "-".join(sorted(self.tours_filter)))
+        except Exception:
+            pass
+        # Locations
+        try:
+            if self.locations_filter:
+                parts.append("l" + "-".join(self._slugify(l) for l in sorted(self.locations_filter)))
+        except Exception:
+            pass
+        # Surfers
+        try:
+            if self.surfer_filter:
+                if len(self.surfer_filter) <= 3:
+                    parts.append("s" + "-".join(self._slugify(str(s)) for s in self.surfer_filter))
+                else:
+                    parts.append(f"s{len(self.surfer_filter)}")
+        except Exception:
+            pass
+        return "__".join(parts) if parts else "complete"
     
     def get_surfers(self) -> List[Dict]:
 
@@ -99,7 +164,8 @@ class WSLSurferFocused:
             pagination_label = soup.select_one('.paginationLabel')
             total_surfers = 0
             if pagination_label:
-                match = re.search(r'(\\d+) - (\\d+) of (\\d+) items', pagination_label.get_text(strip=True))
+                # Corregido: patrón correcto de dígitos
+                match = re.search(r'(\d+) - (\d+) of (\d+) items', pagination_label.get_text(strip=True))
                 if match:
                     total_surfers = int(match.group(3))
                     last_index = int(match.group(2))
@@ -123,13 +189,28 @@ class WSLSurferFocused:
                 name = name_elem.get_text(strip=True)
                 country = country_elem.get_text(strip=True)
                 profile_url = name_elem['href']
-                match = re.search(r'/athletes/(\\d+)/', profile_url)
+                # Corregido: extraer ID numérico del perfil
+                match = re.search(r'/athletes/(\d+)/', profile_url)
                 surfer_id = match.group(1) if match else None
                 if surfer_id and name:
                     surfers.append({'id': surfer_id, 'name': name, 'country': country, 'profile_url': profile_url})
 
             if self.surfer_filter:
-                surfers = [s for s in surfers if s['name'] in self.surfer_filter or s['id'] in self.surfer_filter]
+                # Filtrado flexible: IDs exactos o nombre por coincidencia parcial (case-insensitive)
+                tokens_raw = [t for t in self.surfer_filter if isinstance(t, str) and t.strip()]
+                tokens_lower = [t.strip().lower() for t in tokens_raw]
+
+                def match_surfer(s: Dict) -> bool:
+                    name_l = s['name'].lower()
+                    sid = s['id']
+                    for tok in tokens_lower:
+                        if tok == sid:
+                            return True
+                        if tok and tok in name_l:
+                            return True
+                    return False
+
+                surfers = [s for s in surfers if match_surfer(s)]
 
             logger.info(f"Encontrados {len(surfers)} surfistas")
             return surfers
@@ -162,7 +243,11 @@ class WSLSurferFocused:
                 return []
 
             tour_options = select.find_all('option')
-            tour_codes = [opt['value'] for opt in tour_options if opt.get('value') ]
+            tour_codes = [opt['value'] for opt in tour_options if opt.get('value')]
+
+            # Filtrado opcional por tours
+            if self.tours_filter:
+                tour_codes = [c for c in tour_codes if c and c.upper() in self.tours_filter]
 
             logger.info(f"Tour codes encontrados para {surfer_name}: {tour_codes}")
 
@@ -171,6 +256,7 @@ class WSLSurferFocused:
             for code in tour_codes:
                 url = f"{base_url}?section=yearResults&yearResultsTourCode={code}&year={year}"
                 logger.debug(f"Consultando eventos en: {url}")
+                time.sleep(self.request_delay)
                 res = self.session.get(url)
                 if res.status_code != 200:
                     logger.warning(f"  ⚠️ No se pudo acceder a eventos para {surfer_name} en tour {code}")
@@ -190,10 +276,19 @@ class WSLSurferFocused:
                     match_id = re.search(r'eventId=(\d+)', href)
                     event_id = match_id.group(1) if match_id else f"event_{hash(href) % 10000}"
 
+                    # Intento de inferir ubicación desde el texto del evento si contiene un guion con la ciudad/spot
+                    inferred_location = "Unknown"
+                    try:
+                        parts = [p.strip() for p in re.split(r'[-–—]', event_text) if p.strip()]
+                        if len(parts) >= 2:
+                            inferred_location = parts[-1]
+                    except Exception:
+                        pass
+
                     event = Event(
                         event_id=event_id,
                         event_name=event_text,
-                        location="Unknown",
+                        location=inferred_location,
                         tour_type=code.upper()
                     )
 
@@ -202,9 +297,19 @@ class WSLSurferFocused:
                     if event_details:
                         event.final_position = event_details.get('position')
                         event.points_earned = event_details.get('points')
+                        event.start_date = event_details.get('start_date')
+                        event.end_date = event_details.get('end_date')
+                        event.avg_heat_score = event_details.get('avg_heat_score')
+                        event.avg_wave_score = event_details.get('avg_wave_score')
                         event.heats = event_details.get('heats', [])
 
-                    all_events.append(event)
+                    # Filtrar por ubicación si procede
+                    if self.locations_filter:
+                        loc = (event.location or '').lower()
+                        if loc and any(sel in loc for sel in self.locations_filter):
+                            all_events.append(event)
+                    else:
+                        all_events.append(event)
                     logger.info(f"    ✅ {event_text} ({code.upper()})")
 
             logger.info(f"🎯 Total eventos {year} para {surfer_name}: {len(all_events)}")
@@ -297,7 +402,7 @@ class WSLSurferFocused:
         """Obtener detalles específicos del evento para el surfista"""
         logger.debug(f"Obteniendo detalles de evento: {event_url}")
         
-        time.sleep(1)  # Rate limiting
+        time.sleep(self.request_delay)  # Rate limiting configurable
         
         try:
             response = self.session.get(event_url)
@@ -310,9 +415,29 @@ class WSLSurferFocused:
             event_details = {
                 'position': None,
                 'points': None,
+                'start_date': None,
+                'end_date': None,
+                'avg_heat_score': None,
+                'avg_wave_score': None,
                 'heats': []
             }
             
+            # Extraer barra de estadísticas del evento (place/points/avg scores)
+            stats = self._extract_event_stats(soup)
+            if stats:
+                event_details.update({
+                    'position': stats.get('position') or event_details['position'],
+                    'points': stats.get('points') or event_details['points'],
+                    'avg_heat_score': stats.get('avg_heat_score'),
+                    'avg_wave_score': stats.get('avg_wave_score'),
+                })
+
+            # Extraer rango de fechas del evento
+            start_date, end_date = self._extract_event_date_range(soup)
+            if start_date or end_date:
+                event_details['start_date'] = start_date
+                event_details['end_date'] = end_date
+
             # Buscar heats donde participó este surfista
             heats = self._extract_surfer_heats(soup, surfer_id, surfer_name)
             event_details['heats'] = heats
@@ -458,6 +583,105 @@ class WSLSurferFocused:
             logger.debug(f"Error parseando heat para {surfer_name}: {e}")
             
         return None
+
+    def _extract_event_stats(self, soup: BeautifulSoup) -> Optional[Dict]:
+        """Extrae Place, Points, Avg. heat score y Avg. wave score desde la barra de stats.
+        Compatible con pequeñas variaciones en clases."""
+        try:
+            ul = soup.select_one('ul.athlete-event-results-stat-bar__stats')
+            if not ul:
+                # Buscar por coincidencia parcial del nombre de clase, por si hay variantes
+                ul = soup.find('ul', class_=re.compile(r'athlete-event-results-stat-bar__stats'))
+            if not ul:
+                return None
+
+            def get_value_by_label(label_text: str) -> Optional[str]:
+                for li in ul.find_all('li'):
+                    label = li.select_one('.label')
+                    value = li.select_one('.value')
+                    if not label or not value:
+                        continue
+                    if label.get_text(strip=True).lower() == label_text.lower():
+                        return value.get_text(strip=True)
+                return None
+
+            place_raw = get_value_by_label('Place')
+            points_raw = get_value_by_label('Points')
+            avg_heat_raw = get_value_by_label('Avg. heat score')
+            avg_wave_raw = get_value_by_label('Avg. wave score')
+
+            def to_int_place(text: Optional[str]) -> Optional[int]:
+                if not text:
+                    return None
+                # 33rd -> 33, 1st -> 1, 2nd -> 2, 3rd -> 3
+                m = re.match(r'^(\d+)', text)
+                return int(m.group(1)) if m else None
+
+            def to_float(text: Optional[str]) -> Optional[float]:
+                if not text:
+                    return None
+                text = text.replace(',', '').strip()
+                try:
+                    return float(text)
+                except ValueError:
+                    return None
+
+            return {
+                'position': to_int_place(place_raw),
+                'points': to_float(points_raw),
+                'avg_heat_score': to_float(avg_heat_raw),
+                'avg_wave_score': to_float(avg_wave_raw),
+            }
+        except Exception:
+            return None
+
+    def _extract_event_date_range(self, soup: BeautifulSoup) -> (Optional[str], Optional[str]):
+        """Extraer fecha de evento desde elemento con clase 'event-details__date-range'.
+        Devuelve fechas en ISO (YYYY-MM-DD) si es posible, sino la cadena original en start_date y None en end_date."""
+        try:
+            node = soup.select_one('.event-details__date-range')
+            if not node:
+                return None, None
+            text = node.get_text(strip=True)
+            start_iso, end_iso = self._parse_date_range_to_iso(text)
+            return start_iso, end_iso
+        except Exception:
+            return None, None
+
+    def _parse_date_range_to_iso(self, text: str) -> (Optional[str], Optional[str]):
+        months = {
+            'jan': 1, 'january': 1,
+            'feb': 2, 'february': 2,
+            'mar': 3, 'march': 3,
+            'apr': 4, 'april': 4,
+            'may': 5,
+            'jun': 6, 'june': 6,
+            'jul': 7, 'july': 7,
+            'aug': 8, 'august': 8,
+            'sep': 9, 'sept': 9, 'september': 9,
+            'oct': 10, 'october': 10,
+            'nov': 11, 'november': 11,
+            'dec': 12, 'december': 12,
+        }
+        s = text.strip()
+        # Normalizar guiones
+        s = s.replace('–', '-').replace('—', '-')
+        # Caso: Jun 2 - 8, 2025
+        m1 = re.match(r'^([A-Za-z]+)\s+(\d{1,2})\s*-\s*(\d{1,2}),\s*(\d{4})$', s)
+        if m1:
+            mon = months.get(m1.group(1).lower())
+            d1 = int(m1.group(2)); d2 = int(m1.group(3)); year = int(m1.group(4))
+            if mon:
+                return (f"{year:04d}-{mon:02d}-{d1:02d}", f"{year:04d}-{mon:02d}-{d2:02d}")
+        # Caso: May 28 - Jun 3, 2025
+        m2 = re.match(r'^([A-Za-z]+)\s+(\d{1,2})\s*-\s*([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})$', s)
+        if m2:
+            mon1 = months.get(m2.group(1).lower()); mon2 = months.get(m2.group(3).lower())
+            d1 = int(m2.group(2)); d2 = int(m2.group(4)); year = int(m2.group(5))
+            if mon1 and mon2:
+                return (f"{year:04d}-{mon1:02d}-{d1:02d}", f"{year:04d}-{mon2:02d}-{d2:02d}")
+        # Fallback: devolver texto en start_date
+        return (s, None)
     
     def _extract_position_from_athlete(self, athlete_elem) -> int:
         """Extraer posición desde clases CSS"""
@@ -569,13 +793,14 @@ class WSLSurferFocused:
 
         # === Archivos BRUTOS para análisis de datos ===
         # 1) JSON bruto: lista simple de surfistas con su estructura completa (sin envoltorio decorativo)
-        raw_json = f"data/all_surfers_raw_{timestamp}.json"
+        run_tag = self._build_run_tag()
+        raw_json = f"data/all_surfers_raw_{run_tag}_{timestamp}.json"
         with open(raw_json, 'w', encoding='utf-8') as f:
             json.dump([asdict(s) for s in surfers_data], f, ensure_ascii=False, default=str)
 
         # 2) JSONL y CSV de heats: filas planas por heat para análisis
-        heats_jsonl = f"data/all_heats_raw_{timestamp}.jsonl"
-        heats_csv = f"data/all_heats_raw_{timestamp}.csv"
+        heats_jsonl = f"data/all_heats_raw_{run_tag}_{timestamp}.jsonl"
+        heats_csv = f"data/all_heats_raw_{run_tag}_{timestamp}.csv"
 
         # Construir filas planas por heat
         heat_rows: List[Dict] = []
@@ -603,6 +828,10 @@ class WSLSurferFocused:
                         'tour_type': tour_type,
                         'event_final_position': final_position,
                         'event_points_earned': points_earned,
+                        'event_start_date': event.start_date,
+                        'event_end_date': event.end_date,
+                        'event_avg_heat_score': event.avg_heat_score,
+                        'event_avg_wave_score': event.avg_wave_score,
                         'heat_id': heat.heat_id,
                         'round_name': heat.round_name,
                         'heat_position': heat.position,
@@ -622,7 +851,7 @@ class WSLSurferFocused:
             fieldnames = [
                 'surfer_id', 'surfer_name', 'country',
                 'event_id', 'event_name', 'event_location', 'tour_type',
-                'event_final_position', 'event_points_earned',
+                'event_final_position', 'event_points_earned', 'event_start_date', 'event_end_date', 'event_avg_heat_score', 'event_avg_wave_score',
                 'heat_id', 'round_name', 'heat_position', 'heat_total_score', 'heat_advanced', 'heat_date',
                 'wave_scores'
             ]
@@ -661,6 +890,60 @@ class WSLSurferFocused:
 
         logger.info(f"📦 Archivos brutos guardados: {raw_json}, {heats_jsonl}, {heats_csv}")
 
+        # Guardar opciones detectadas (años, tours, surfistas, ubicaciones)
+        try:
+            options = {
+                'timestamp': timestamp,
+                'years': sorted(set(self.years)),
+                'surfers': [{'id': s.surfer_id, 'name': s.name, 'country': s.country} for s in surfers_data],
+                'tours': sorted({e.tour_type for s in surfers_data for e in (s.events or []) if e.tour_type}),
+                'locations': sorted({e.location for s in surfers_data for e in (s.events or []) if e.location}),
+            }
+            Path('data/checkpoints').mkdir(exist_ok=True, parents=True)
+            opt_file = f"data/checkpoints/options_{timestamp}.json"
+            with open(opt_file, 'w', encoding='utf-8') as f:
+                json.dump(options, f, ensure_ascii=False, indent=2)
+            # versión estable
+            with open('data/checkpoints/options_latest.json', 'w', encoding='utf-8') as f:
+                json.dump(options, f, ensure_ascii=False, indent=2)
+            logger.info(f"🧭 Opciones guardadas en: {opt_file} y data/checkpoints/options_latest.json")
+        except Exception as e:
+            logger.debug(f"No se pudieron guardar opciones: {e}")
+
+        # Copias canónicas por ejecución en data/runs/<timestamp>/
+        try:
+            runs_dir = Path('data/runs') / timestamp
+            runs_dir.mkdir(exist_ok=True, parents=True)
+            # Mover/copiar con nombres canónicos
+            import shutil
+            # nombres canónicos + variantes con tag
+            shutil.copy2(raw_json, runs_dir / f'surfers_raw_{run_tag}.json')
+            shutil.copy2(heats_jsonl, runs_dir / f'heats_raw_{run_tag}.jsonl')
+            shutil.copy2(heats_csv, runs_dir / f'heats_raw_{run_tag}.csv')
+            shutil.copy2(surfers_csv, runs_dir / f'surfers_summary_{run_tag}.csv')
+            shutil.copy2(json_file, runs_dir / f'surfers_full_{run_tag}.json')
+            # alias simples para “última corrida”
+            shutil.copy2(raw_json, runs_dir / 'surfers_raw.json')
+            shutil.copy2(heats_jsonl, runs_dir / 'heats_raw.jsonl')
+            shutil.copy2(heats_csv, runs_dir / 'heats_raw.csv')
+            shutil.copy2(surfers_csv, runs_dir / 'surfers_summary.csv')
+            shutil.copy2(json_file, runs_dir / 'surfers_full.json')
+            # Alias para año 2025 si aplica
+            try:
+                years_present = sorted({y for s in surfers_data for e in (s.events or []) for y in ([int(str(e.start_date)[:4])] if e.start_date and str(e.start_date)[:4].isdigit() else [])})
+            except Exception:
+                years_present = []
+            if 2025 in years_present or 2025 in (self.years or []):
+                shutil.copy2(json_file, runs_dir / 'surfers_2025.json')
+
+            # Escribir run_latest
+            run_latest = Path('data/checkpoints/run_latest.json')
+            Path('data/checkpoints').mkdir(exist_ok=True, parents=True)
+            with run_latest.open('w', encoding='utf-8') as f:
+                json.dump({'timestamp': timestamp, 'run_dir': str(runs_dir)}, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            logger.debug(f"No se pudieron preparar archivos canónicos de ejecución: {e}")
+
 def main():
     """Función principal con nuevo enfoque"""
     print("🏄‍♂️ WSL Scraper - Enfoque por Surfista")
@@ -668,13 +951,21 @@ def main():
     
     parser = argparse.ArgumentParser(description="WSL scraper")
     parser.add_argument('--years', nargs='+', type=int, default=DEFAULT_YEARS, help='Años a analizar')
-    parser.add_argument('--countries', nargs='+', default=DEFAULT_COUNTRIES, help='Códigos de país a incluir')
+    parser.add_argument('--countries', nargs='+', default=DEFAULT_COUNTRIES, help='Códigos de país a incluir (ESP BAS CAN)')
     parser.add_argument('--surfers', nargs='+', help='IDs o nombres de surfistas específicos')
+    parser.add_argument('--tours', nargs='+', help='Códigos de tour a incluir (CT CS QS LONGBOARD JUNIOR BIG-WAVE)')
     parser.add_argument('--max-workers', type=int, default=5, help='Número máximo de hilos')
+    parser.add_argument('--request-delay', type=float, default=0.5, help='Delay entre requests (s)')
     args = parser.parse_args()
 
-    scraper = WSLSurferFocused(years=args.years, countries=args.countries,
-                               surfer_filter=args.surfers, max_workers=args.max_workers)
+    scraper = WSLSurferFocused(
+        years=args.years,
+        countries=args.countries,
+        surfer_filter=args.surfers,
+        max_workers=args.max_workers,
+        tours=args.tours,
+        request_delay=args.request_delay,
+    )
 
     # Procesar surfistas
     surfers_data = scraper.process_all_surfers()

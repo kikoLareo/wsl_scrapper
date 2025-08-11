@@ -2,7 +2,7 @@
   "surfer_id": "10337",
   "name": "Juan Villasante",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2650",
       "event_name": "Longboard Pro Espinho",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_9464",
+          "heat_id": "heat_6443",
           "round_name": "Round 2 - Heat 7",
           "position": 3,
           "total_score": 3.76,

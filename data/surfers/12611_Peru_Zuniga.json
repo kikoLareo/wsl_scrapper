@@ -2,7 +2,7 @@
   "surfer_id": "12611",
   "name": "Peru Zuniga",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4937",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_77746",
+          "heat_id": "heat_261",
           "round_name": "Round of 120 - Heat 3",
           "position": 3,
           "total_score": 6.4,
@@ -38,7 +38,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14619",
+          "heat_id": "heat_23260",
           "round_name": "Quarterfinals - Heat 2",
           "position": 3,
           "total_score": 11.27,
@@ -53,7 +53,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_79927",
+          "heat_id": "heat_37189",
           "round_name": "Round of 32 - Heat 1",
           "position": 2,
           "total_score": 11.84,
@@ -69,7 +69,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_47399",
+          "heat_id": "heat_24636",
           "round_name": "Round of 48 - Heat 1",
           "position": 1,
           "total_score": 10.57,
@@ -84,7 +84,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30054",
+          "heat_id": "heat_24568",
           "round_name": "Round of 64 - Heat 1",
           "position": 1,
           "total_score": 11.23,
@@ -112,7 +112,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_63706",
+          "heat_id": "heat_16713",
           "round_name": "Round of 32 - Heat 7",
           "position": 3,
           "total_score": 6.67,
@@ -127,7 +127,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_45015",
+          "heat_id": "heat_74841",
           "round_name": "Round of 48 - Heat 8",
           "position": 2,
           "total_score": 10.37,
@@ -145,7 +145,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_7398",
+          "heat_id": "heat_6504",
           "round_name": "Round of 64 - Heat 7",
           "position": 2,
           "total_score": 8.73,

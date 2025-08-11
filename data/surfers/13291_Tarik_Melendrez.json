@@ -2,7 +2,7 @@
   "surfer_id": "13291",
   "name": "Tarik Melendrez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3735",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_53098",
+          "heat_id": "heat_94026",
           "round_name": "Round of 96 - Heat 5",
           "position": 3,
           "total_score": 8.26,
@@ -41,7 +41,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86782",
+          "heat_id": "heat_70978",
           "round_name": "Round of 96 - Heat 8",
           "position": 3,
           "total_score": 8.17,
@@ -55,7 +55,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_20883",
+          "heat_id": "heat_78770",
           "round_name": "Round of 128 - Heat 8",
           "position": 1,
           "total_score": 8.04,

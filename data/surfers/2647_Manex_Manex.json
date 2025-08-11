@@ -2,7 +2,7 @@
   "surfer_id": "2647",
   "name": "Manex Manex",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "551",
       "event_name": "Sooruz Royan Atlantique Pro Junior",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 10.46,
@@ -46,7 +46,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 3,
           "total_score": 6.84,

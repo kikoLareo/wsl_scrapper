@@ -2,7 +2,7 @@
   "surfer_id": "15449",
   "name": "Danel Lajas",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4335",
       "event_name": "Caraïbos Lacanau Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_25610",
+          "heat_id": "heat_21928",
           "round_name": "Round of 96 - Heat 2",
           "position": 3,
           "total_score": 8.1,
@@ -22,7 +22,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_87352",
+          "heat_id": "heat_19514",
           "round_name": "Round of 128 - Heat 1",
           "position": 2,
           "total_score": 6.96,
@@ -48,7 +48,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_99878",
+          "heat_id": "heat_822",
           "round_name": "Round of 96 - Heat 10",
           "position": 3,
           "total_score": 8.8,
@@ -64,7 +64,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_87224",
+          "heat_id": "heat_44271",
           "round_name": "Round of 128 - Heat 9",
           "position": 2,
           "total_score": 10.67,
@@ -89,7 +89,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_4828",
+          "heat_id": "heat_52150",
           "round_name": "Round of 128 - Heat 6",
           "position": 4,
           "total_score": 8.97,
@@ -109,14 +109,14 @@
     {
       "event_id": "4349",
       "event_name": "E.Leclerc Pont-l'Abbé Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbé Junior Pro La Torche",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_83680",
+          "heat_id": "heat_28771",
           "round_name": "Round of 96 - Heat 11",
           "position": 4,
           "total_score": 4.2,
@@ -133,14 +133,14 @@
     {
       "event_id": "4352",
       "event_name": "Cabreiroá Junior Pro Razo-Caión",
-      "location": "Unknown",
+      "location": "Caión",
       "tour_type": "MJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30054",
+          "heat_id": "heat_24568",
           "round_name": "Round of 64 - Heat 1",
           "position": 4,
           "total_score": 6.5,
@@ -157,7 +157,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_25610",
+          "heat_id": "heat_21928",
           "round_name": "Round of 96 - Heat 2",
           "position": 2,
           "total_score": 9.1,

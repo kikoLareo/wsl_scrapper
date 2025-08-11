@@ -2,7 +2,7 @@
   "surfer_id": "15987",
   "name": "Jose Luis Diaz Leira",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3735",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_38310",
+          "heat_id": "heat_50778",
           "round_name": "Round of 96 - Heat 16",
           "position": 4,
           "total_score": 4.36,

@@ -2,7 +2,7 @@
   "surfer_id": "13968",
   "name": "Manuel Fernandez Lopez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4633",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_26884",
+          "heat_id": "heat_47844",
           "round_name": "Round of 64 - Heat 9",
           "position": 3,
           "total_score": 6.76,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_23716",
+          "heat_id": "heat_32725",
           "round_name": "Round of 32 - Heat 5",
           "position": 3,
           "total_score": 10.43,
@@ -58,7 +58,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_26884",
+          "heat_id": "heat_47844",
           "round_name": "Round of 64 - Heat 9",
           "position": 1,
           "total_score": 11.17,

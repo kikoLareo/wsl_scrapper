@@ -2,7 +2,7 @@
   "surfer_id": "2646",
   "name": "Natxo Gonzalez",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2679",
       "event_name": "Pro Zarautz pres. by Oakley",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_51876",
+          "heat_id": "heat_85761",
           "round_name": "Round 4 - Heat 7",
           "position": 3,
           "total_score": 10.17,
@@ -28,7 +28,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_49944",
+          "heat_id": "heat_75697",
           "round_name": "Round 3 - Heat 16",
           "position": 2,
           "total_score": 14.16,
@@ -42,7 +42,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_29063",
+          "heat_id": "heat_81186",
           "round_name": "Round 2 - Heat 15",
           "position": 2,
           "total_score": 9.33,
@@ -136,7 +136,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 3,
           "total_score": 8.6,
@@ -154,7 +154,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58739",
+          "heat_id": "heat_67232",
           "round_name": "Semifinals",
           "position": 2,
           "total_score": 7.3,
@@ -168,7 +168,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 1,
           "total_score": 11.0,
@@ -180,7 +180,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 15.15,
@@ -193,7 +193,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 1,
           "total_score": 10.25,
@@ -217,7 +217,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 2,
           "total_score": 14.47,
@@ -230,7 +230,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58739",
+          "heat_id": "heat_67232",
           "round_name": "Semifinals",
           "position": 1,
           "total_score": 16.6,
@@ -245,7 +245,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 1,
           "total_score": 14.0,
@@ -259,7 +259,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 2,
           "total_score": 8.84,
@@ -275,7 +275,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 17.06,
@@ -291,7 +291,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 11.23,
@@ -316,7 +316,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 1,
           "total_score": 12.9,
@@ -332,7 +332,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58739",
+          "heat_id": "heat_67232",
           "round_name": "Semifinals",
           "position": 1,
           "total_score": 14.83,
@@ -347,7 +347,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 1,
           "total_score": 14.5,
@@ -362,7 +362,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 1,
           "total_score": 13.77,
@@ -378,7 +378,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 13.2,
@@ -393,7 +393,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 16.76,
@@ -418,7 +418,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_87673",
+          "heat_id": "heat_60675",
           "round_name": "Round 5",
           "position": 4,
           "total_score": 9.6,
@@ -434,7 +434,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 2,
           "total_score": 8.17,
@@ -448,7 +448,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 12.0,
@@ -475,7 +475,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 3,
           "total_score": 7.67,
@@ -490,7 +490,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 12.87,
@@ -518,7 +518,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 13.5,
@@ -533,7 +533,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 14.0,

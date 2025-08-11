@@ -2,7 +2,7 @@
   "surfer_id": "15869",
   "name": "Ibone Gomez",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4344",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_24684",
+          "heat_id": "heat_79010",
           "round_name": "Round of 56 - Heat 2",
           "position": 3,
           "total_score": 7.23,
@@ -44,7 +44,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_14619",
+          "heat_id": "heat_23260",
           "round_name": "Quarterfinals - Heat 2",
           "position": 3,
           "total_score": 7.6,
@@ -60,7 +60,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_79927",
+          "heat_id": "heat_37189",
           "round_name": "Round of 32 - Heat 1",
           "position": 2,
           "total_score": 9.77,
@@ -87,7 +87,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 3,
           "total_score": 7.66,

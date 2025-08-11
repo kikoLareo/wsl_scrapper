@@ -2,7 +2,7 @@
   "surfer_id": "7379",
   "name": "Sara Urresti",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3736",
       "event_name": "ABANCA Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81191",
+          "heat_id": "heat_51270",
           "round_name": "Round of 48 - Heat 7",
           "position": 4,
           "total_score": 7.07,
@@ -41,7 +41,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_60122",
+          "heat_id": "heat_17430",
           "round_name": "Round 3 - Heat 3",
           "position": 4,
           "total_score": 4.57,
@@ -55,7 +55,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_45769",
+          "heat_id": "heat_97484",
           "round_name": "Round 2 - Heat 8",
           "position": 2,
           "total_score": 7.54,
@@ -80,7 +80,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8992",
+          "heat_id": "heat_38678",
           "round_name": "Quarterfinals - Heat 3",
           "position": 2,
           "total_score": 9.1,
@@ -96,7 +96,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_67746",
+          "heat_id": "heat_80303",
           "round_name": "Round 3 - Heat 4",
           "position": 2,
           "total_score": 8.37,
@@ -108,7 +108,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_86987",
+          "heat_id": "heat_8839",
           "round_name": "Round 2 - Heat 6",
           "position": 2,
           "total_score": 5.73,
@@ -122,7 +122,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_40054",
+          "heat_id": "heat_95280",
           "round_name": "Round 1 - Heat 5",
           "position": 2,
           "total_score": 5.93,
@@ -139,14 +139,14 @@
     {
       "event_id": "3026",
       "event_name": "E.Leclerc Pont-l'Abbe Junior Pro La Torche",
-      "location": "Unknown",
+      "location": "l'Abbe Junior Pro La Torche",
       "tour_type": "WJUN",
       "start_date": null,
       "final_position": null,
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40654",
+          "heat_id": "heat_8095",
           "round_name": "Round 3 - Heat 1",
           "position": 3,
           "total_score": 5.06,
@@ -160,7 +160,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_54833",
+          "heat_id": "heat_96673",
           "round_name": "Round 2 - Heat 2",
           "position": 1,
           "total_score": 9.4,
@@ -186,7 +186,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_38176",
+          "heat_id": "heat_94161",
           "round_name": "Round 1 - Heat 1",
           "position": 3,
           "total_score": 6.5,
@@ -211,7 +211,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_86987",
+          "heat_id": "heat_8839",
           "round_name": "Round 2 - Heat 6",
           "position": 4,
           "total_score": 6.47,
@@ -236,7 +236,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58960",
+          "heat_id": "heat_41672",
           "round_name": "Round 1 - Heat 3",
           "position": 3,
           "total_score": 7.7,

@@ -2,7 +2,7 @@
   "surfer_id": "10487",
   "name": "Janire Gonzalez Etxabarri",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4890",
       "event_name": "Burton Automotive Newcastle Surfest presented by Bonsoy",
@@ -115,7 +115,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 2,
           "total_score": 5.33,
@@ -130,7 +130,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_21514",
+          "heat_id": "heat_49558",
           "round_name": "Semifinals - Heat 1",
           "position": 1,
           "total_score": 13.37,
@@ -146,7 +146,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_14619",
+          "heat_id": "heat_23260",
           "round_name": "Quarterfinals - Heat 2",
           "position": 1,
           "total_score": 13.0,
@@ -162,7 +162,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_88058",
+          "heat_id": "heat_43298",
           "round_name": "Round of 16 - Heat 2",
           "position": 1,
           "total_score": 12.5,
@@ -177,7 +177,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 1,
           "total_score": 13.83,
@@ -206,7 +206,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_58232",
+          "heat_id": "heat_48795",
           "round_name": "Quarterfinals - Heat 1",
           "position": 2,
           "total_score": 8.33,
@@ -223,7 +223,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9617",
+          "heat_id": "heat_38809",
           "round_name": "Round of 16 - Heat 1",
           "position": 1,
           "total_score": 9.8,
@@ -241,7 +241,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_3102",
+          "heat_id": "heat_85585",
           "round_name": "Round of 32 - Heat 3",
           "position": 2,
           "total_score": 10.3,
@@ -267,7 +267,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_92125",
+          "heat_id": "heat_51457",
           "round_name": "Final",
           "position": 2,
           "total_score": 8.9,
@@ -286,7 +286,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_21514",
+          "heat_id": "heat_49558",
           "round_name": "Semifinals - Heat 1",
           "position": 1,
           "total_score": 12.73,
@@ -305,7 +305,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_58232",
+          "heat_id": "heat_48795",
           "round_name": "Quarterfinals - Heat 1",
           "position": 1,
           "total_score": 15.34,
@@ -321,7 +321,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_9617",
+          "heat_id": "heat_38809",
           "round_name": "Round of 16 - Heat 1",
           "position": 1,
           "total_score": 10.33,
@@ -337,7 +337,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_23155",
+          "heat_id": "heat_15093",
           "round_name": "Round of 32 - Heat 2",
           "position": 1,
           "total_score": 14.5,
@@ -365,7 +365,57 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_81658",
+          "heat_id": "heat_51457",
+          "round_name": "Final",
+          "position": 2,
+          "total_score": 15.17,
+          "wave_scores": [
+            7.0,
+            5.23,
+            8.17,
+            3.23,
+            0.5,
+            5.83
+          ],
+          "advanced": false,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_49558",
+          "round_name": "Semifinals - Heat 1",
+          "position": 2,
+          "total_score": 11.97,
+          "wave_scores": [
+            1.0,
+            2.67,
+            5.5,
+            2.07,
+            3.23,
+            6.47,
+            3.23
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_23260",
+          "round_name": "Quarterfinals - Heat 2",
+          "position": 1,
+          "total_score": 14.6,
+          "wave_scores": [
+            0.97,
+            1.73,
+            7.67,
+            6.93,
+            1.27,
+            2.63,
+            5.07
+          ],
+          "advanced": true,
+          "heat_date": null
+        },
+        {
+          "heat_id": "heat_22133",
           "round_name": "Round of 32 - Heat 4",
           "position": 1,
           "total_score": 13.67,
@@ -391,7 +441,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54741",
+          "heat_id": "heat_11817",
           "round_name": "Quarterfinals - Heat 4",
           "position": 2,
           "total_score": 1.37,
@@ -402,7 +452,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_68007",
+          "heat_id": "heat_31260",
           "round_name": "Round of 16 - Heat 3",
           "position": 2,
           "total_score": 10.1,

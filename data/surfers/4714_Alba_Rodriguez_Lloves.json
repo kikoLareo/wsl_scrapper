@@ -2,7 +2,7 @@
   "surfer_id": "4714",
   "name": "Alba Rodriguez Lloves",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "1279",
       "event_name": "Pantin Classic Galicia Pro",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 2.77,
@@ -41,7 +41,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 4,
           "total_score": 1.37,

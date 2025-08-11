@@ -2,7 +2,7 @@
   "surfer_id": "2508",
   "name": "Imanol Yeregi",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "3010",
       "event_name": "Cabreiroá Pro Zarautz Basque Country",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_54361",
+          "heat_id": "heat_13351",
           "round_name": "Round 3 - Heat 13",
           "position": 4,
           "total_score": 8.84,
@@ -39,7 +39,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 3,
           "total_score": 8.56,
@@ -55,7 +55,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 13.16,
@@ -70,7 +70,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 15.17,
@@ -95,7 +95,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_87673",
+          "heat_id": "heat_60675",
           "round_name": "Round 5",
           "position": 3,
           "total_score": 11.67,
@@ -111,7 +111,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 2,
           "total_score": 11.0,
@@ -123,7 +123,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 9.9,
@@ -148,7 +148,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 3,
           "total_score": 11.67,

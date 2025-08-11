@@ -2,7 +2,7 @@
   "surfer_id": "17468",
   "name": "Paula Liria",
   "country": "Canary Islands",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4573",
       "event_name": "Morocco Mall Junior Pro Casablanca",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_60639",
+          "heat_id": "heat_46727",
           "round_name": "Round of 40 - Heat 3",
           "position": 3,
           "total_score": 4.2,

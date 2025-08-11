@@ -2,7 +2,7 @@
   "surfer_id": "17484",
   "name": "Oxel Oregi Cortes",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "4281",
       "event_name": "Morocco Mall Junior Pro Casablanca",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_40630",
+          "heat_id": "heat_4523",
           "round_name": "Round of 96 - Heat 4",
           "position": 3,
           "total_score": 6.8,
@@ -30,7 +30,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_87134",
+          "heat_id": "heat_114",
           "round_name": "Round of 128 - Heat 3",
           "position": 2,
           "total_score": 10.77,

@@ -2,7 +2,7 @@
   "surfer_id": "4470",
   "name": "Mirko Ivan Manduca",
   "country": "Spain",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2608",
       "event_name": "Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_74874",
+          "heat_id": "heat_91165",
           "round_name": "Round 1 - Heat 15",
           "position": 3,
           "total_score": 9.63,
@@ -43,7 +43,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 3,
           "total_score": 7.24,

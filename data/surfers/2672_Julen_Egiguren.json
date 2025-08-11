@@ -2,7 +2,7 @@
   "surfer_id": "2672",
   "name": "Julen Egiguren",
   "country": "Basque Country",
-  "events_2025": [
+  "events": [
     {
       "event_id": "2942",
       "event_name": "Cabreiroá Las Americas Pro Tenerife",
@@ -13,7 +13,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_27311",
+          "heat_id": "heat_1098",
           "round_name": "Round 4 - Heat 4",
           "position": 4,
           "total_score": 8.2,
@@ -26,7 +26,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_49408",
+          "heat_id": "heat_42682",
           "round_name": "Round 3 - Heat 6",
           "position": 2,
           "total_score": 8.0,
@@ -52,7 +52,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_28747",
+          "heat_id": "heat_66218",
           "round_name": "Round 4 - Heat 1",
           "position": 4,
           "total_score": 8.97,
@@ -68,7 +68,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_67746",
+          "heat_id": "heat_80303",
           "round_name": "Round 3 - Heat 4",
           "position": 2,
           "total_score": 8.1,
@@ -98,7 +98,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 8.6,
@@ -115,7 +115,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 11.56,
@@ -146,7 +146,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 4,
           "total_score": 7.7,
@@ -174,7 +174,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_8373",
+          "heat_id": "heat_32814",
           "round_name": "Quarterfinals",
           "position": 2,
           "total_score": 10.73,
@@ -195,7 +195,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_87673",
+          "heat_id": "heat_60675",
           "round_name": "Round 5",
           "position": 2,
           "total_score": 11.17,
@@ -210,7 +210,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_6552",
+          "heat_id": "heat_23579",
           "round_name": "Round 4",
           "position": 2,
           "total_score": 11.6,
@@ -224,7 +224,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 1,
           "total_score": 11.0,
@@ -242,7 +242,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 2,
           "total_score": 13.0,
@@ -254,7 +254,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_849",
+          "heat_id": "heat_94619",
           "round_name": "Round 1",
           "position": 2,
           "total_score": 12.14,
@@ -280,7 +280,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 4,
           "total_score": 8.9,
@@ -309,7 +309,7 @@
       "points_earned": null,
       "heats": [
         {
-          "heat_id": "heat_64921",
+          "heat_id": "heat_310",
           "round_name": "Round 3",
           "position": 2,
           "total_score": 14.17,
@@ -327,7 +327,7 @@
           "heat_date": null
         },
         {
-          "heat_id": "heat_30301",
+          "heat_id": "heat_27266",
           "round_name": "Round 2",
           "position": 1,
           "total_score": 11.5,
